@@ -1,0 +1,51 @@
+id,ts,key,value,beauty_salon_id
+318,2023-10-09 05:41:04,Wheelchair Accessible,Yes,49
+319,2023-10-09 05:41:04,By Appointment Only,Yes,49
+3605,2023-10-09 07:19:27,Bike Parking,Yes,392
+3606,2023-10-09 07:19:27,Parking,Street,392
+3607,2023-10-09 07:19:27,Wheelchair Accessible,Yes,392
+3608,2023-10-09 07:19:27,By Appointment Only,No,392
+3609,2023-10-09 07:19:27,Price Range,Average,392
+3898,2023-10-09 07:29:31,Parking,"Lot, Private",424
+3899,2023-10-09 07:29:31,Bike Parking,Yes,424
+3900,2023-10-09 07:29:31,Price Range,Average,424
+3901,2023-10-09 07:29:31,By Appointment Only,No,424
+5978,2023-10-09 08:21:05,Price Range,Average,611
+9881,2023-10-09 10:51:20,Parking,"Lot, Private",970
+9882,2023-10-09 10:51:20,Bike Parking,Yes,970
+9883,2023-10-09 10:51:20,Wheelchair Accessible,Yes,970
+9884,2023-10-09 10:51:20,By Appointment Only,Yes,970
+9885,2023-10-09 10:51:20,Price Range,Average,970
+10846,2023-10-09 11:21:07,Price Range,Average,1068
+10847,2023-10-09 11:21:07,By Appointment Only,No,1068
+10872,2023-10-09 11:21:39,Parking,"Lot, Private",1071
+10873,2023-10-09 11:21:39,Bike Parking,No,1071
+10874,2023-10-09 11:21:39,Price Range,Below Average,1071
+10875,2023-10-09 11:21:39,By Appointment Only,No,1071
+11281,2023-10-09 11:32:30,Parking,"Lot, Self, On Site, Free",1109
+11282,2023-10-09 11:32:30,Wheelchair Accessible,Yes,1109
+11283,2023-10-09 11:32:30,Price Range,Below Average,1109
+11284,2023-10-09 11:32:30,By Appointment Only,Yes,1109
+11803,2023-10-09 11:55:12,Parking,"Lot, Private",1171
+11804,2023-10-09 11:55:12,Wheelchair Accessible,Yes,1171
+11805,2023-10-09 11:55:12,Price Range,Average,1171
+11806,2023-10-09 11:55:12,By Appointment Only,Yes,1171
+15852,2023-10-09 14:48:41,Price Range,Average,1721
+15853,2023-10-09 14:48:41,Wheelchair Accessible,Yes,1721
+15854,2023-10-09 14:48:41,Parking,"Lot, Private",1721
+15855,2023-10-09 14:48:41,Bike Parking,Yes,1721
+15856,2023-10-09 14:48:41,By Appointment Only,Yes,1721
+15857,2023-10-09 14:48:41,Specialties,"Extensions, Perms, Curly Hair, Coloring, Kids' Hair",1721
+16403,2023-10-09 15:09:48,Price Range,Average,1807
+16404,2023-10-09 15:09:48,Wheelchair Accessible,Yes,1807
+16405,2023-10-09 15:09:48,Bike Parking,Yes,1807
+16406,2023-10-09 15:09:48,By Appointment Only,Yes,1807
+16775,2023-10-09 15:19:37,Price Range,Below Average,1858
+16776,2023-10-09 15:19:37,By Appointment Only,Yes,1858
+18196,2023-10-09 16:32:03,Parking,"Lot, Private",2063
+18197,2023-10-09 16:32:03,Price Range,Average,2063
+18198,2023-10-09 16:32:03,By Appointment Only,Yes,2063
+22020,2023-10-09 19:09:56,Bike Parking,Yes,2589
+22021,2023-10-09 19:09:56,Wheelchair Accessible,Yes,2589
+22022,2023-10-09 19:09:56,Price Range,Average,2589
+22023,2023-10-09 19:09:56,Parking,"Street, Lot, Self, Private",2589

@@ -1,0 +1,480 @@
+id,ts,city,_yf_slug,_total,_total_worked,state_id
+1,"2023-10-05 03:29:49",Birmingham,/birmingham-al/beauty-salons,899,0,1
+2,"2023-10-05 06:12:32",Montgomery,/montgomery-al/beauty-salons,526,0,1
+3,"2023-10-05 06:14:06",Mobile,/mobile-al/beauty-salons,602,0,1
+4,"2023-10-05 06:15:38",Huntsville,/huntsville-al/beauty-salons,483,0,1
+5,"2023-10-05 06:15:54",Tuscaloosa,/tuscaloosa-al/beauty-salons,259,0,1
+6,"2023-10-05 06:16:02",Hoover,/hoover-al/beauty-salons,974,0,1
+7,"2023-10-05 06:16:20",Anchorage,/anchorage-ak/beauty-salons,378,0,2
+8,"2023-10-05 06:16:30",Phoenix,/phoenix-az/beauty-salons,2089,0,3
+9,"2023-10-05 06:16:37",Tucson,/tucson-az/beauty-salons,766,0,3
+10,"2023-10-05 06:16:47",Mesa,/mesa-az/beauty-salons,2392,0,3
+11,"2023-10-05 06:16:53",Chandler,/chandler-az/beauty-salons,1822,0,3
+12,"2023-10-05 06:17:00",Glendale,/glendale-az/beauty-salons,2461,0,3
+13,"2023-10-05 06:17:17",Scottsdale,/scottsdale-az/beauty-salons,2575,0,3
+14,"2023-10-05 06:17:34",Gilbert,/gilbert-az/beauty-salons,1875,0,3
+15,"2023-10-05 06:17:49",Tempe,/tempe-az/beauty-salons,2718,0,3
+16,"2023-10-05 06:18:04",Peoria,/peoria-az/beauty-salons,1796,0,3
+17,"2023-10-05 06:18:18",Surprise,/surprise-az/beauty-salons,1287,0,3
+18,"2023-10-05 06:18:36",Yuma,/yuma-az/beauty-salons,119,0,3
+19,"2023-10-05 06:18:46",Avondale,/avondale-az/beauty-salons,936,0,3
+20,"2023-10-05 06:20:23","Little Rock",/little-rock-ar/beauty-salons,692,0,4
+21,"2023-10-05 06:20:41","Fort Smith",/fort-smith-ar/beauty-salons,230,0,4
+22,"2023-10-05 06:20:57",Fayetteville,/fayetteville-ar/beauty-salons,236,0,4
+23,"2023-10-05 06:21:24",Springdale,/springdale-ar/beauty-salons,367,0,4
+24,"2023-10-05 06:21:36",Jonesboro,/jonesboro-ar/beauty-salons,113,0,4
+25,"2023-10-05 06:21:48","Los Angeles",/los-angeles-ca/beauty-salons,3030,0,5
+26,"2023-10-05 06:23:13","San Diego",/san-diego-ca/beauty-salons,2970,0,5
+27,"2023-10-05 06:23:24","San Jose",/san-jose-ca/beauty-salons,2169,0,5
+28,"2023-10-05 06:23:38","San Francisco",/san-francisco-ca/beauty-salons,1735,0,5
+29,"2023-10-05 06:23:52",Fresno,/fresno-ca/beauty-salons,897,0,5
+30,"2023-10-05 06:23:58",Sacramento,/sacramento-ca/beauty-salons,1398,0,5
+31,"2023-10-05 06:25:48","Long Beach",/long-beach-ca/beauty-salons,2989,0,5
+32,"2023-10-05 06:27:28",Oakland,/oakland-ca/beauty-salons,2531,0,5
+33,"2023-10-05 06:30:15",Bakersfield,/bakersfield-ca/beauty-salons,479,0,5
+34,"2023-10-05 06:31:47",Anaheim,/anaheim-ca/beauty-salons,3030,0,5
+35,"2023-10-05 06:31:58","Santa Ana",/santa-ana-ca/beauty-salons,3030,0,5
+36,"2023-10-05 06:32:22",Riverside,/riverside-ca/beauty-salons,1804,0,5
+37,"2023-10-05 06:32:38",Stockton,/stockton-ca/beauty-salons,607,0,5
+38,"2023-10-05 06:32:55","Chula Vista",/chula-vista-ca/beauty-salons,2304,0,5
+39,"2023-10-05 06:33:02",Fremont,/fremont-ca/beauty-salons,2307,0,5
+40,"2023-10-05 06:33:19",Irvine,/irvine-ca/beauty-salons,2602,0,5
+41,"2023-10-05 06:33:37","San Bernardino",/san-bernardino-ca/beauty-salons,1451,0,5
+42,"2023-10-05 06:33:51",Modesto,/modesto-ca/beauty-salons,547,0,5
+43,"2023-10-05 06:34:00",Oxnard,/oxnard-ca/beauty-salons,632,0,5
+44,"2023-10-05 06:34:16",Fontana,/fontana-ca/beauty-salons,1951,0,5
+45,"2023-10-05 06:34:30","Moreno Valley",/moreno-valley-ca/beauty-salons,1292,0,5
+46,"2023-10-05 06:34:47",Glendale,/glendale-ca/beauty-salons,3030,0,5
+47,"2023-10-05 06:35:04","Huntington Beach",/huntington-beach-ca/beauty-salons,3030,0,5
+48,"2023-10-05 06:35:15","Santa Clarita",/santa-clarita-ca/beauty-salons,1407,0,5
+49,"2023-10-05 06:35:28","Garden Grove",/garden-grove-ca/beauty-salons,3030,0,5
+50,"2023-10-05 06:35:42","Santa Rosa",/santa-rosa-ca/beauty-salons,627,0,5
+51,"2023-10-05 06:35:55",Oceanside,/oceanside-ca/beauty-salons,861,0,5
+52,"2023-10-05 06:36:08","Rancho Cucamonga",/rancho-cucamonga-ca/beauty-salons,1722,0,5
+53,"2023-10-05 06:36:47",Ontario,/ontario-ca/beauty-salons,1528,0,5
+54,"2023-10-05 06:36:55",Lancaster,/lancaster-ca/beauty-salons,309,0,5
+55,"2023-10-05 06:37:06","Elk Grove",/elk-grove-ca/beauty-salons,1364,0,5
+56,"2023-10-05 06:37:19",Palmdale,/palmdale-ca/beauty-salons,312,0,5
+57,"2023-10-05 06:37:35",Corona,/corona-ca/beauty-salons,1692,0,5
+58,"2023-10-05 06:38:19",Salinas,/salinas-ca/beauty-salons,368,0,5
+59,"2023-10-05 06:38:32",Pomona,/pomona-ca/beauty-salons,2646,0,5
+60,"2023-10-05 06:38:39",Torrance,/torrance-ca/beauty-salons,2205,0,5
+61,"2023-10-05 06:38:47",Hayward,/hayward-ca/beauty-salons,2084,0,5
+62,"2023-10-05 06:39:00",Escondido,/escondido-ca/beauty-salons,932,0,5
+63,"2023-10-05 06:39:12",Sunnyvale,/sunnyvale-ca/beauty-salons,2590,0,5
+64,"2023-10-05 06:39:19",Pasadena,/pasadena-ca/beauty-salons,3030,0,5
+65,"2023-10-05 06:39:26",Orange,/orange-ca/beauty-salons,3030,0,5
+66,"2023-10-05 06:39:38",Fullerton,/fullerton-ca/beauty-salons,3030,0,5
+67,"2023-10-05 06:39:44","Thousand Oaks",/thousand-oaks-ca/beauty-salons,1209,0,5
+68,"2023-10-05 06:39:57",Visalia,/visalia-ca/beauty-salons,233,0,5
+69,"2023-10-05 06:40:07","Simi Valley",/simi-valley-ca/beauty-salons,1576,0,5
+70,"2023-10-05 06:41:00",Concord,/concord-ca/beauty-salons,1978,0,5
+71,"2023-10-05 06:41:04",Roseville,/roseville-ca/beauty-salons,1693,0,5
+72,"2023-10-05 06:41:11","Santa Clara",/santa-clara-ca/beauty-salons,2499,0,5
+73,"2023-10-05 06:41:28",Vallejo,/vallejo-ca/beauty-salons,931,0,5
+74,"2023-10-05 06:41:38",Victorville,/victorville-ca/beauty-salons,251,0,5
+75,"2023-10-05 06:42:15","El Monte",/el-monte-ca/beauty-salons,3030,0,5
+76,"2023-10-05 06:42:27",Berkeley,/berkeley-ca/beauty-salons,2564,0,5
+77,"2023-10-05 06:42:39",Downey,/downey-ca/beauty-salons,3030,0,5
+78,"2023-10-05 06:42:47","Costa Mesa",/costa-mesa-ca/beauty-salons,2313,0,5
+79,"2023-10-05 06:42:54",Inglewood,/inglewood-ca/beauty-salons,3030,0,5
+80,"2023-10-05 06:43:38",Ventura,/ventura-ca/beauty-salons,654,0,5
+81,"2023-10-05 06:44:21","West Covina",/west-covina-ca/beauty-salons,3030,0,5
+82,"2023-10-05 06:44:35",Norwalk,/norwalk-ca/beauty-salons,3030,0,5
+83,"2023-10-05 06:44:54",Carlsbad,/carlsbad-ca/beauty-salons,1089,0,5
+84,"2023-10-05 06:45:04",Fairfield,/fairfield-ca/beauty-salons,644,0,5
+85,"2023-10-05 06:45:15",Richmond,/richmond-ca/beauty-salons,3030,0,5
+86,"2023-10-05 06:45:32",Murrieta,/murrieta-ca/beauty-salons,509,0,5
+87,"2023-10-05 06:45:41",Burbank,/burbank-ca/beauty-salons,3030,0,5
+88,"2023-10-05 06:45:59",Antioch,/antioch-ca/beauty-salons,823,0,5
+89,"2023-10-05 06:51:26","Daly City",/daly-city-ca/beauty-salons,2444,0,5
+90,"2023-10-05 06:52:39",Temecula,/temecula-ca/beauty-salons,487,0,5
+91,"2023-10-05 06:54:09","Santa Maria",/santa-maria-ca/beauty-salons,152,0,5
+92,"2023-10-05 06:54:16","El Cajon",/el-cajon-ca/beauty-salons,1738,0,5
+93,"2023-10-05 03:16:01",Rialto,/rialto-ca/beauty-salons,0,0,5
+94,"2023-10-05 06:54:36","San Mateo",/san-mateo-ca/beauty-salons,1105,0,5
+95,"2023-10-05 06:54:50",Compton,/compton-ca/beauty-salons,3030,0,5
+96,"2023-10-05 06:55:02",Clovis,/clovis-ca/beauty-salons,891,0,5
+97,"2023-10-05 06:55:12","South Gate",/south-gate-ca/beauty-salons,3030,0,5
+98,"2023-10-05 06:55:28",Vista,/vista-ca/beauty-salons,1082,0,5
+99,"2023-10-05 06:55:40","Mission Viejo",/mission-viejo-ca/beauty-salons,2369,0,5
+100,"2023-10-05 06:56:00",Vacaville,/vacaville-ca/beauty-salons,366,0,5
+101,"2023-10-05 06:56:16",Carson,/carson-ca/beauty-salons,3030,0,5
+102,"2023-10-05 06:56:27",Hesperia,/hesperia-ca/beauty-salons,273,0,5
+103,"2023-10-05 06:56:39",Redding,/redding-ca/beauty-salons,283,0,5
+104,"2023-10-05 06:58:17","Santa Monica",/santa-monica-ca/beauty-salons,3030,0,5
+105,"2023-10-05 06:58:23",Westminster,/westminster-ca/beauty-salons,3030,0,5
+106,"2023-10-05 07:01:10","Santa Barbara",/santa-barbara-ca/beauty-salons,289,0,5
+107,"2023-10-05 07:01:28",Chico,/chico-ca/beauty-salons,269,0,5
+108,"2023-10-05 07:03:57",Whittier,/whittier-ca/beauty-salons,3030,0,5
+109,"2023-10-05 07:05:42","Newport Beach",/newport-beach-ca/beauty-salons,1937,0,5
+110,"2023-10-05 07:05:53","San Leandro",/san-leandro-ca/beauty-salons,3030,0,5
+111,"2023-10-05 07:05:59",Hawthorne,/hawthorne-ca/beauty-salons,3030,0,5
+112,"2023-10-05 07:06:13","San Marcos",/san-marcos-ca/beauty-salons,1264,0,5
+113,"2023-10-05 07:06:25","Citrus Heights",/citrus-heights-ca/beauty-salons,1819,0,5
+114,"2023-10-05 07:06:38",Alhambra,/alhambra-ca/beauty-salons,3030,0,5
+115,"2023-10-05 07:06:53",Tracy,/tracy-ca/beauty-salons,248,0,5
+116,"2023-10-05 07:07:14",Livermore,/livermore-ca/beauty-salons,842,0,5
+117,"2023-10-05 07:07:21","Buena Park",/buena-park-ca/beauty-salons,3030,0,5
+118,"2023-10-05 07:08:18",Lakewood,/lakewood-ca/beauty-salons,3030,0,5
+119,"2023-10-05 07:08:31",Merced,/merced-ca/beauty-salons,170,0,5
+120,"2023-10-05 07:08:48",Hemet,/hemet-ca/beauty-salons,290,0,5
+121,"2023-10-05 07:09:23",Chino,/chino-ca/beauty-salons,2700,0,5
+122,"2023-10-05 07:09:35",Menifee,/menifee-ca/beauty-salons,497,0,5
+123,"2023-10-05 07:09:44","Lake Forest",/lake-forest-ca/beauty-salons,1395,0,5
+124,"2023-10-05 07:09:49",Napa,/napa-ca/beauty-salons,597,0,5
+125,"2023-10-05 07:10:02",Denver,/denver-co/beauty-salons,1700,0,6
+126,"2023-10-05 07:10:09","Colorado Springs",/colorado-springs-co/beauty-salons,596,0,6
+127,"2023-10-05 07:10:35",Aurora,/aurora-co/beauty-salons,2543,0,6
+128,"2023-10-05 07:10:59","Fort Collins",/fort-collins-co/beauty-salons,394,0,6
+129,"2023-10-05 07:11:06",Lakewood,/lakewood-co/beauty-salons,2702,0,6
+130,"2023-10-05 07:11:26",Thornton,/thornton-co/beauty-salons,2218,0,6
+131,"2023-10-05 07:11:32",Pueblo,/pueblo-co/beauty-salons,177,0,6
+132,"2023-10-05 07:11:41",Arvada,/arvada-co/beauty-salons,2229,0,6
+133,"2023-10-05 07:11:57",Westminster,/westminster-co/beauty-salons,2263,0,6
+134,"2023-10-05 07:12:13",Centennial,/centennial-co/beauty-salons,2197,0,6
+135,"2023-10-05 07:12:37",Boulder,/boulder-co/beauty-salons,432,0,6
+136,"2023-10-05 07:12:53",Greeley,/greeley-co/beauty-salons,219,0,6
+137,"2023-10-05 07:13:01",Longmont,/longmont-co/beauty-salons,490,0,6
+138,"2023-10-05 07:13:15",Loveland,/loveland-co/beauty-salons,478,0,6
+139,"2023-10-05 07:13:25",Bridgeport,/bridgeport-ct/beauty-salons,1007,0,7
+140,"2023-10-05 07:13:38","New Haven",/new-haven-ct/beauty-salons,1167,0,7
+141,"2023-10-05 07:13:57",Hartford,/hartford-ct/beauty-salons,1338,0,7
+142,"2023-10-05 07:14:16",Stamford,/stamford-ct/beauty-salons,779,0,7
+143,"2023-10-05 07:14:33",Waterbury,/waterbury-ct/beauty-salons,924,0,7
+144,"2023-10-05 07:14:42",Norwalk,/norwalk-ct/beauty-salons,982,0,7
+145,"2023-10-05 07:14:55",Danbury,/danbury-ct/beauty-salons,557,0,7
+146,"2023-10-05 07:15:05","New Britain",/new-britain-ct/beauty-salons,1561,0,7
+147,"2023-10-05 07:15:14",Wilmington,/wilmington-de/beauty-salons,750,0,8
+148,"2023-10-05 07:15:44","Washington DC",/washington-dc-dc/beauty-salons,1134,0,9
+149,"2023-10-05 07:16:04",Jacksonville,/jacksonville-fl/beauty-salons,1316,0,10
+150,"2023-10-05 07:16:26",Miami,/miami-fl/beauty-salons,2611,0,10
+151,"2023-10-05 07:16:44",Tampa,/tampa-fl/beauty-salons,1558,0,10
+152,"2023-10-05 07:17:00","St. Petersburg",/st-petersburg-fl/beauty-salons,1052,0,10
+153,"2023-10-05 07:17:18",Orlando,/orlando-fl/beauty-salons,1859,0,10
+154,"2023-10-05 07:17:36",Hialeah,/hialeah-fl/beauty-salons,2996,0,10
+155,"2023-10-05 07:17:52",Tallahassee,/tallahassee-fl/beauty-salons,441,0,10
+156,"2023-10-05 07:18:03","Fort Lauderdale",/fort-lauderdale-fl/beauty-salons,2192,0,10
+157,"2023-10-05 07:18:12","Port St. Lucie",/port-st-lucie-fl/beauty-salons,538,0,10
+158,"2023-10-05 07:18:22","Pembroke Pines",/pembroke-pines-fl/beauty-salons,2672,0,10
+159,"2023-10-05 07:20:07","Cape Coral",/cape-coral-fl/beauty-salons,771,0,10
+160,"2023-10-05 07:22:52",Hollywood,/hollywood-fl/beauty-salons,3030,0,10
+161,"2023-10-05 07:26:05",Gainesville,/gainesville-fl/beauty-salons,277,0,10
+162,"2023-10-05 07:26:50",Miramar,/miramar-fl/beauty-salons,2656,0,10
+163,"2023-10-05 07:27:19","Coral Springs",/coral-springs-fl/beauty-salons,2345,0,10
+164,"2023-10-05 07:28:49",Clearwater,/clearwater-fl/beauty-salons,1263,0,10
+165,"2023-10-05 07:28:55","Miami Gardens",/miami-gardens-fl/beauty-salons,3030,0,10
+166,"2023-10-05 07:29:09","Palm Bay",/palm-bay-fl/beauty-salons,423,0,10
+167,"2023-10-05 07:29:21","West Palm Beach",/west-palm-beach-fl/beauty-salons,1148,0,10
+168,"2023-10-05 07:29:27","Pompano Beach",/pompano-beach-fl/beauty-salons,2282,0,10
+169,"2023-10-05 07:31:41",Lakeland,/lakeland-fl/beauty-salons,483,0,10
+170,"2023-10-05 07:31:54",Davie,/davie-fl/beauty-salons,3030,0,10
+171,"2023-10-05 07:32:11","Miami Beach",/miami-beach-fl/beauty-salons,2729,0,10
+172,"2023-10-05 07:32:24",Deltona,/deltona-fl/beauty-salons,485,0,10
+173,"2023-10-05 07:32:51",Plantation,/plantation-fl/beauty-salons,2987,0,10
+174,"2023-10-05 07:33:02",Sunrise,/sunrise-fl/beauty-salons,2778,0,10
+175,"2023-10-05 07:33:17","Boca Raton",/boca-raton-fl/beauty-salons,1103,0,10
+176,"2023-10-05 07:34:00",Largo,/largo-fl/beauty-salons,1404,0,10
+177,"2023-10-05 07:34:14",Melbourne,/melbourne-fl/beauty-salons,437,0,10
+178,"2023-10-05 07:35:11","Palm Coast",/palm-coast-fl/beauty-salons,143,0,10
+179,"2023-10-05 07:35:52","Deerfield Beach",/deerfield-beach-fl/beauty-salons,1929,0,10
+180,"2023-10-05 07:37:27","Boynton Beach",/boynton-beach-fl/beauty-salons,1535,0,10
+181,"2023-10-05 07:37:42",Lauderhill,/lauderhill-fl/beauty-salons,2778,0,10
+182,"2023-10-05 07:39:10",Atlanta,/atlanta-ga/beauty-salons,3030,0,11
+183,"2023-10-05 07:40:43","Augusta-Richmond County",/augusta-richmond-county-ga/beauty-salons,588,0,11
+184,"2023-10-05 07:41:18",Columbus,/columbus-ga/beauty-salons,391,0,11
+185,"2023-10-05 07:41:26",Savannah,/savannah-ga/beauty-salons,483,0,11
+186,"2023-10-05 07:41:42","Athens-Clarke County",/athens-clarke-county-ga/beauty-salons,247,0,11
+187,"2023-10-05 07:41:55","Sandy Springs",/sandy-springs-ga/beauty-salons,3030,0,11
+188,"2023-10-05 07:42:13",Macon,/macon-ga/beauty-salons,266,0,11
+189,"2023-10-05 07:42:29",Roswell,/roswell-ga/beauty-salons,2741,0,11
+190,"2023-10-05 07:42:34",Albany,/albany-ga/beauty-salons,182,0,11
+191,"2023-10-05 07:42:39","Johns Creek",/johns-creek-ga/beauty-salons,2857,0,11
+192,"2023-10-05 07:42:58","Warner Robins",/warner-robins-ga/beauty-salons,307,0,11
+193,"2023-10-05 07:43:31",Honolulu,/honolulu-hi/beauty-salons,993,0,12
+194,"2023-10-05 07:43:41",Boise,/boise-id/beauty-salons,515,0,13
+195,"2023-10-05 07:43:53",Nampa,/nampa-id/beauty-salons,357,0,13
+196,"2023-10-05 07:44:10",Meridian,/meridian-id/beauty-salons,650,0,13
+197,"2023-10-05 07:44:25",Chicago,/chicago-il/beauty-salons,3030,0,14
+198,"2023-10-05 07:44:42",Aurora,/aurora-il/beauty-salons,1041,0,14
+199,"2023-10-05 07:44:54",Rockford,/rockford-il/beauty-salons,368,0,14
+200,"2023-10-05 07:45:15",Joliet,/joliet-il/beauty-salons,584,0,14
+201,"2023-10-05 07:45:29",Naperville,/naperville-il/beauty-salons,1677,0,14
+202,"2023-10-05 07:45:42",Springfield,/springfield-il/beauty-salons,250,0,14
+203,"2023-10-05 07:45:50",Peoria,/peoria-il/beauty-salons,407,0,14
+204,"2023-10-05 07:46:03",Elgin,/elgin-il/beauty-salons,939,0,14
+205,"2023-10-05 07:46:21",Waukegan,/waukegan-il/beauty-salons,707,0,14
+206,"2023-10-05 07:46:34",Cicero,/cicero-il/beauty-salons,3030,0,14
+207,"2023-10-05 07:46:43",Champaign,/champaign-il/beauty-salons,219,0,14
+208,"2023-10-05 07:47:06",Bloomington,/bloomington-il/beauty-salons,148,0,14
+209,"2023-10-05 07:48:37",Decatur,/decatur-il/beauty-salons,133,0,14
+210,"2023-10-05 07:50:09","Arlington Heights",/arlington-heights-il/beauty-salons,2602,0,14
+211,"2023-10-05 07:51:34",Evanston,/evanston-il/beauty-salons,3030,0,14
+212,"2023-10-05 07:51:48",Schaumburg,/schaumburg-il/beauty-salons,2358,0,14
+213,"2023-10-05 07:52:00",Bolingbrook,/bolingbrook-il/beauty-salons,1823,0,14
+214,"2023-10-05 07:52:12",Palatine,/palatine-il/beauty-salons,1791,0,14
+215,"2023-10-05 07:52:29",Indianapolis,/indianapolis-in/beauty-salons,1209,0,15
+216,"2023-10-05 07:52:41","Fort Wayne",/fort-wayne-in/beauty-salons,370,0,15
+217,"2023-10-05 07:52:56",Evansville,/evansville-in/beauty-salons,296,0,15
+218,"2023-10-05 07:54:27","South Bend",/south-bend-in/beauty-salons,330,0,15
+219,"2023-10-05 07:54:33",Hammond,/hammond-in/beauty-salons,1825,0,15
+220,"2023-10-05 07:54:43",Bloomington,/bloomington-in/beauty-salons,152,0,15
+221,"2023-10-05 07:55:38",Gary,/gary-in/beauty-salons,900,0,15
+222,"2023-10-05 07:57:14",Carmel,/carmel-in/beauty-salons,1133,0,15
+223,"2023-10-05 07:57:27",Fishers,/fishers-in/beauty-salons,1118,0,15
+224,"2023-10-05 07:59:13",Muncie,/muncie-in/beauty-salons,196,0,15
+225,"2023-10-05 07:59:19",Lafayette,/lafayette-in/beauty-salons,154,0,15
+226,"2023-10-05 08:02:15","Des Moines",/des-moines-ia/beauty-salons,530,0,16
+227,"2023-10-05 08:02:23","Cedar Rapids",/cedar-rapids-ia/beauty-salons,278,0,16
+228,"2023-10-05 08:02:36",Davenport,/davenport-ia/beauty-salons,400,0,16
+229,"2023-10-05 08:02:55","Sioux City",/sioux-city-ia/beauty-salons,145,0,16
+230,"2023-10-05 08:03:07",Waterloo,/waterloo-ia/beauty-salons,151,0,16
+231,"2023-10-05 08:03:19","Iowa City",/iowa-city-ia/beauty-salons,190,0,16
+232,"2023-10-05 08:03:31",Wichita,/wichita-ks/beauty-salons,582,0,17
+233,"2023-10-05 08:03:49","Overland Park",/overland-park-ks/beauty-salons,1317,0,17
+234,"2023-10-05 08:04:08","Kansas City",/kansas-city-ks/beauty-salons,1299,0,17
+235,"2023-10-05 08:04:43",Topeka,/topeka-ks/beauty-salons,197,0,17
+236,"2023-10-05 03:16:01",Olathe,/olathe-ks/beauty-salons,0,0,17
+237,"2023-10-05 08:05:35",Lawrence,/lawrence-ks/beauty-salons,150,0,17
+238,"2023-10-05 08:05:49",Louisville,/louisville-ky/beauty-salons,956,0,18
+239,"2023-10-05 08:06:08",Lexington,/lexington-ky/beauty-salons,396,0,18
+240,"2023-10-05 08:06:21","New Orleans",/new-orleans-la/beauty-salons,1031,0,19
+241,"2023-10-05 08:06:40","Baton Rouge",/baton-rouge-la/beauty-salons,753,0,19
+242,"2023-10-05 08:06:56",Shreveport,/shreveport-la/beauty-salons,512,0,19
+243,"2023-10-05 08:07:10",Lafayette,/lafayette-la/beauty-salons,488,0,19
+244,"2023-10-05 08:07:38","Lake Charles",/lake-charles-la/beauty-salons,249,0,19
+245,"2023-10-05 08:08:19",Kenner,/kenner-la/beauty-salons,949,0,19
+246,"2023-10-05 08:08:29",Portland,/portland-me/beauty-salons,363,0,20
+247,"2023-10-05 08:08:48",Baltimore,/baltimore-md/beauty-salons,1634,0,21
+248,"2023-10-05 08:08:59",Boston,/boston-ma/beauty-salons,1889,0,22
+249,"2023-10-05 08:09:13",Worcester,/worcester-ma/beauty-salons,741,0,22
+250,"2023-10-05 08:10:24",Springfield,/springfield-ma/beauty-salons,724,0,22
+251,"2023-10-05 08:10:55",Lowell,/lowell-ma/beauty-salons,1482,0,22
+252,"2023-10-05 08:11:05",Cambridge,/cambridge-ma/beauty-salons,2972,0,22
+253,"2023-10-05 08:11:19","New Bedford",/new-bedford-ma/beauty-salons,527,0,22
+254,"2023-10-05 08:11:32",Brockton,/brockton-ma/beauty-salons,1299,0,22
+255,"2023-10-05 08:11:43",Quincy,/quincy-ma/beauty-salons,3030,0,22
+256,"2023-10-05 08:11:56",Lynn,/lynn-ma/beauty-salons,3014,0,22
+257,"2023-10-05 08:12:14","Fall River",/fall-river-ma/beauty-salons,1287,0,22
+258,"2023-10-05 08:12:17",Newton,/newton-ma/beauty-salons,3030,0,22
+259,"2023-10-05 08:12:32",Lawrence,/lawrence-ma/beauty-salons,1486,0,22
+260,"2023-10-05 08:12:46",Somerville,/somerville-ma/beauty-salons,3030,0,22
+261,"2023-10-05 08:12:59",Detroit,/detroit-mi/beauty-salons,1964,0,23
+262,"2023-10-05 08:13:25","Grand Rapids",/grand-rapids-mi/beauty-salons,639,0,23
+263,"2023-10-05 08:14:01",Warren,/warren-mi/beauty-salons,2535,0,23
+264,"2023-10-05 08:14:08","Sterling Heights",/sterling-heights-mi/beauty-salons,2334,0,23
+265,"2023-10-05 08:14:18",Lansing,/lansing-mi/beauty-salons,325,0,23
+266,"2023-10-05 08:14:29","Ann Arbor",/ann-arbor-mi/beauty-salons,507,0,23
+267,"2023-10-05 08:14:41",Flint,/flint-mi/beauty-salons,459,0,23
+268,"2023-10-05 08:14:52",Dearborn,/dearborn-mi/beauty-salons,2449,0,23
+269,"2023-10-05 08:15:04",Livonia,/livonia-mi/beauty-salons,2352,0,23
+270,"2023-10-05 08:15:14",Westland,/westland-mi/beauty-salons,1931,0,23
+271,"2023-10-05 08:15:46",Troy,/troy-mi/beauty-salons,2403,0,23
+272,"2023-10-05 08:16:00","Farmington Hills",/farmington-hills-mi/beauty-salons,2484,0,23
+273,"2023-10-05 08:16:16",Kalamazoo,/kalamazoo-mi/beauty-salons,329,0,23
+274,"2023-10-05 08:16:41",Wyoming,/wyoming-mi/beauty-salons,628,0,23
+275,"2023-10-05 08:16:51",Southfield,/southfield-mi/beauty-salons,2544,0,23
+276,"2023-10-05 08:17:05","Rochester Hills",/rochester-hills-mi/beauty-salons,1828,0,23
+277,"2023-10-05 08:17:15",Minneapolis,/minneapolis-mn/beauty-salons,1665,0,24
+278,"2023-10-05 08:17:28","St. Paul",/st-paul-mn/beauty-salons,1488,0,24
+279,"2023-10-05 08:17:39",Rochester,/rochester-mn/beauty-salons,192,0,24
+280,"2023-10-05 08:17:53",Duluth,/duluth-mn/beauty-salons,145,0,24
+281,"2023-10-05 08:18:06",Bloomington,/bloomington-mn/beauty-salons,1717,0,24
+282,"2023-10-05 08:18:26","Brooklyn Park",/brooklyn-park-mn/beauty-salons,1514,0,24
+283,"2023-10-05 08:18:39",Plymouth,/plymouth-mn/beauty-salons,1598,0,24
+284,"2023-10-05 08:18:52",Jackson,/jackson-ms/beauty-salons,528,0,25
+285,"2023-10-05 08:20:18",Gulfport,/gulfport-ms/beauty-salons,301,0,25
+286,"2023-10-05 08:21:19","Kansas City",/kansas-city-mo/beauty-salons,1164,0,26
+287,"2023-10-05 08:21:29","St. Louis",/st-louis-mo/beauty-salons,1655,0,26
+288,"2023-10-05 08:21:38",Springfield,/springfield-mo/beauty-salons,459,0,26
+289,"2023-10-05 08:21:45",Independence,/independence-mo/beauty-salons,1043,0,26
+290,"2023-10-05 08:22:13",Columbia,/columbia-mo/beauty-salons,202,0,26
+291,"2023-10-05 08:22:30","Lee's Summit",/lees-summit-mo/beauty-salons,919,0,26
+292,"2023-10-05 08:22:42",O'Fallon,/ofallon-mo/beauty-salons,839,0,26
+293,"2023-10-05 08:22:57","St. Joseph",/st-joseph-mo/beauty-salons,106,0,26
+294,"2023-10-05 08:23:07",Billings,/billings-mt/beauty-salons,245,0,27
+295,"2023-10-05 08:23:21",Missoula,/missoula-mt/beauty-salons,155,0,27
+296,"2023-10-05 08:23:33",Omaha,/omaha-ne/beauty-salons,696,0,28
+297,"2023-10-05 08:23:48",Lincoln,/lincoln-ne/beauty-salons,333,0,28
+298,"2023-10-05 08:23:58","Las Vegas",/las-vegas-nv/beauty-salons,2326,0,29
+299,"2023-10-05 08:24:13",Henderson,/henderson-nv/beauty-salons,1382,0,29
+300,"2023-10-05 08:24:24",Reno,/reno-nv/beauty-salons,478,0,29
+301,"2023-10-05 08:24:37","North Las Vegas",/north-las-vegas-nv/beauty-salons,2278,0,29
+302,"2023-10-05 08:24:45",Sparks,/sparks-nv/beauty-salons,476,0,29
+303,"2023-10-05 08:24:52",Manchester,/manchester-nh/beauty-salons,496,0,30
+304,"2023-10-05 08:25:06",Nashua,/nashua-nh/beauty-salons,900,0,30
+305,"2023-10-05 08:25:15",Newark,/newark-nj/beauty-salons,3030,0,31
+306,"2023-10-05 08:25:28","Jersey City",/jersey-city-nj/beauty-salons,3030,0,31
+307,"2023-10-05 08:25:42",Paterson,/paterson-nj/beauty-salons,3030,0,31
+308,"2023-10-05 08:25:56",Elizabeth,/elizabeth-nj/beauty-salons,3030,0,31
+309,"2023-10-05 08:26:04",Trenton,/trenton-nj/beauty-salons,847,0,31
+310,"2023-10-05 08:26:10",Clifton,/clifton-nj/beauty-salons,3030,0,31
+311,"2023-10-05 08:26:23",Camden,/camden-nj/beauty-salons,3030,0,31
+312,"2023-10-05 08:26:31",Passaic,/passaic-nj/beauty-salons,3030,0,31
+313,"2023-10-05 08:26:41","Union City",/union-city-nj/beauty-salons,3030,0,31
+314,"2023-10-05 08:26:53",Albuquerque,/albuquerque-nm/beauty-salons,888,0,32
+315,"2023-10-05 08:27:02","Las Cruces",/las-cruces-nm/beauty-salons,149,0,32
+316,"2023-10-05 08:27:16","Rio Rancho",/rio-rancho-nm/beauty-salons,885,0,32
+317,"2023-10-05 08:27:27","Santa Fe",/santa-fe-nm/beauty-salons,226,0,32
+318,"2023-10-05 08:27:46","New York",/new-york-ny/beauty-salons,3030,0,33
+319,"2023-10-05 08:28:00",Buffalo,/buffalo-ny/beauty-salons,931,0,33
+320,"2023-10-05 08:28:10",Rochester,/rochester-ny/beauty-salons,887,0,33
+321,"2023-10-05 08:28:30",Yonkers,/yonkers-ny/beauty-salons,3030,0,33
+322,"2023-10-05 08:28:45",Syracuse,/syracuse-ny/beauty-salons,510,0,33
+323,"2023-10-05 08:28:50",Albany,/albany-ny/beauty-salons,627,0,33
+324,"2023-10-05 08:29:00","New Rochelle",/new-rochelle-ny/beauty-salons,3030,0,33
+325,"2023-10-05 08:29:07","Mount Vernon",/mount-vernon-ny/beauty-salons,3030,0,33
+326,"2023-10-05 08:29:20",Schenectady,/schenectady-ny/beauty-salons,696,0,33
+327,"2023-10-05 08:29:34",Charlotte,/charlotte-nc/beauty-salons,1585,0,34
+328,"2023-10-05 08:29:44",Raleigh,/raleigh-nc/beauty-salons,1378,0,34
+329,"2023-10-05 08:29:57",Greensboro,/greensboro-nc/beauty-salons,867,0,34
+330,"2023-10-05 08:30:16",Winston-Salem,/winston-salem-nc/beauty-salons,758,0,34
+331,"2023-10-05 08:30:24",Durham,/durham-nc/beauty-salons,657,0,34
+332,"2023-10-05 08:30:40",Fayetteville,/fayetteville-nc/beauty-salons,531,0,34
+333,"2023-10-05 08:30:56",Cary,/cary-nc/beauty-salons,1507,0,34
+334,"2023-10-05 08:31:09",Wilmington,/wilmington-nc/beauty-salons,347,0,34
+335,"2023-10-05 08:31:21","High Point",/high-point-nc/beauty-salons,940,0,34
+336,"2023-10-05 08:31:37",Greenville,/greenville-nc/beauty-salons,235,0,34
+337,"2023-10-05 08:31:49",Asheville,/asheville-nc/beauty-salons,386,0,34
+338,"2023-10-05 08:32:00",Concord,/concord-nc/beauty-salons,692,0,34
+339,"2023-10-05 08:32:09",Gastonia,/gastonia-nc/beauty-salons,384,0,34
+340,"2023-10-05 08:32:22",Jacksonville,/jacksonville-nc/beauty-salons,161,0,34
+341,"2023-10-05 08:32:34",Fargo,/fargo-nd/beauty-salons,270,0,35
+342,"2023-10-05 08:32:43",Columbus,/columbus-oh/beauty-salons,1085,0,36
+343,"2023-10-05 08:33:01",Cleveland,/cleveland-oh/beauty-salons,1060,0,36
+344,"2023-10-05 08:33:21",Cincinnati,/cincinnati-oh/beauty-salons,1291,0,36
+345,"2023-10-05 08:33:35",Toledo,/toledo-oh/beauty-salons,435,0,36
+346,"2023-10-05 08:33:40",Akron,/akron-oh/beauty-salons,777,0,36
+347,"2023-10-05 08:33:51",Dayton,/dayton-oh/beauty-salons,676,0,36
+348,"2023-10-05 08:34:10",Parma,/parma-oh/beauty-salons,1359,0,36
+349,"2023-10-05 08:34:23",Canton,/canton-oh/beauty-salons,363,0,36
+350,"2023-10-05 08:34:34",Youngstown,/youngstown-oh/beauty-salons,479,0,36
+351,"2023-10-05 08:34:49","Oklahoma City",/oklahoma-city-ok/beauty-salons,945,0,37
+352,"2023-10-05 08:34:59",Tulsa,/tulsa-ok/beauty-salons,807,0,37
+353,"2023-10-05 08:35:11",Norman,/norman-ok/beauty-salons,351,0,37
+354,"2023-10-05 08:35:24","Broken Arrow",/broken-arrow-ok/beauty-salons,765,0,37
+355,"2023-10-05 08:35:36",Lawton,/lawton-ok/beauty-salons,134,0,37
+356,"2023-10-05 08:35:51",Edmond,/edmond-ok/beauty-salons,719,0,37
+357,"2023-10-05 08:35:58",Portland,/portland-or/beauty-salons,1765,0,38
+358,"2023-10-05 08:36:04",Eugene,/eugene-or/beauty-salons,313,0,38
+359,"2023-10-05 08:36:15",Salem,/salem-or/beauty-salons,342,0,38
+360,"2023-10-05 08:36:22",Gresham,/gresham-or/beauty-salons,1818,0,38
+361,"2023-10-05 08:36:40",Hillsboro,/hillsboro-or/beauty-salons,728,0,38
+362,"2023-10-05 08:36:46",Beaverton,/beaverton-or/beauty-salons,2074,0,38
+363,"2023-10-05 08:36:57",Bend,/bend-or/beauty-salons,203,0,38
+364,"2023-10-05 08:37:08",Medford,/medford-or/beauty-salons,255,0,38
+365,"2023-10-05 08:37:18",Philadelphia,/philadelphia-pa/beauty-salons,3030,0,39
+366,"2023-10-05 08:37:34",Pittsburgh,/pittsburgh-pa/beauty-salons,1316,0,39
+367,"2023-10-05 08:37:43",Allentown,/allentown-pa/beauty-salons,898,0,39
+368,"2023-10-05 08:37:58",Erie,/erie-pa/beauty-salons,253,0,39
+369,"2023-10-05 08:38:19",Reading,/reading-pa/beauty-salons,531,0,39
+370,"2023-10-05 08:38:32",Scranton,/scranton-pa/beauty-salons,615,0,39
+371,"2023-10-05 08:38:40",Bethlehem,/bethlehem-pa/beauty-salons,969,0,39
+372,"2023-10-05 08:38:55",Providence,/providence-ri/beauty-salons,1356,0,40
+373,"2023-10-05 08:39:07",Warwick,/warwick-ri/beauty-salons,1730,0,40
+374,"2023-10-05 08:39:16",Cranston,/cranston-ri/beauty-salons,1580,0,40
+375,"2023-10-05 08:39:32",Pawtucket,/pawtucket-ri/beauty-salons,1630,0,40
+376,"2023-10-05 08:39:46",Columbia,/columbia-sc/beauty-salons,838,0,41
+377,"2023-10-05 08:39:54",Charleston,/charleston-sc/beauty-salons,651,0,41
+378,"2023-10-05 08:40:06","North Charleston",/north-charleston-sc/beauty-salons,763,0,41
+379,"2023-10-05 08:40:18","Mount Pleasant",/mount-pleasant-sc/beauty-salons,587,0,41
+380,"2023-10-05 08:40:32","Rock Hill",/rock-hill-sc/beauty-salons,450,0,41
+381,"2023-10-05 08:40:43","Sioux Falls",/sioux-falls-sd/beauty-salons,242,0,42
+382,"2023-10-05 08:40:58","Rapid City",/rapid-city-sd/beauty-salons,123,0,42
+383,"2023-10-05 08:41:12",Memphis,/memphis-tn/beauty-salons,1144,0,43
+384,"2023-10-05 08:41:22",Nashville,/nashville-tn/beauty-salons,910,0,43
+385,"2023-10-05 08:41:36",Knoxville,/knoxville-tn/beauty-salons,583,0,43
+386,"2023-10-05 08:41:49",Chattanooga,/chattanooga-tn/beauty-salons,650,0,43
+387,"2023-10-05 08:42:13",Clarksville,/clarksville-tn/beauty-salons,240,0,43
+388,"2023-10-05 08:42:27",Murfreesboro,/murfreesboro-tn/beauty-salons,315,0,43
+389,"2023-10-05 08:42:35",Houston,/houston-tx/beauty-salons,3030,0,44
+390,"2023-10-05 08:42:50","San Antonio",/san-antonio-tx/beauty-salons,1780,0,44
+391,"2023-10-05 08:43:08",Dallas,/dallas-tx/beauty-salons,2032,0,44
+392,"2023-10-05 08:43:23",Austin,/austin-tx/beauty-salons,1430,0,44
+393,"2023-10-05 08:43:54","Fort Worth",/fort-worth-tx/beauty-salons,2003,0,44
+394,"2023-10-05 08:44:01","El Paso",/el-paso-tx/beauty-salons,635,0,44
+395,"2023-10-05 08:44:17",Arlington,/arlington-tx/beauty-salons,2734,0,44
+396,"2023-10-05 08:44:23","Corpus Christi",/corpus-christi-tx/beauty-salons,334,0,44
+397,"2023-10-05 08:44:29",Plano,/plano-tx/beauty-salons,2583,0,44
+398,"2023-10-05 03:16:01",Laredo,/laredo-tx/beauty-salons,0,0,44
+399,"2023-10-05 08:45:45",Lubbock,/lubbock-tx/beauty-salons,299,0,44
+400,"2023-10-05 08:45:59",Garland,/garland-tx/beauty-salons,3030,0,44
+401,"2023-10-05 08:46:24",Irving,/irving-tx/beauty-salons,3030,0,44
+402,"2023-10-05 08:46:35",Amarillo,/amarillo-tx/beauty-salons,265,0,44
+403,"2023-10-05 08:46:50","Grand Prairie",/grand-prairie-tx/beauty-salons,3030,0,44
+404,"2023-10-05 08:47:10",Brownsville,/brownsville-tx/beauty-salons,162,0,44
+405,"2023-10-05 08:47:38",Pasadena,/pasadena-tx/beauty-salons,2386,0,44
+406,"2023-10-05 03:16:01",Mesquite,/mesquite-tx/beauty-salons,0,0,44
+407,"2023-10-05 08:48:23",McKinney,/mckinney-tx/beauty-salons,1068,0,44
+408,"2023-10-05 08:48:41",McAllen,/mcallen-tx/beauty-salons,549,0,44
+409,"2023-10-05 08:51:39",Killeen,/killeen-tx/beauty-salons,307,0,44
+410,"2023-10-05 08:53:18",Waco,/waco-tx/beauty-salons,218,0,44
+411,"2023-10-05 08:53:46",Carrollton,/carrollton-tx/beauty-salons,3030,0,44
+412,"2023-10-05 08:54:02",Beaumont,/beaumont-tx/beauty-salons,376,0,44
+413,"2023-10-05 09:01:10",Abilene,/abilene-tx/beauty-salons,180,0,44
+414,"2023-10-05 09:03:10",Frisco,/frisco-tx/beauty-salons,1981,0,44
+415,"2023-10-05 09:03:46",Denton,/denton-tx/beauty-salons,526,0,44
+416,"2023-10-05 09:04:01",Midland,/midland-tx/beauty-salons,145,0,44
+417,"2023-10-05 09:05:41","Wichita Falls",/wichita-falls-tx/beauty-salons,165,0,44
+418,"2023-10-05 09:05:52",Odessa,/odessa-tx/beauty-salons,125,0,44
+419,"2023-10-05 09:06:10","Round Rock",/round-rock-tx/beauty-salons,1216,0,44
+420,"2023-10-05 09:06:19",Richardson,/richardson-tx/beauty-salons,3030,0,44
+421,"2023-10-05 09:06:33",Tyler,/tyler-tx/beauty-salons,306,0,44
+422,"2023-10-05 09:06:50",Lewisville,/lewisville-tx/beauty-salons,2566,0,44
+423,"2023-10-05 09:06:58","College Station",/college-station-tx/beauty-salons,175,0,44
+424,"2023-10-05 09:07:04","San Angelo",/san-angelo-tx/beauty-salons,98,0,44
+425,"2023-10-05 09:07:29",Pearland,/pearland-tx/beauty-salons,2287,0,44
+426,"2023-10-05 09:07:49",Allen,/allen-tx/beauty-salons,2423,0,44
+427,"2023-10-05 09:08:01","League City",/league-city-tx/beauty-salons,1034,0,44
+428,"2023-10-05 09:08:13",Longview,/longview-tx/beauty-salons,208,0,44
+429,"2023-10-05 09:08:29","Sugar Land",/sugar-land-tx/beauty-salons,3030,0,44
+430,"2023-10-05 09:08:37",Edinburg,/edinburg-tx/beauty-salons,613,0,44
+431,"2023-10-05 09:08:44",Mission,/mission-tx/beauty-salons,523,0,44
+432,"2023-10-05 09:08:51",Bryan,/bryan-tx/beauty-salons,175,0,44
+433,"2023-10-05 09:09:09",Baytown,/baytown-tx/beauty-salons,596,0,44
+434,"2023-10-05 09:09:16",Pharr,/pharr-tx/beauty-salons,546,0,44
+435,"2023-10-05 09:09:32","Missouri City",/missouri-city-tx/beauty-salons,3030,0,44
+436,"2023-10-05 09:09:38","Salt Lake City",/salt-lake-city-ut/beauty-salons,928,0,45
+437,"2023-10-05 09:09:51","West Valley City",/west-valley-city-ut/beauty-salons,1037,0,45
+438,"2023-10-05 09:10:08",Provo,/provo-ut/beauty-salons,321,0,45
+439,"2023-10-05 09:10:23","West Jordan",/west-jordan-ut/beauty-salons,1045,0,45
+440,"2023-10-05 09:10:43",Orem,/orem-ut/beauty-salons,324,0,45
+441,"2023-10-05 09:10:59",Sandy,/sandy-ut/beauty-salons,1052,0,45
+442,"2023-10-05 09:11:09",Ogden,/ogden-ut/beauty-salons,320,0,45
+443,"2023-10-05 09:11:27","St. George",/st-george-ut/beauty-salons,129,0,45
+444,"2023-10-05 09:11:37",Layton,/layton-ut/beauty-salons,358,0,45
+445,"2023-10-05 09:11:56",Burlington,/burlington-vt/beauty-salons,248,0,46
+446,"2023-10-05 09:12:10","Virginia Beach",/virginia-beach-va/beauty-salons,938,0,47
+447,"2023-10-05 09:12:24",Norfolk,/norfolk-va/beauty-salons,1422,0,47
+448,"2023-10-05 09:12:34",Chesapeake,/chesapeake-va/beauty-salons,1324,0,47
+449,"2023-10-05 09:12:48",Richmond,/richmond-va/beauty-salons,1026,0,47
+450,"2023-10-05 09:13:00","Newport News",/newport-news-va/beauty-salons,841,0,47
+451,"2023-10-05 09:13:17",Alexandria,/alexandria-va/beauty-salons,2618,0,47
+452,"2023-10-05 09:13:28",Hampton,/hampton-va/beauty-salons,811,0,47
+453,"2023-10-05 09:13:41",Roanoke,/roanoke-va/beauty-salons,325,0,47
+454,"2023-10-05 09:13:58",Portsmouth,/portsmouth-va/beauty-salons,1415,0,47
+455,"2023-10-05 09:14:17",Suffolk,/suffolk-va/beauty-salons,240,0,47
+456,"2023-10-05 09:14:32",Lynchburg,/lynchburg-va/beauty-salons,200,0,47
+457,"2023-10-05 09:14:38",Seattle,/seattle-wa/beauty-salons,1517,0,48
+458,"2023-10-05 09:14:44",Spokane,/spokane-wa/beauty-salons,487,0,48
+459,"2023-10-05 09:14:55",Tacoma,/tacoma-wa/beauty-salons,1288,0,48
+460,"2023-10-05 09:15:04",Vancouver,/vancouver-wa/beauty-salons,1975,0,48
+461,"2023-10-05 09:15:18",Bellevue,/bellevue-wa/beauty-salons,2276,0,48
+462,"2023-10-05 09:15:27",Everett,/everett-wa/beauty-salons,746,0,48
+463,"2023-10-05 09:15:36",Kent,/kent-wa/beauty-salons,1414,0,48
+464,"2023-10-05 09:15:53",Yakima,/yakima-wa/beauty-salons,172,0,48
+465,"2023-10-05 09:16:09",Renton,/renton-wa/beauty-salons,2237,0,48
+466,"2023-10-05 09:16:28","Spokane Valley",/spokane-valley-wa/beauty-salons,499,0,48
+467,"2023-10-05 09:16:45","Federal Way",/federal-way-wa/beauty-salons,1639,0,48
+468,"2023-10-05 09:16:52",Bellingham,/bellingham-wa/beauty-salons,238,0,48
+469,"2023-10-05 09:17:05",Kennewick,/kennewick-wa/beauty-salons,207,0,48
+470,"2023-10-05 09:17:23",Auburn,/auburn-wa/beauty-salons,1410,0,48
+471,"2023-10-05 09:17:41",Charleston,/charleston-wv/beauty-salons,213,0,49
+472,"2023-10-05 09:17:51",Milwaukee,/milwaukee-wi/beauty-salons,1230,0,50
+473,"2023-10-05 09:18:08",Madison,/madison-wi/beauty-salons,654,0,50
+474,"2023-10-05 09:18:32","Green Bay",/green-bay-wi/beauty-salons,253,0,50
+475,"2023-10-05 09:18:56",Kenosha,/kenosha-wi/beauty-salons,391,0,50
+476,"2023-10-05 09:19:10",Racine,/racine-wi/beauty-salons,264,0,50
+477,"2023-10-05 09:19:23",Appleton,/appleton-wi/beauty-salons,224,0,50
+478,"2023-10-05 09:19:38",Waukesha,/waukesha-wi/beauty-salons,1236,0,50
+479,"2023-10-05 09:19:47",Cheyenne,/cheyenne-wy/beauty-salons,83,0,51

@@ -1,0 +1,1807 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "component": "HomePage"
+    },
+    {
+      "path": "/city/birmingham-al/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Birmingham",
+          "stateName": "Alabama",
+          "businesses": [
+            {
+              "id": 5,
+              "name": "Baker Sara Electrolysis",
+              "slug": "birmingham-al/bpp/baker-sara-electrolysis-10038768",
+              "address": "3507 Old Montgomery Hwy, Birmingham, AL, 35209",
+              "city": "Birmingham",
+              "state": "Alabama",
+              "zipCode": "35209",
+              "phone": "205-414-1194",
+              "email": "",
+              "website": "http://sarabakerelectrolysis.com",
+              "description": "",
+              "hours": "",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [],
+              "paymentMethods": [],
+              "details": {},
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.470684,
+              "longitude": -86.78189,
+              "images": []
+            },
+            {
+              "id": 165,
+              "name": "Santa Fe Massage and Wellness",
+              "slug": "hoover-al/bpp/santa-fe-massage-and-wellness-557420765",
+              "address": "611 Doug Baker Blvd Ste 214D, Hoover, AL, 35242",
+              "city": "Birmingham",
+              "state": "Alabama",
+              "zipCode": "35242",
+              "phone": "205-408-7221",
+              "email": "santafedayspa@aol.com",
+              "website": "https://santafemassageandwellness.com",
+              "description": "",
+              "hours": "\"Mo-Sa 09:00-19:00\"",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [],
+              "paymentMethods": [],
+              "details": {},
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.40899,
+              "longitude": -86.66639,
+              "images": []
+            }
+          ],
+          "slug": "birmingham-al/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/montgomery-al/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Montgomery",
+          "stateName": "Alabama",
+          "businesses": [
+            {
+              "id": 49,
+              "name": "Giermanski Sherry Electrologist",
+              "slug": "montgomery-al/bpp/giermanski-sherry-electrologist-29299",
+              "address": "2101 Eastern Blvd, Montgomery, AL, 36117",
+              "city": "Montgomery",
+              "state": "Alabama",
+              "zipCode": "36117",
+              "phone": "334-215-8035",
+              "email": "",
+              "website": "http://unwantedhairsolutions.com",
+              "description": "Sherry Giermanski, Electrologist provides electrolysis \"Electrolysis is considered a permanent hair removal method, since it destroys the hair follicle\", body sugaring, bikini lines and eyelash extensions. Electrology is permanent hair removal unlike some laser hair removal, eyelash extensions, hair loss, perming eyelashes, tinting eyelashes",
+              "hours": "\"Mo-Th 09:00-17:00\",\"Fr 08:00-17:00\",\"Sa 09:00-17:00\"",
+              "services": [
+                "Electrolysis Hair Removal Eyelash Extensions Body Sugaring Brazilian"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB",
+                "MASTER CARD"
+              ],
+              "details": {
+                "Wheelchair Accessible": "Yes",
+                "By Appointment Only": "Yes"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 32.351845,
+              "longitude": -86.219406,
+              "images": [
+                "https://i2.ypcdn.com/blob/b25354d43d99b3d54b4c0575a3f74a1daaf20669_640.jpg"
+              ]
+            }
+          ],
+          "slug": "montgomery-al/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/hoover-al/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Hoover",
+          "stateName": "Alabama",
+          "businesses": [
+            {
+              "id": 165,
+              "name": "Santa Fe Massage and Wellness",
+              "slug": "hoover-al/bpp/santa-fe-massage-and-wellness-557420765",
+              "address": "611 Doug Baker Blvd Ste 214D, Hoover, AL, 35242",
+              "city": "Birmingham",
+              "state": "Alabama",
+              "zipCode": "35242",
+              "phone": "205-408-7221",
+              "email": "santafedayspa@aol.com",
+              "website": "https://santafemassageandwellness.com",
+              "description": "",
+              "hours": "\"Mo-Sa 09:00-19:00\"",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [],
+              "paymentMethods": [],
+              "details": {},
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.40899,
+              "longitude": -86.66639,
+              "images": []
+            }
+          ],
+          "slug": "hoover-al/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/phoenix-az/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Phoenix",
+          "stateName": "Arizona",
+          "businesses": [
+            {
+              "id": 424,
+              "name": "Waxing The City",
+              "slug": "tempe-az/bpp/waxing-the-city-505263450",
+              "address": "1804 E Southern Ave, Tempe, AZ, 85282",
+              "city": "Phoenix",
+              "state": "Arizona",
+              "zipCode": "85282",
+              "phone": "480-929-9111",
+              "email": "tempeaz@waxingthecity.com",
+              "website": "http://www.waxingthecity.com/locations/w25/us/az/tempe",
+              "description": "You deserve to Look Great and Feel Awesome. At Waxing the City Tempe, we believe YOU are at your best when YOU feel Beautiful, Confident and simply put, Awesome. We are a studio devoted exclusively to the art of waxing, but that's not all. Whether you've been waxing for years or it's your first time, we understand. It's our mission to provide a surprisingly personable experience in a welcoming and fun, team-based environment.",
+              "hours": "\"Mo-Fr 09:00-19:00\",\"Sa 09:00-17:00\",\"Su 10:00-16:00\"",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DEBIT",
+                "DINERSCLUB",
+                "MASTER CARD"
+              ],
+              "details": {
+                "Parking": "Lot, Private",
+                "Bike Parking": "Yes",
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.39309,
+              "longitude": -111.90885,
+              "images": [
+                "https://i1.ypcdn.com/blob/f4ff30fb122099eb8b2f392ad10f094d17c0b1d5_640.jpg",
+                "https://i4.ypcdn.com/blob/d814043cb5a4554862d86a98bcb25c0b95d07e17_640.jpg",
+                "https://i4.ypcdn.com/blob/bab26b638d3fcfa37a0de11275178605859514d2_640.jpg",
+                "https://i1.ypcdn.com/blob/b0951cbca159ee4e96a047a750d502492fcf98e5_640.jpg"
+              ]
+            }
+          ],
+          "slug": "phoenix-az/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/mesa-az/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Mesa",
+          "stateName": "Arizona",
+          "businesses": [
+            {
+              "id": 392,
+              "name": "The Lash and Sugar Company",
+              "slug": "gilbert-az/bpp/the-lash-and-sugar-company-503995950",
+              "address": "2168 E Williams Field Rd, Gilbert, AZ, 85295",
+              "city": "Mesa",
+              "state": "Arizona",
+              "zipCode": "85295",
+              "phone": "480-268-9341",
+              "email": "vanessa@pinksthebeautyboutique.com",
+              "website": "http://www.thelashandsugarcompany.com",
+              "description": "",
+              "hours": "\"Mo-Fr 10:00-19:00\",\"Sa 10:00-18:00\",\"Su 11:00-18:00\"",
+              "services": [
+                "Eyelash Extensions",
+                "Sugaring Hair Removal",
+                "Lash Training"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD"
+              ],
+              "details": {
+                "Bike Parking": "Yes",
+                "Parking": "Street",
+                "Wheelchair Accessible": "Yes",
+                "By Appointment Only": "No",
+                "Price Range": "Average"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.307003,
+              "longitude": -111.7444,
+              "images": []
+            },
+            {
+              "id": 424,
+              "name": "Waxing The City",
+              "slug": "tempe-az/bpp/waxing-the-city-505263450",
+              "address": "1804 E Southern Ave, Tempe, AZ, 85282",
+              "city": "Phoenix",
+              "state": "Arizona",
+              "zipCode": "85282",
+              "phone": "480-929-9111",
+              "email": "tempeaz@waxingthecity.com",
+              "website": "http://www.waxingthecity.com/locations/w25/us/az/tempe",
+              "description": "You deserve to Look Great and Feel Awesome. At Waxing the City Tempe, we believe YOU are at your best when YOU feel Beautiful, Confident and simply put, Awesome. We are a studio devoted exclusively to the art of waxing, but that's not all. Whether you've been waxing for years or it's your first time, we understand. It's our mission to provide a surprisingly personable experience in a welcoming and fun, team-based environment.",
+              "hours": "\"Mo-Fr 09:00-19:00\",\"Sa 09:00-17:00\",\"Su 10:00-16:00\"",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DEBIT",
+                "DINERSCLUB",
+                "MASTER CARD"
+              ],
+              "details": {
+                "Parking": "Lot, Private",
+                "Bike Parking": "Yes",
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.39309,
+              "longitude": -111.90885,
+              "images": [
+                "https://i1.ypcdn.com/blob/f4ff30fb122099eb8b2f392ad10f094d17c0b1d5_640.jpg",
+                "https://i4.ypcdn.com/blob/d814043cb5a4554862d86a98bcb25c0b95d07e17_640.jpg",
+                "https://i4.ypcdn.com/blob/bab26b638d3fcfa37a0de11275178605859514d2_640.jpg",
+                "https://i1.ypcdn.com/blob/b0951cbca159ee4e96a047a750d502492fcf98e5_640.jpg"
+              ]
+            }
+          ],
+          "slug": "mesa-az/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/chandler-az/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Chandler",
+          "stateName": "Arizona",
+          "businesses": [
+            {
+              "id": 424,
+              "name": "Waxing The City",
+              "slug": "tempe-az/bpp/waxing-the-city-505263450",
+              "address": "1804 E Southern Ave, Tempe, AZ, 85282",
+              "city": "Phoenix",
+              "state": "Arizona",
+              "zipCode": "85282",
+              "phone": "480-929-9111",
+              "email": "tempeaz@waxingthecity.com",
+              "website": "http://www.waxingthecity.com/locations/w25/us/az/tempe",
+              "description": "You deserve to Look Great and Feel Awesome. At Waxing the City Tempe, we believe YOU are at your best when YOU feel Beautiful, Confident and simply put, Awesome. We are a studio devoted exclusively to the art of waxing, but that's not all. Whether you've been waxing for years or it's your first time, we understand. It's our mission to provide a surprisingly personable experience in a welcoming and fun, team-based environment.",
+              "hours": "\"Mo-Fr 09:00-19:00\",\"Sa 09:00-17:00\",\"Su 10:00-16:00\"",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DEBIT",
+                "DINERSCLUB",
+                "MASTER CARD"
+              ],
+              "details": {
+                "Parking": "Lot, Private",
+                "Bike Parking": "Yes",
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.39309,
+              "longitude": -111.90885,
+              "images": [
+                "https://i1.ypcdn.com/blob/f4ff30fb122099eb8b2f392ad10f094d17c0b1d5_640.jpg",
+                "https://i4.ypcdn.com/blob/d814043cb5a4554862d86a98bcb25c0b95d07e17_640.jpg",
+                "https://i4.ypcdn.com/blob/bab26b638d3fcfa37a0de11275178605859514d2_640.jpg",
+                "https://i1.ypcdn.com/blob/b0951cbca159ee4e96a047a750d502492fcf98e5_640.jpg"
+              ]
+            }
+          ],
+          "slug": "chandler-az/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/scottsdale-az/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Scottsdale",
+          "stateName": "Arizona",
+          "businesses": [
+            {
+              "id": 424,
+              "name": "Waxing The City",
+              "slug": "tempe-az/bpp/waxing-the-city-505263450",
+              "address": "1804 E Southern Ave, Tempe, AZ, 85282",
+              "city": "Phoenix",
+              "state": "Arizona",
+              "zipCode": "85282",
+              "phone": "480-929-9111",
+              "email": "tempeaz@waxingthecity.com",
+              "website": "http://www.waxingthecity.com/locations/w25/us/az/tempe",
+              "description": "You deserve to Look Great and Feel Awesome. At Waxing the City Tempe, we believe YOU are at your best when YOU feel Beautiful, Confident and simply put, Awesome. We are a studio devoted exclusively to the art of waxing, but that's not all. Whether you've been waxing for years or it's your first time, we understand. It's our mission to provide a surprisingly personable experience in a welcoming and fun, team-based environment.",
+              "hours": "\"Mo-Fr 09:00-19:00\",\"Sa 09:00-17:00\",\"Su 10:00-16:00\"",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DEBIT",
+                "DINERSCLUB",
+                "MASTER CARD"
+              ],
+              "details": {
+                "Parking": "Lot, Private",
+                "Bike Parking": "Yes",
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.39309,
+              "longitude": -111.90885,
+              "images": [
+                "https://i1.ypcdn.com/blob/f4ff30fb122099eb8b2f392ad10f094d17c0b1d5_640.jpg",
+                "https://i4.ypcdn.com/blob/d814043cb5a4554862d86a98bcb25c0b95d07e17_640.jpg",
+                "https://i4.ypcdn.com/blob/bab26b638d3fcfa37a0de11275178605859514d2_640.jpg",
+                "https://i1.ypcdn.com/blob/b0951cbca159ee4e96a047a750d502492fcf98e5_640.jpg"
+              ]
+            }
+          ],
+          "slug": "scottsdale-az/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/gilbert-az/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Gilbert",
+          "stateName": "Arizona",
+          "businesses": [
+            {
+              "id": 392,
+              "name": "The Lash and Sugar Company",
+              "slug": "gilbert-az/bpp/the-lash-and-sugar-company-503995950",
+              "address": "2168 E Williams Field Rd, Gilbert, AZ, 85295",
+              "city": "Mesa",
+              "state": "Arizona",
+              "zipCode": "85295",
+              "phone": "480-268-9341",
+              "email": "vanessa@pinksthebeautyboutique.com",
+              "website": "http://www.thelashandsugarcompany.com",
+              "description": "",
+              "hours": "\"Mo-Fr 10:00-19:00\",\"Sa 10:00-18:00\",\"Su 11:00-18:00\"",
+              "services": [
+                "Eyelash Extensions",
+                "Sugaring Hair Removal",
+                "Lash Training"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD"
+              ],
+              "details": {
+                "Bike Parking": "Yes",
+                "Parking": "Street",
+                "Wheelchair Accessible": "Yes",
+                "By Appointment Only": "No",
+                "Price Range": "Average"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.307003,
+              "longitude": -111.7444,
+              "images": []
+            },
+            {
+              "id": 424,
+              "name": "Waxing The City",
+              "slug": "tempe-az/bpp/waxing-the-city-505263450",
+              "address": "1804 E Southern Ave, Tempe, AZ, 85282",
+              "city": "Phoenix",
+              "state": "Arizona",
+              "zipCode": "85282",
+              "phone": "480-929-9111",
+              "email": "tempeaz@waxingthecity.com",
+              "website": "http://www.waxingthecity.com/locations/w25/us/az/tempe",
+              "description": "You deserve to Look Great and Feel Awesome. At Waxing the City Tempe, we believe YOU are at your best when YOU feel Beautiful, Confident and simply put, Awesome. We are a studio devoted exclusively to the art of waxing, but that's not all. Whether you've been waxing for years or it's your first time, we understand. It's our mission to provide a surprisingly personable experience in a welcoming and fun, team-based environment.",
+              "hours": "\"Mo-Fr 09:00-19:00\",\"Sa 09:00-17:00\",\"Su 10:00-16:00\"",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DEBIT",
+                "DINERSCLUB",
+                "MASTER CARD"
+              ],
+              "details": {
+                "Parking": "Lot, Private",
+                "Bike Parking": "Yes",
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.39309,
+              "longitude": -111.90885,
+              "images": [
+                "https://i1.ypcdn.com/blob/f4ff30fb122099eb8b2f392ad10f094d17c0b1d5_640.jpg",
+                "https://i4.ypcdn.com/blob/d814043cb5a4554862d86a98bcb25c0b95d07e17_640.jpg",
+                "https://i4.ypcdn.com/blob/bab26b638d3fcfa37a0de11275178605859514d2_640.jpg",
+                "https://i1.ypcdn.com/blob/b0951cbca159ee4e96a047a750d502492fcf98e5_640.jpg"
+              ]
+            }
+          ],
+          "slug": "gilbert-az/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/tempe-az/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Tempe",
+          "stateName": "Arizona",
+          "businesses": [
+            {
+              "id": 392,
+              "name": "The Lash and Sugar Company",
+              "slug": "gilbert-az/bpp/the-lash-and-sugar-company-503995950",
+              "address": "2168 E Williams Field Rd, Gilbert, AZ, 85295",
+              "city": "Mesa",
+              "state": "Arizona",
+              "zipCode": "85295",
+              "phone": "480-268-9341",
+              "email": "vanessa@pinksthebeautyboutique.com",
+              "website": "http://www.thelashandsugarcompany.com",
+              "description": "",
+              "hours": "\"Mo-Fr 10:00-19:00\",\"Sa 10:00-18:00\",\"Su 11:00-18:00\"",
+              "services": [
+                "Eyelash Extensions",
+                "Sugaring Hair Removal",
+                "Lash Training"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD"
+              ],
+              "details": {
+                "Bike Parking": "Yes",
+                "Parking": "Street",
+                "Wheelchair Accessible": "Yes",
+                "By Appointment Only": "No",
+                "Price Range": "Average"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.307003,
+              "longitude": -111.7444,
+              "images": []
+            },
+            {
+              "id": 424,
+              "name": "Waxing The City",
+              "slug": "tempe-az/bpp/waxing-the-city-505263450",
+              "address": "1804 E Southern Ave, Tempe, AZ, 85282",
+              "city": "Phoenix",
+              "state": "Arizona",
+              "zipCode": "85282",
+              "phone": "480-929-9111",
+              "email": "tempeaz@waxingthecity.com",
+              "website": "http://www.waxingthecity.com/locations/w25/us/az/tempe",
+              "description": "You deserve to Look Great and Feel Awesome. At Waxing the City Tempe, we believe YOU are at your best when YOU feel Beautiful, Confident and simply put, Awesome. We are a studio devoted exclusively to the art of waxing, but that's not all. Whether you've been waxing for years or it's your first time, we understand. It's our mission to provide a surprisingly personable experience in a welcoming and fun, team-based environment.",
+              "hours": "\"Mo-Fr 09:00-19:00\",\"Sa 09:00-17:00\",\"Su 10:00-16:00\"",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DEBIT",
+                "DINERSCLUB",
+                "MASTER CARD"
+              ],
+              "details": {
+                "Parking": "Lot, Private",
+                "Bike Parking": "Yes",
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.39309,
+              "longitude": -111.90885,
+              "images": [
+                "https://i1.ypcdn.com/blob/f4ff30fb122099eb8b2f392ad10f094d17c0b1d5_640.jpg",
+                "https://i4.ypcdn.com/blob/d814043cb5a4554862d86a98bcb25c0b95d07e17_640.jpg",
+                "https://i4.ypcdn.com/blob/bab26b638d3fcfa37a0de11275178605859514d2_640.jpg",
+                "https://i1.ypcdn.com/blob/b0951cbca159ee4e96a047a750d502492fcf98e5_640.jpg"
+              ]
+            }
+          ],
+          "slug": "tempe-az/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/fort-smith-ar/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Fort Smith",
+          "stateName": "Arkansas",
+          "businesses": [
+            {
+              "id": 611,
+              "name": "Nelda Wray & Brandi Wray Located at Fort Smith Wellness",
+              "slug": "fort-smith-ar/bpp/nelda-wray-brandi-wray-located-at-fort-smith-wellness-455321841",
+              "address": "6108 S 31st St, Fort Smith, AR, 72908",
+              "city": "Fort Smith",
+              "state": "Arkansas",
+              "zipCode": "72908",
+              "phone": "479-719-5850",
+              "email": "",
+              "website": "http://www.fortsmithwellness.com",
+              "description": "Effective For Over 100 Yrs-All Skin Types. Electrolysis, Waxing, Massage",
+              "hours": "\"Mo-Fr 09:00-18:30\",\"Sa 09:00-15:00\"",
+              "services": [
+                "Massage",
+                "Electrolysis Permanent Hair Removal"
+              ],
+              "amenities": [],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB"
+              ],
+              "details": {
+                "Price Range": "Average"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 35.324863,
+              "longitude": -94.40104,
+              "images": []
+            }
+          ],
+          "slug": "fort-smith-ar/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/bakersfield-ca/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Bakersfield",
+          "stateName": "California",
+          "businesses": [
+            {
+              "id": 970,
+              "name": "Brazilian Wax Boutique",
+              "slug": "bakersfield-ca/bpp/brazilian-wax-boutique-461569153",
+              "address": "600 Coffee Rd Ste F, Bakersfield, CA, 93309",
+              "city": "Bakersfield",
+              "state": "California",
+              "zipCode": "93309",
+              "phone": "661-397-4647",
+              "email": "brazilianwaxboutique@gmail.com",
+              "website": "http://www.brazilianwaxboutique.com",
+              "description": "",
+              "hours": "\"Mo-Fr 10:00-18:00\",\"Sa-Su 10:00-15:00\"",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [
+                "Wheelchair accessible"
+              ],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB"
+              ],
+              "details": {
+                "Parking": "Lot, Private",
+                "Bike Parking": "Yes",
+                "Wheelchair Accessible": "Yes",
+                "By Appointment Only": "Yes",
+                "Price Range": "Average"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 35.360947,
+              "longitude": -119.09185,
+              "images": []
+            }
+          ],
+          "slug": "bakersfield-ca/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/riverside-ca/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Riverside",
+          "stateName": "California",
+          "businesses": [
+            {
+              "id": 1068,
+              "name": "Salon Design",
+              "slug": "riverside-ca/bpp/salon-design-11341582",
+              "address": "3430 La Sierra Ave, Riverside, CA, 92503",
+              "city": "Riverside",
+              "state": "California",
+              "zipCode": "92503",
+              "phone": "951-359-5069",
+              "email": "brentnadig@yahoo.com",
+              "website": "",
+              "description": "Welcome to Salon Design. We are a full service providing the latest styles and color for the whole family. We welcome walk-ins as well as last minute appointments. We are trainined in the newest technology for hair care and treatments. Our expert stylists can help you look your best from hair to make-up. The team at Salon Design is ready to create the look you want. Our Stylist are trained in all aspects of hair, make-up and waxing. Hair weaving and extensions are our specialty Contact us today for your make-over Or book appointment online for your convenience",
+              "hours": "\"Mo-Fr 09:00-17:00\"",
+              "services": [
+                "Hair Designer Cuts and Perms for Men",
+                "Women and Children Color-Inspire Hi-Lites Power Hydro Mas Chemistry System Deep Conditioning Extensions Micro-Cylinder Keratin Crystal Eyelash Touch Up Waxing Brow Lower Legs Chin Full Legs Lip Bikini Face Underarm"
+              ],
+              "amenities": [],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB"
+              ],
+              "details": {
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.897797,
+              "longitude": -117.47184,
+              "images": [
+                "https://i4.ypcdn.com/blob/9533f0feeb95722bf82af5c6219c3941d11a7164_640.jpg",
+                "https://i4.ypcdn.com/blob/2e5935afd22593a267d174b92e66f80d4a4703d9_640.jpg",
+                "https://i1.ypcdn.com/blob/f513313a9bd44b81095c05892536fd44318646ae_640.jpg",
+                "https://i1.ypcdn.com/blob/a01a9485b966c9f2ce2dbeac167570fe572bc073_640.jpg"
+              ]
+            }
+          ],
+          "slug": "riverside-ca/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/san-bernardino-ca/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "San Bernardino",
+          "stateName": "California",
+          "businesses": [
+            {
+              "id": 1068,
+              "name": "Salon Design",
+              "slug": "riverside-ca/bpp/salon-design-11341582",
+              "address": "3430 La Sierra Ave, Riverside, CA, 92503",
+              "city": "Riverside",
+              "state": "California",
+              "zipCode": "92503",
+              "phone": "951-359-5069",
+              "email": "brentnadig@yahoo.com",
+              "website": "",
+              "description": "Welcome to Salon Design. We are a full service providing the latest styles and color for the whole family. We welcome walk-ins as well as last minute appointments. We are trainined in the newest technology for hair care and treatments. Our expert stylists can help you look your best from hair to make-up. The team at Salon Design is ready to create the look you want. Our Stylist are trained in all aspects of hair, make-up and waxing. Hair weaving and extensions are our specialty Contact us today for your make-over Or book appointment online for your convenience",
+              "hours": "\"Mo-Fr 09:00-17:00\"",
+              "services": [
+                "Hair Designer Cuts and Perms for Men",
+                "Women and Children Color-Inspire Hi-Lites Power Hydro Mas Chemistry System Deep Conditioning Extensions Micro-Cylinder Keratin Crystal Eyelash Touch Up Waxing Brow Lower Legs Chin Full Legs Lip Bikini Face Underarm"
+              ],
+              "amenities": [],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB"
+              ],
+              "details": {
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.897797,
+              "longitude": -117.47184,
+              "images": [
+                "https://i4.ypcdn.com/blob/9533f0feeb95722bf82af5c6219c3941d11a7164_640.jpg",
+                "https://i4.ypcdn.com/blob/2e5935afd22593a267d174b92e66f80d4a4703d9_640.jpg",
+                "https://i1.ypcdn.com/blob/f513313a9bd44b81095c05892536fd44318646ae_640.jpg",
+                "https://i1.ypcdn.com/blob/a01a9485b966c9f2ce2dbeac167570fe572bc073_640.jpg"
+              ]
+            }
+          ],
+          "slug": "san-bernardino-ca/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/fontana-ca/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Fontana",
+          "stateName": "California",
+          "businesses": [
+            {
+              "id": 1068,
+              "name": "Salon Design",
+              "slug": "riverside-ca/bpp/salon-design-11341582",
+              "address": "3430 La Sierra Ave, Riverside, CA, 92503",
+              "city": "Riverside",
+              "state": "California",
+              "zipCode": "92503",
+              "phone": "951-359-5069",
+              "email": "brentnadig@yahoo.com",
+              "website": "",
+              "description": "Welcome to Salon Design. We are a full service providing the latest styles and color for the whole family. We welcome walk-ins as well as last minute appointments. We are trainined in the newest technology for hair care and treatments. Our expert stylists can help you look your best from hair to make-up. The team at Salon Design is ready to create the look you want. Our Stylist are trained in all aspects of hair, make-up and waxing. Hair weaving and extensions are our specialty Contact us today for your make-over Or book appointment online for your convenience",
+              "hours": "\"Mo-Fr 09:00-17:00\"",
+              "services": [
+                "Hair Designer Cuts and Perms for Men",
+                "Women and Children Color-Inspire Hi-Lites Power Hydro Mas Chemistry System Deep Conditioning Extensions Micro-Cylinder Keratin Crystal Eyelash Touch Up Waxing Brow Lower Legs Chin Full Legs Lip Bikini Face Underarm"
+              ],
+              "amenities": [],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB"
+              ],
+              "details": {
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.897797,
+              "longitude": -117.47184,
+              "images": [
+                "https://i4.ypcdn.com/blob/9533f0feeb95722bf82af5c6219c3941d11a7164_640.jpg",
+                "https://i4.ypcdn.com/blob/2e5935afd22593a267d174b92e66f80d4a4703d9_640.jpg",
+                "https://i1.ypcdn.com/blob/f513313a9bd44b81095c05892536fd44318646ae_640.jpg",
+                "https://i1.ypcdn.com/blob/a01a9485b966c9f2ce2dbeac167570fe572bc073_640.jpg"
+              ]
+            }
+          ],
+          "slug": "fontana-ca/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/moreno-valley-ca/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Moreno Valley",
+          "stateName": "California",
+          "businesses": [
+            {
+              "id": 1068,
+              "name": "Salon Design",
+              "slug": "riverside-ca/bpp/salon-design-11341582",
+              "address": "3430 La Sierra Ave, Riverside, CA, 92503",
+              "city": "Riverside",
+              "state": "California",
+              "zipCode": "92503",
+              "phone": "951-359-5069",
+              "email": "brentnadig@yahoo.com",
+              "website": "",
+              "description": "Welcome to Salon Design. We are a full service providing the latest styles and color for the whole family. We welcome walk-ins as well as last minute appointments. We are trainined in the newest technology for hair care and treatments. Our expert stylists can help you look your best from hair to make-up. The team at Salon Design is ready to create the look you want. Our Stylist are trained in all aspects of hair, make-up and waxing. Hair weaving and extensions are our specialty Contact us today for your make-over Or book appointment online for your convenience",
+              "hours": "\"Mo-Fr 09:00-17:00\"",
+              "services": [
+                "Hair Designer Cuts and Perms for Men",
+                "Women and Children Color-Inspire Hi-Lites Power Hydro Mas Chemistry System Deep Conditioning Extensions Micro-Cylinder Keratin Crystal Eyelash Touch Up Waxing Brow Lower Legs Chin Full Legs Lip Bikini Face Underarm"
+              ],
+              "amenities": [],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB"
+              ],
+              "details": {
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.897797,
+              "longitude": -117.47184,
+              "images": [
+                "https://i4.ypcdn.com/blob/9533f0feeb95722bf82af5c6219c3941d11a7164_640.jpg",
+                "https://i4.ypcdn.com/blob/2e5935afd22593a267d174b92e66f80d4a4703d9_640.jpg",
+                "https://i1.ypcdn.com/blob/f513313a9bd44b81095c05892536fd44318646ae_640.jpg",
+                "https://i1.ypcdn.com/blob/a01a9485b966c9f2ce2dbeac167570fe572bc073_640.jpg"
+              ]
+            }
+          ],
+          "slug": "moreno-valley-ca/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/rancho-cucamonga-ca/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Rancho Cucamonga",
+          "stateName": "California",
+          "businesses": [
+            {
+              "id": 1068,
+              "name": "Salon Design",
+              "slug": "riverside-ca/bpp/salon-design-11341582",
+              "address": "3430 La Sierra Ave, Riverside, CA, 92503",
+              "city": "Riverside",
+              "state": "California",
+              "zipCode": "92503",
+              "phone": "951-359-5069",
+              "email": "brentnadig@yahoo.com",
+              "website": "",
+              "description": "Welcome to Salon Design. We are a full service providing the latest styles and color for the whole family. We welcome walk-ins as well as last minute appointments. We are trainined in the newest technology for hair care and treatments. Our expert stylists can help you look your best from hair to make-up. The team at Salon Design is ready to create the look you want. Our Stylist are trained in all aspects of hair, make-up and waxing. Hair weaving and extensions are our specialty Contact us today for your make-over Or book appointment online for your convenience",
+              "hours": "\"Mo-Fr 09:00-17:00\"",
+              "services": [
+                "Hair Designer Cuts and Perms for Men",
+                "Women and Children Color-Inspire Hi-Lites Power Hydro Mas Chemistry System Deep Conditioning Extensions Micro-Cylinder Keratin Crystal Eyelash Touch Up Waxing Brow Lower Legs Chin Full Legs Lip Bikini Face Underarm"
+              ],
+              "amenities": [],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB"
+              ],
+              "details": {
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.897797,
+              "longitude": -117.47184,
+              "images": [
+                "https://i4.ypcdn.com/blob/9533f0feeb95722bf82af5c6219c3941d11a7164_640.jpg",
+                "https://i4.ypcdn.com/blob/2e5935afd22593a267d174b92e66f80d4a4703d9_640.jpg",
+                "https://i1.ypcdn.com/blob/f513313a9bd44b81095c05892536fd44318646ae_640.jpg",
+                "https://i1.ypcdn.com/blob/a01a9485b966c9f2ce2dbeac167570fe572bc073_640.jpg"
+              ]
+            }
+          ],
+          "slug": "rancho-cucamonga-ca/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/ontario-ca/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Ontario",
+          "stateName": "California",
+          "businesses": [
+            {
+              "id": 1068,
+              "name": "Salon Design",
+              "slug": "riverside-ca/bpp/salon-design-11341582",
+              "address": "3430 La Sierra Ave, Riverside, CA, 92503",
+              "city": "Riverside",
+              "state": "California",
+              "zipCode": "92503",
+              "phone": "951-359-5069",
+              "email": "brentnadig@yahoo.com",
+              "website": "",
+              "description": "Welcome to Salon Design. We are a full service providing the latest styles and color for the whole family. We welcome walk-ins as well as last minute appointments. We are trainined in the newest technology for hair care and treatments. Our expert stylists can help you look your best from hair to make-up. The team at Salon Design is ready to create the look you want. Our Stylist are trained in all aspects of hair, make-up and waxing. Hair weaving and extensions are our specialty Contact us today for your make-over Or book appointment online for your convenience",
+              "hours": "\"Mo-Fr 09:00-17:00\"",
+              "services": [
+                "Hair Designer Cuts and Perms for Men",
+                "Women and Children Color-Inspire Hi-Lites Power Hydro Mas Chemistry System Deep Conditioning Extensions Micro-Cylinder Keratin Crystal Eyelash Touch Up Waxing Brow Lower Legs Chin Full Legs Lip Bikini Face Underarm"
+              ],
+              "amenities": [],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB"
+              ],
+              "details": {
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.897797,
+              "longitude": -117.47184,
+              "images": [
+                "https://i4.ypcdn.com/blob/9533f0feeb95722bf82af5c6219c3941d11a7164_640.jpg",
+                "https://i4.ypcdn.com/blob/2e5935afd22593a267d174b92e66f80d4a4703d9_640.jpg",
+                "https://i1.ypcdn.com/blob/f513313a9bd44b81095c05892536fd44318646ae_640.jpg",
+                "https://i1.ypcdn.com/blob/a01a9485b966c9f2ce2dbeac167570fe572bc073_640.jpg"
+              ]
+            }
+          ],
+          "slug": "ontario-ca/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/corona-ca/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Corona",
+          "stateName": "California",
+          "businesses": [
+            {
+              "id": 1068,
+              "name": "Salon Design",
+              "slug": "riverside-ca/bpp/salon-design-11341582",
+              "address": "3430 La Sierra Ave, Riverside, CA, 92503",
+              "city": "Riverside",
+              "state": "California",
+              "zipCode": "92503",
+              "phone": "951-359-5069",
+              "email": "brentnadig@yahoo.com",
+              "website": "",
+              "description": "Welcome to Salon Design. We are a full service providing the latest styles and color for the whole family. We welcome walk-ins as well as last minute appointments. We are trainined in the newest technology for hair care and treatments. Our expert stylists can help you look your best from hair to make-up. The team at Salon Design is ready to create the look you want. Our Stylist are trained in all aspects of hair, make-up and waxing. Hair weaving and extensions are our specialty Contact us today for your make-over Or book appointment online for your convenience",
+              "hours": "\"Mo-Fr 09:00-17:00\"",
+              "services": [
+                "Hair Designer Cuts and Perms for Men",
+                "Women and Children Color-Inspire Hi-Lites Power Hydro Mas Chemistry System Deep Conditioning Extensions Micro-Cylinder Keratin Crystal Eyelash Touch Up Waxing Brow Lower Legs Chin Full Legs Lip Bikini Face Underarm"
+              ],
+              "amenities": [],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB"
+              ],
+              "details": {
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.897797,
+              "longitude": -117.47184,
+              "images": [
+                "https://i4.ypcdn.com/blob/9533f0feeb95722bf82af5c6219c3941d11a7164_640.jpg",
+                "https://i4.ypcdn.com/blob/2e5935afd22593a267d174b92e66f80d4a4703d9_640.jpg",
+                "https://i1.ypcdn.com/blob/f513313a9bd44b81095c05892536fd44318646ae_640.jpg",
+                "https://i1.ypcdn.com/blob/a01a9485b966c9f2ce2dbeac167570fe572bc073_640.jpg"
+              ]
+            }
+          ],
+          "slug": "corona-ca/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/city/chino-ca/beauty-salons",
+      "component": "CityPage",
+      "props": {
+        "cityData": {
+          "cityName": "Chino",
+          "stateName": "California",
+          "businesses": [
+            {
+              "id": 1068,
+              "name": "Salon Design",
+              "slug": "riverside-ca/bpp/salon-design-11341582",
+              "address": "3430 La Sierra Ave, Riverside, CA, 92503",
+              "city": "Riverside",
+              "state": "California",
+              "zipCode": "92503",
+              "phone": "951-359-5069",
+              "email": "brentnadig@yahoo.com",
+              "website": "",
+              "description": "Welcome to Salon Design. We are a full service providing the latest styles and color for the whole family. We welcome walk-ins as well as last minute appointments. We are trainined in the newest technology for hair care and treatments. Our expert stylists can help you look your best from hair to make-up. The team at Salon Design is ready to create the look you want. Our Stylist are trained in all aspects of hair, make-up and waxing. Hair weaving and extensions are our specialty Contact us today for your make-over Or book appointment online for your convenience",
+              "hours": "\"Mo-Fr 09:00-17:00\"",
+              "services": [
+                "Hair Designer Cuts and Perms for Men",
+                "Women and Children Color-Inspire Hi-Lites Power Hydro Mas Chemistry System Deep Conditioning Extensions Micro-Cylinder Keratin Crystal Eyelash Touch Up Waxing Brow Lower Legs Chin Full Legs Lip Bikini Face Underarm"
+              ],
+              "amenities": [],
+              "paymentMethods": [
+                "AMEX",
+                "DISCOVER",
+                "VISA",
+                "MASTERCARD",
+                "DINERSCLUB"
+              ],
+              "details": {
+                "Price Range": "Average",
+                "By Appointment Only": "No"
+              },
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.897797,
+              "longitude": -117.47184,
+              "images": [
+                "https://i4.ypcdn.com/blob/9533f0feeb95722bf82af5c6219c3941d11a7164_640.jpg",
+                "https://i4.ypcdn.com/blob/2e5935afd22593a267d174b92e66f80d4a4703d9_640.jpg",
+                "https://i1.ypcdn.com/blob/f513313a9bd44b81095c05892536fd44318646ae_640.jpg",
+                "https://i1.ypcdn.com/blob/a01a9485b966c9f2ce2dbeac167570fe572bc073_640.jpg"
+              ]
+            }
+          ],
+          "slug": "chino-ca/beauty-salons"
+        }
+      }
+    },
+    {
+      "path": "/state/alabama",
+      "component": "StatePage",
+      "props": {
+        "stateData": {
+          "stateName": "Alabama",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Birmingham",
+              "slug": "birmingham-al/beauty-salons",
+              "state": "Alabama",
+              "stateCode": "AL",
+              "businessCount": 2
+            },
+            {
+              "id": 2,
+              "name": "Montgomery",
+              "slug": "montgomery-al/beauty-salons",
+              "state": "Alabama",
+              "stateCode": "AL",
+              "businessCount": 1
+            },
+            {
+              "id": 6,
+              "name": "Hoover",
+              "slug": "hoover-al/beauty-salons",
+              "state": "Alabama",
+              "stateCode": "AL",
+              "businessCount": 1
+            }
+          ],
+          "businessCount": 4,
+          "slug": "alabama"
+        }
+      }
+    },
+    {
+      "path": "/state/arizona",
+      "component": "StatePage",
+      "props": {
+        "stateData": {
+          "stateName": "Arizona",
+          "cities": [
+            {
+              "id": 8,
+              "name": "Phoenix",
+              "slug": "phoenix-az/beauty-salons",
+              "state": "Arizona",
+              "stateCode": "AR",
+              "businessCount": 1
+            },
+            {
+              "id": 10,
+              "name": "Mesa",
+              "slug": "mesa-az/beauty-salons",
+              "state": "Arizona",
+              "stateCode": "AR",
+              "businessCount": 2
+            },
+            {
+              "id": 11,
+              "name": "Chandler",
+              "slug": "chandler-az/beauty-salons",
+              "state": "Arizona",
+              "stateCode": "AR",
+              "businessCount": 1
+            },
+            {
+              "id": 13,
+              "name": "Scottsdale",
+              "slug": "scottsdale-az/beauty-salons",
+              "state": "Arizona",
+              "stateCode": "AR",
+              "businessCount": 1
+            },
+            {
+              "id": 14,
+              "name": "Gilbert",
+              "slug": "gilbert-az/beauty-salons",
+              "state": "Arizona",
+              "stateCode": "AR",
+              "businessCount": 2
+            },
+            {
+              "id": 15,
+              "name": "Tempe",
+              "slug": "tempe-az/beauty-salons",
+              "state": "Arizona",
+              "stateCode": "AR",
+              "businessCount": 2
+            }
+          ],
+          "businessCount": 9,
+          "slug": "arizona"
+        }
+      }
+    },
+    {
+      "path": "/state/arkansas",
+      "component": "StatePage",
+      "props": {
+        "stateData": {
+          "stateName": "Arkansas",
+          "cities": [
+            {
+              "id": 21,
+              "name": "Fort Smith",
+              "slug": "fort-smith-ar/beauty-salons",
+              "state": "Arkansas",
+              "stateCode": "AR",
+              "businessCount": 1
+            }
+          ],
+          "businessCount": 1,
+          "slug": "arkansas"
+        }
+      }
+    },
+    {
+      "path": "/state/california",
+      "component": "StatePage",
+      "props": {
+        "stateData": {
+          "stateName": "California",
+          "cities": [
+            {
+              "id": 33,
+              "name": "Bakersfield",
+              "slug": "bakersfield-ca/beauty-salons",
+              "state": "California",
+              "stateCode": "CA",
+              "businessCount": 1
+            },
+            {
+              "id": 36,
+              "name": "Riverside",
+              "slug": "riverside-ca/beauty-salons",
+              "state": "California",
+              "stateCode": "CA",
+              "businessCount": 1
+            },
+            {
+              "id": 41,
+              "name": "San Bernardino",
+              "slug": "san-bernardino-ca/beauty-salons",
+              "state": "California",
+              "stateCode": "CA",
+              "businessCount": 1
+            },
+            {
+              "id": 44,
+              "name": "Fontana",
+              "slug": "fontana-ca/beauty-salons",
+              "state": "California",
+              "stateCode": "CA",
+              "businessCount": 1
+            },
+            {
+              "id": 45,
+              "name": "Moreno Valley",
+              "slug": "moreno-valley-ca/beauty-salons",
+              "state": "California",
+              "stateCode": "CA",
+              "businessCount": 1
+            },
+            {
+              "id": 52,
+              "name": "Rancho Cucamonga",
+              "slug": "rancho-cucamonga-ca/beauty-salons",
+              "state": "California",
+              "stateCode": "CA",
+              "businessCount": 1
+            },
+            {
+              "id": 53,
+              "name": "Ontario",
+              "slug": "ontario-ca/beauty-salons",
+              "state": "California",
+              "stateCode": "CA",
+              "businessCount": 1
+            },
+            {
+              "id": 57,
+              "name": "Corona",
+              "slug": "corona-ca/beauty-salons",
+              "state": "California",
+              "stateCode": "CA",
+              "businessCount": 1
+            },
+            {
+              "id": 121,
+              "name": "Chino",
+              "slug": "chino-ca/beauty-salons",
+              "state": "California",
+              "stateCode": "CA",
+              "businessCount": 1
+            }
+          ],
+          "businessCount": 9,
+          "slug": "california"
+        }
+      }
+    },
+    {
+      "path": "/business/birmingham-al/bpp/baker-sara-electrolysis-10038768",
+      "component": "BusinessPage",
+      "props": {
+        "businessData": {
+          "business": {
+            "id": 5,
+            "name": "Baker Sara Electrolysis",
+            "slug": "birmingham-al/bpp/baker-sara-electrolysis-10038768",
+            "address": "3507 Old Montgomery Hwy, Birmingham, AL, 35209",
+            "city": "Birmingham",
+            "state": "Alabama",
+            "zipCode": "35209",
+            "phone": "205-414-1194",
+            "email": "",
+            "website": "http://sarabakerelectrolysis.com",
+            "description": "",
+            "hours": "",
+            "services": [
+              "Electrolysis",
+              "Permanent Hair Removal"
+            ],
+            "amenities": [],
+            "paymentMethods": [],
+            "details": {},
+            "rating": 0,
+            "reviews": 0,
+            "latitude": 33.470684,
+            "longitude": -86.78189,
+            "images": []
+          },
+          "nearbyBusinesses": [
+            {
+              "id": 165,
+              "name": "Santa Fe Massage and Wellness",
+              "slug": "hoover-al/bpp/santa-fe-massage-and-wellness-557420765",
+              "address": "611 Doug Baker Blvd Ste 214D, Hoover, AL, 35242",
+              "city": "Birmingham",
+              "state": "Alabama",
+              "zipCode": "35242",
+              "phone": "205-408-7221",
+              "email": "santafedayspa@aol.com",
+              "website": "https://santafemassageandwellness.com",
+              "description": "",
+              "hours": "\"Mo-Sa 09:00-19:00\"",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [],
+              "paymentMethods": [],
+              "details": {},
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.40899,
+              "longitude": -86.66639,
+              "images": []
+            }
+          ],
+          "slug": "birmingham-al/bpp/baker-sara-electrolysis-10038768"
+        }
+      }
+    },
+    {
+      "path": "/business/montgomery-al/bpp/giermanski-sherry-electrologist-29299",
+      "component": "BusinessPage",
+      "props": {
+        "businessData": {
+          "business": {
+            "id": 49,
+            "name": "Giermanski Sherry Electrologist",
+            "slug": "montgomery-al/bpp/giermanski-sherry-electrologist-29299",
+            "address": "2101 Eastern Blvd, Montgomery, AL, 36117",
+            "city": "Montgomery",
+            "state": "Alabama",
+            "zipCode": "36117",
+            "phone": "334-215-8035",
+            "email": "",
+            "website": "http://unwantedhairsolutions.com",
+            "description": "Sherry Giermanski, Electrologist provides electrolysis \"Electrolysis is considered a permanent hair removal method, since it destroys the hair follicle\", body sugaring, bikini lines and eyelash extensions. Electrology is permanent hair removal unlike some laser hair removal, eyelash extensions, hair loss, perming eyelashes, tinting eyelashes",
+            "hours": "\"Mo-Th 09:00-17:00\",\"Fr 08:00-17:00\",\"Sa 09:00-17:00\"",
+            "services": [
+              "Electrolysis Hair Removal Eyelash Extensions Body Sugaring Brazilian"
+            ],
+            "amenities": [
+              "Wheelchair accessible"
+            ],
+            "paymentMethods": [
+              "AMEX",
+              "DISCOVER",
+              "VISA",
+              "MASTERCARD",
+              "DINERSCLUB",
+              "MASTER CARD"
+            ],
+            "details": {
+              "Wheelchair Accessible": "Yes",
+              "By Appointment Only": "Yes"
+            },
+            "rating": 0,
+            "reviews": 0,
+            "latitude": 32.351845,
+            "longitude": -86.219406,
+            "images": [
+              "https://i2.ypcdn.com/blob/b25354d43d99b3d54b4c0575a3f74a1daaf20669_640.jpg"
+            ]
+          },
+          "nearbyBusinesses": [],
+          "slug": "montgomery-al/bpp/giermanski-sherry-electrologist-29299"
+        }
+      }
+    },
+    {
+      "path": "/business/hoover-al/bpp/santa-fe-massage-and-wellness-557420765",
+      "component": "BusinessPage",
+      "props": {
+        "businessData": {
+          "business": {
+            "id": 165,
+            "name": "Santa Fe Massage and Wellness",
+            "slug": "hoover-al/bpp/santa-fe-massage-and-wellness-557420765",
+            "address": "611 Doug Baker Blvd Ste 214D, Hoover, AL, 35242",
+            "city": "Birmingham",
+            "state": "Alabama",
+            "zipCode": "35242",
+            "phone": "205-408-7221",
+            "email": "santafedayspa@aol.com",
+            "website": "https://santafemassageandwellness.com",
+            "description": "",
+            "hours": "\"Mo-Sa 09:00-19:00\"",
+            "services": [
+              "Electrolysis",
+              "Permanent Hair Removal"
+            ],
+            "amenities": [],
+            "paymentMethods": [],
+            "details": {},
+            "rating": 0,
+            "reviews": 0,
+            "latitude": 33.40899,
+            "longitude": -86.66639,
+            "images": []
+          },
+          "nearbyBusinesses": [
+            {
+              "id": 5,
+              "name": "Baker Sara Electrolysis",
+              "slug": "birmingham-al/bpp/baker-sara-electrolysis-10038768",
+              "address": "3507 Old Montgomery Hwy, Birmingham, AL, 35209",
+              "city": "Birmingham",
+              "state": "Alabama",
+              "zipCode": "35209",
+              "phone": "205-414-1194",
+              "email": "",
+              "website": "http://sarabakerelectrolysis.com",
+              "description": "",
+              "hours": "",
+              "services": [
+                "Electrolysis",
+                "Permanent Hair Removal"
+              ],
+              "amenities": [],
+              "paymentMethods": [],
+              "details": {},
+              "rating": 0,
+              "reviews": 0,
+              "latitude": 33.470684,
+              "longitude": -86.78189,
+              "images": []
+            }
+          ],
+          "slug": "hoover-al/bpp/santa-fe-massage-and-wellness-557420765"
+        }
+      }
+    },
+    {
+      "path": "/business/gilbert-az/bpp/the-lash-and-sugar-company-503995950",
+      "component": "BusinessPage",
+      "props": {
+        "businessData": {
+          "business": {
+            "id": 392,
+            "name": "The Lash and Sugar Company",
+            "slug": "gilbert-az/bpp/the-lash-and-sugar-company-503995950",
+            "address": "2168 E Williams Field Rd, Gilbert, AZ, 85295",
+            "city": "Mesa",
+            "state": "Arizona",
+            "zipCode": "85295",
+            "phone": "480-268-9341",
+            "email": "vanessa@pinksthebeautyboutique.com",
+            "website": "http://www.thelashandsugarcompany.com",
+            "description": "",
+            "hours": "\"Mo-Fr 10:00-19:00\",\"Sa 10:00-18:00\",\"Su 11:00-18:00\"",
+            "services": [
+              "Eyelash Extensions",
+              "Sugaring Hair Removal",
+              "Lash Training"
+            ],
+            "amenities": [
+              "Wheelchair accessible"
+            ],
+            "paymentMethods": [
+              "AMEX",
+              "DISCOVER",
+              "VISA",
+              "MASTERCARD"
+            ],
+            "details": {
+              "Bike Parking": "Yes",
+              "Parking": "Street",
+              "Wheelchair Accessible": "Yes",
+              "By Appointment Only": "No",
+              "Price Range": "Average"
+            },
+            "rating": 0,
+            "reviews": 0,
+            "latitude": 33.307003,
+            "longitude": -111.7444,
+            "images": []
+          },
+          "nearbyBusinesses": [],
+          "slug": "gilbert-az/bpp/the-lash-and-sugar-company-503995950"
+        }
+      }
+    },
+    {
+      "path": "/business/tempe-az/bpp/waxing-the-city-505263450",
+      "component": "BusinessPage",
+      "props": {
+        "businessData": {
+          "business": {
+            "id": 424,
+            "name": "Waxing The City",
+            "slug": "tempe-az/bpp/waxing-the-city-505263450",
+            "address": "1804 E Southern Ave, Tempe, AZ, 85282",
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zipCode": "85282",
+            "phone": "480-929-9111",
+            "email": "tempeaz@waxingthecity.com",
+            "website": "http://www.waxingthecity.com/locations/w25/us/az/tempe",
+            "description": "You deserve to Look Great and Feel Awesome. At Waxing the City Tempe, we believe YOU are at your best when YOU feel Beautiful, Confident and simply put, Awesome. We are a studio devoted exclusively to the art of waxing, but that's not all. Whether you've been waxing for years or it's your first time, we understand. It's our mission to provide a surprisingly personable experience in a welcoming and fun, team-based environment.",
+            "hours": "\"Mo-Fr 09:00-19:00\",\"Sa 09:00-17:00\",\"Su 10:00-16:00\"",
+            "services": [
+              "Electrolysis",
+              "Permanent Hair Removal"
+            ],
+            "amenities": [
+              "Wheelchair accessible"
+            ],
+            "paymentMethods": [
+              "AMEX",
+              "DISCOVER",
+              "VISA",
+              "MASTERCARD",
+              "DEBIT",
+              "DINERSCLUB",
+              "MASTER CARD"
+            ],
+            "details": {
+              "Parking": "Lot, Private",
+              "Bike Parking": "Yes",
+              "Price Range": "Average",
+              "By Appointment Only": "No"
+            },
+            "rating": 0,
+            "reviews": 0,
+            "latitude": 33.39309,
+            "longitude": -111.90885,
+            "images": [
+              "https://i1.ypcdn.com/blob/f4ff30fb122099eb8b2f392ad10f094d17c0b1d5_640.jpg",
+              "https://i4.ypcdn.com/blob/d814043cb5a4554862d86a98bcb25c0b95d07e17_640.jpg",
+              "https://i4.ypcdn.com/blob/bab26b638d3fcfa37a0de11275178605859514d2_640.jpg",
+              "https://i1.ypcdn.com/blob/b0951cbca159ee4e96a047a750d502492fcf98e5_640.jpg"
+            ]
+          },
+          "nearbyBusinesses": [],
+          "slug": "tempe-az/bpp/waxing-the-city-505263450"
+        }
+      }
+    },
+    {
+      "path": "/business/fort-smith-ar/bpp/nelda-wray-brandi-wray-located-at-fort-smith-wellness-455321841",
+      "component": "BusinessPage",
+      "props": {
+        "businessData": {
+          "business": {
+            "id": 611,
+            "name": "Nelda Wray & Brandi Wray Located at Fort Smith Wellness",
+            "slug": "fort-smith-ar/bpp/nelda-wray-brandi-wray-located-at-fort-smith-wellness-455321841",
+            "address": "6108 S 31st St, Fort Smith, AR, 72908",
+            "city": "Fort Smith",
+            "state": "Arkansas",
+            "zipCode": "72908",
+            "phone": "479-719-5850",
+            "email": "",
+            "website": "http://www.fortsmithwellness.com",
+            "description": "Effective For Over 100 Yrs-All Skin Types. Electrolysis, Waxing, Massage",
+            "hours": "\"Mo-Fr 09:00-18:30\",\"Sa 09:00-15:00\"",
+            "services": [
+              "Massage",
+              "Electrolysis Permanent Hair Removal"
+            ],
+            "amenities": [],
+            "paymentMethods": [
+              "AMEX",
+              "DISCOVER",
+              "VISA",
+              "MASTERCARD",
+              "DINERSCLUB"
+            ],
+            "details": {
+              "Price Range": "Average"
+            },
+            "rating": 0,
+            "reviews": 0,
+            "latitude": 35.324863,
+            "longitude": -94.40104,
+            "images": []
+          },
+          "nearbyBusinesses": [],
+          "slug": "fort-smith-ar/bpp/nelda-wray-brandi-wray-located-at-fort-smith-wellness-455321841"
+        }
+      }
+    },
+    {
+      "path": "/business/bakersfield-ca/bpp/brazilian-wax-boutique-461569153",
+      "component": "BusinessPage",
+      "props": {
+        "businessData": {
+          "business": {
+            "id": 970,
+            "name": "Brazilian Wax Boutique",
+            "slug": "bakersfield-ca/bpp/brazilian-wax-boutique-461569153",
+            "address": "600 Coffee Rd Ste F, Bakersfield, CA, 93309",
+            "city": "Bakersfield",
+            "state": "California",
+            "zipCode": "93309",
+            "phone": "661-397-4647",
+            "email": "brazilianwaxboutique@gmail.com",
+            "website": "http://www.brazilianwaxboutique.com",
+            "description": "",
+            "hours": "\"Mo-Fr 10:00-18:00\",\"Sa-Su 10:00-15:00\"",
+            "services": [
+              "Electrolysis",
+              "Permanent Hair Removal"
+            ],
+            "amenities": [
+              "Wheelchair accessible"
+            ],
+            "paymentMethods": [
+              "AMEX",
+              "DISCOVER",
+              "VISA",
+              "MASTERCARD",
+              "DINERSCLUB"
+            ],
+            "details": {
+              "Parking": "Lot, Private",
+              "Bike Parking": "Yes",
+              "Wheelchair Accessible": "Yes",
+              "By Appointment Only": "Yes",
+              "Price Range": "Average"
+            },
+            "rating": 0,
+            "reviews": 0,
+            "latitude": 35.360947,
+            "longitude": -119.09185,
+            "images": []
+          },
+          "nearbyBusinesses": [],
+          "slug": "bakersfield-ca/bpp/brazilian-wax-boutique-461569153"
+        }
+      }
+    },
+    {
+      "path": "/business/riverside-ca/bpp/salon-design-11341582",
+      "component": "BusinessPage",
+      "props": {
+        "businessData": {
+          "business": {
+            "id": 1068,
+            "name": "Salon Design",
+            "slug": "riverside-ca/bpp/salon-design-11341582",
+            "address": "3430 La Sierra Ave, Riverside, CA, 92503",
+            "city": "Riverside",
+            "state": "California",
+            "zipCode": "92503",
+            "phone": "951-359-5069",
+            "email": "brentnadig@yahoo.com",
+            "website": "",
+            "description": "Welcome to Salon Design. We are a full service providing the latest styles and color for the whole family. We welcome walk-ins as well as last minute appointments. We are trainined in the newest technology for hair care and treatments. Our expert stylists can help you look your best from hair to make-up. The team at Salon Design is ready to create the look you want. Our Stylist are trained in all aspects of hair, make-up and waxing. Hair weaving and extensions are our specialty Contact us today for your make-over Or book appointment online for your convenience",
+            "hours": "\"Mo-Fr 09:00-17:00\"",
+            "services": [
+              "Hair Designer Cuts and Perms for Men",
+              "Women and Children Color-Inspire Hi-Lites Power Hydro Mas Chemistry System Deep Conditioning Extensions Micro-Cylinder Keratin Crystal Eyelash Touch Up Waxing Brow Lower Legs Chin Full Legs Lip Bikini Face Underarm"
+            ],
+            "amenities": [],
+            "paymentMethods": [
+              "AMEX",
+              "DISCOVER",
+              "VISA",
+              "MASTERCARD",
+              "DINERSCLUB"
+            ],
+            "details": {
+              "Price Range": "Average",
+              "By Appointment Only": "No"
+            },
+            "rating": 0,
+            "reviews": 0,
+            "latitude": 33.897797,
+            "longitude": -117.47184,
+            "images": [
+              "https://i4.ypcdn.com/blob/9533f0feeb95722bf82af5c6219c3941d11a7164_640.jpg",
+              "https://i4.ypcdn.com/blob/2e5935afd22593a267d174b92e66f80d4a4703d9_640.jpg",
+              "https://i1.ypcdn.com/blob/f513313a9bd44b81095c05892536fd44318646ae_640.jpg",
+              "https://i1.ypcdn.com/blob/a01a9485b966c9f2ce2dbeac167570fe572bc073_640.jpg"
+            ]
+          },
+          "nearbyBusinesses": [],
+          "slug": "riverside-ca/bpp/salon-design-11341582"
+        }
+      }
+    },
+    {
+      "path": "/about",
+      "component": "AboutPage"
+    },
+    {
+      "path": "/contact",
+      "component": "ContactPage"
+    },
+    {
+      "path": "/blog",
+      "component": "BlogPage"
+    },
+    {
+      "path": "/add-listing",
+      "component": "AddListingPage"
+    }
+  ]
+}

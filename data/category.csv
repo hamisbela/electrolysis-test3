@@ -1,0 +1,51 @@
+id,ts,category
+1,2023-10-09 05:10:55,Beauty Salons
+3,2023-10-09 05:17:38,Cosmetologists
+4,2023-10-09 05:17:38,Day Spas
+5,2023-10-09 05:17:38,Hair Removal
+6,2023-10-09 05:17:38,Hair Stylists
+7,2023-10-09 05:17:38,Nail Salons
+8,2023-10-09 05:17:51,Hair Supplies & Accessories
+9,2023-10-09 05:17:51,Barbers
+11,2023-10-09 05:17:51,Beauty Supplies & Equipment
+12,2023-10-09 05:17:51,Hair Replacement
+13,2023-10-09 05:17:51,Wigs & Hair Pieces
+20,2023-10-09 05:18:10,Permanent Make-Up
+22,2023-10-09 05:18:10,Cosmetic Services
+23,2023-10-09 05:18:10,Electrolysis
+25,2023-10-09 05:18:10,Lab Equipment & Supplies
+26,2023-10-09 05:18:10,Lasers
+27,2023-10-09 05:18:10,Wax
+34,2023-10-09 05:19:18,Beauty Salon Equipment & Supplies
+36,2023-10-09 05:19:18,Cosmetics & Perfumes
+40,2023-10-09 05:19:36,Skin Care
+47,2023-10-09 05:19:51,Wedding Supplies & Services
+48,2023-10-09 05:19:51,Tattoos
+50,2023-10-09 05:19:51,Body Piercing
+69,2023-10-09 05:20:11,Health Resorts
+70,2023-10-09 05:20:11,Massage Services
+71,2023-10-09 05:20:11,Massage Therapists
+75,2023-10-09 05:20:11,Tanning Salons
+81,2023-10-09 05:20:20,Alternative Medicine & Health Practitioners
+88,2023-10-09 05:20:29,Hair Braiding
+92,2023-10-09 05:20:29,Hair Weaving
+110,2023-10-09 05:22:19,Health Clubs
+153,2023-10-09 05:24:22,Make-Up Artists
+189,2023-10-09 05:26:06,Aromatherapy
+276,2023-10-09 05:27:54,Beauty Salons-Equipment & Supplies-Wholesale & Manufacturers
+361,2023-10-09 05:29:53,Beauty Schools
+374,2023-10-09 05:29:58,Health & Wellness Products
+376,2023-10-09 05:29:58,Tattoo Removal
+384,2023-10-09 05:30:10,"Physicians & Surgeons, Weight Loss Management"
+448,2023-10-09 05:30:31,Medical Clinics
+639,2023-10-09 05:33:44,Dentists
+799,2023-10-09 05:41:12,Physical Therapists
+940,2023-10-09 05:44:24,Acupuncture
+944,2023-10-09 05:44:24,Health & Fitness Program Consultants
+956,2023-10-09 05:44:37,Medical Spas
+957,2023-10-09 05:44:37,Physicians & Surgeons
+958,2023-10-09 05:44:37,"Physicians & Surgeons, Dermatology"
+959,2023-10-09 05:44:37,"Physicians & Surgeons, Family Medicine & General Practice"
+960,2023-10-09 05:44:37,"Physicians & Surgeons, Laser Surgery"
+961,2023-10-09 05:44:37,"Physicians & Surgeons, Surgery-General"
+1482,2023-10-09 06:01:11,Teeth Whitening Products & Services
