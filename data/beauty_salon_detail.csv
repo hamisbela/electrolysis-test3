@@ -49,3 +49,1630 @@ id,ts,key,value,beauty_salon_id
 22021,2023-10-09 19:09:56,Wheelchair Accessible,Yes,2589
 22022,2023-10-09 19:09:56,Price Range,Average,2589
 22023,2023-10-09 19:09:56,Parking,"Street, Lot, Self, Private",2589
+22024,2023-10-09 19:09:56,By Appointment Only,No,2589
+23577,2023-10-09 19:52:24,Parking,"Garage, Street",2779
+23578,2023-10-09 19:52:24,Wheelchair Accessible,Yes,2779
+23579,2023-10-09 19:52:24,Price Range,Average,2779
+23580,2023-10-09 19:52:24,By Appointment Only,Yes,2779
+25922,2023-10-09 21:51:30,Parking,"Lot, Private",3173
+25923,2023-10-09 21:51:30,Wheelchair Accessible,Yes,3173
+25924,2023-10-09 21:51:30,Price Range,Average,3173
+25925,2023-10-09 21:51:30,By Appointment Only,Yes,3173
+26174,2023-10-09 22:04:58,Parking,Garage,3211
+26175,2023-10-09 22:04:58,Bike Parking,Yes,3211
+26176,2023-10-09 22:04:58,Wheelchair Accessible,Yes,3211
+26177,2023-10-09 22:04:58,By Appointment Only,Yes,3211
+27803,2023-10-09 23:18:16,Price Range,Below Average,3417
+27804,2023-10-09 23:18:16,Wheelchair Accessible,Yes,3417
+27805,2023-10-09 23:18:16,Parking,"Lot, Private",3417
+27806,2023-10-09 23:18:16,Bike Parking,Yes,3417
+27807,2023-10-09 23:18:16,By Appointment Only,Yes,3417
+27902,2023-10-09 23:26:20,Parking,"Street, Lot, Self, On Site, Free",3432
+27903,2023-10-09 23:26:20,Wheelchair Accessible,Yes,3432
+27904,2023-10-09 23:26:20,Price Range,Average,3432
+27905,2023-10-09 23:26:20,By Appointment Only,Yes,3432
+30177,2023-10-10 00:58:03,Bike Parking,No,3759
+30178,2023-10-10 00:58:03,By Appointment Only,Yes,3759
+30623,2023-10-10 01:12:07,Price Range,Above Average,3802
+30624,2023-10-10 01:12:07,By Appointment Only,Yes,3802
+30696,2023-10-10 01:13:17,Bike Parking,Yes,3807
+30697,2023-10-10 01:13:17,Parking,Lot,3807
+30698,2023-10-10 01:13:17,By Appointment Only,Yes,3807
+30699,2023-10-10 01:13:17,Price Range,Average,3807
+32582,2023-10-10 02:42:36,Bike Parking,Yes,4064
+32583,2023-10-10 02:42:36,Parking,"Street, Lot, Private",4064
+32584,2023-10-10 02:42:36,Wheelchair Accessible,No,4064
+32585,2023-10-10 02:42:36,By Appointment Only,Yes,4064
+32586,2023-10-10 02:42:36,Price Range,Below Average,4064
+32587,2023-10-10 02:42:36,Pets Allowed,No,4064
+34244,2023-10-10 04:05:19,Parking,"Self, On Site, Free, Private",4306
+35367,2023-10-10 04:56:31,Parking,Street,4423
+35368,2023-10-10 04:56:31,Bike Parking,Yes,4423
+35369,2023-10-10 04:56:31,Wheelchair Accessible,Yes,4423
+35370,2023-10-10 04:56:31,By Appointment Only,No,4423
+35371,2023-10-10 04:56:31,Price Range,Average,4423
+35904,2023-10-10 05:26:38,Wheelchair Accessible,Yes,4504
+35905,2023-10-10 05:26:38,Price Range,Above Average,4504
+38208,2023-10-10 07:46:35,Bike Parking,Yes,4983
+38209,2023-10-10 07:46:35,Parking,"Lot, Private",4983
+38210,2023-10-10 07:46:35,Wheelchair Accessible,Yes,4983
+38211,2023-10-10 07:46:35,By Appointment Only,No,4983
+42348,2023-10-10 10:44:37,Price Range,Average,5497
+42349,2023-10-10 10:44:37,Bike Parking,Yes,5497
+42350,2023-10-10 10:44:37,Wheelchair Accessible,Yes,5497
+42351,2023-10-10 10:44:37,Parking,"Lot, Private",5497
+47243,2023-10-10 14:45:35,Parking,"Lot, Private",6267
+47244,2023-10-10 14:45:35,Wheelchair Accessible,Yes,6267
+47245,2023-10-10 14:45:35,Price Range,Average,6267
+47246,2023-10-10 14:45:35,By Appointment Only,Yes,6267
+49868,2023-10-10 16:34:49,By Appointment Only,Yes,6601
+53241,2023-10-10 18:55:32,Parking,Lot,7006
+53882,2023-10-10 19:51:00,Parking,"Lot, Private",7101
+53883,2023-10-10 19:51:00,Bike Parking,No,7101
+53884,2023-10-10 19:51:00,Price Range,Average,7101
+53885,2023-10-10 19:51:00,By Appointment Only,Yes,7101
+55532,2023-10-10 22:06:19,Services,Liposuction,7354
+56766,2023-10-10 23:38:26,Parking,Street,7498
+56767,2023-10-10 23:38:26,Wheelchair Accessible,No,7498
+56768,2023-10-10 23:38:26,Price Range,Average,7498
+56769,2023-10-10 23:38:26,Bike Parking,Yes,7498
+56770,2023-10-10 23:38:26,By Appointment Only,Yes,7498
+57264,2023-10-11 00:21:55,Parking,"Lot, Private",7572
+57265,2023-10-11 00:21:55,Bike Parking,Yes,7572
+57266,2023-10-11 00:21:55,Wheelchair Accessible,No,7572
+57267,2023-10-11 00:21:55,Price Range,Average,7572
+57268,2023-10-11 00:21:55,By Appointment Only,Yes,7572
+57998,2023-10-11 01:08:36,Parking,"Street, Lot",7690
+59945,2023-10-11 04:18:46,By Appointment Only,Yes,8060
+59946,2023-10-11 04:18:46,Price Range,Average,8060
+63217,2023-10-11 08:09:05,Bike Parking,Yes,8643
+63218,2023-10-11 08:09:05,Price Range,Average,8643
+63219,2023-10-11 08:09:05,By Appointment Only,Yes,8643
+67108,2023-10-11 10:13:09,Parking,"Lot, Self, On Site, Free",9054
+67109,2023-10-11 10:13:09,Wheelchair Accessible,No,9054
+67110,2023-10-11 10:13:09,Price Range,Average,9054
+67111,2023-10-11 10:13:09,By Appointment Only,Yes,9054
+71471,2023-10-11 12:45:49,Specialties,"Perms, Curly Hair, Coloring, Kids' Hair",9636
+71472,2023-10-11 12:45:49,Parking,Free,9636
+71473,2023-10-11 12:45:49,Wheelchair Accessible,Yes,9636
+71474,2023-10-11 12:45:49,Price Range,Average,9636
+71475,2023-10-11 12:45:49,Bike Parking,No,9636
+71476,2023-10-11 12:45:49,By Appointment Only,No,9636
+71855,2023-10-11 13:00:34,Parking,"Lot, Self, On Site, Free",9722
+72091,2023-10-11 13:14:12,Wheelchair Accessible,Yes,9766
+72092,2023-10-11 13:14:12,Parking,"Lot, Private",9766
+72093,2023-10-11 13:14:12,Bike Parking,Yes,9766
+76227,2023-10-11 17:02:44,Specialties,Dermatology,10546
+83096,2023-10-12 01:20:43,Bike Parking,No,11211
+83097,2023-10-12 01:20:43,Price Range,Average,11211
+83098,2023-10-12 01:20:43,By Appointment Only,Yes,11211
+84328,2023-10-12 03:10:54,Parking,Lot,11343
+85041,2023-10-12 04:16:38,Parking,"Lot, Private",11408
+85042,2023-10-12 04:16:38,Price Range,Average,11408
+85043,2023-10-12 04:16:38,By Appointment Only,Yes,11408
+87907,2023-10-12 06:32:03,Parking,"Garage, Street, Valet",11646
+87908,2023-10-12 06:32:03,Bike Parking,Yes,11646
+87909,2023-10-12 06:32:03,Wheelchair Accessible,Yes,11646
+87910,2023-10-12 06:32:03,By Appointment Only,No,11646
+91079,2023-10-12 07:53:27,By Appointment Only,Yes,11965
+91937,2023-10-12 09:01:31,Parking,"Lot, Private",12094
+91938,2023-10-12 09:01:31,Bike Parking,Yes,12094
+91939,2023-10-12 09:01:31,Wheelchair Accessible,Yes,12094
+91940,2023-10-12 09:01:31,Price Range,Average,12094
+91941,2023-10-12 09:01:31,By Appointment Only,No,12094
+93325,2023-10-12 10:34:11,Bike Parking,No,12274
+93326,2023-10-12 10:34:11,Parking,"Street, Lot, Private",12274
+93327,2023-10-12 10:34:11,Wheelchair Accessible,Yes,12274
+93328,2023-10-12 10:34:11,By Appointment Only,No,12274
+100073,2023-10-12 17:11:30,Parking,"Street, Free",13326
+100074,2023-10-12 17:11:30,Bike Parking,Yes,13326
+100075,2023-10-12 17:11:30,Wheelchair Accessible,Yes,13326
+100076,2023-10-12 17:11:30,By Appointment Only,Yes,13326
+100077,2023-10-12 17:11:30,Price Range,Average,13326
+101817,2023-10-12 18:29:10,Parking,Lot,13556
+101818,2023-10-12 18:29:10,Wheelchair Accessible,Yes,13556
+104458,2023-10-12 20:50:12,By Appointment Only,Yes,13876
+105013,2023-10-12 21:16:25,Parking,"Self, Free",13952
+105014,2023-10-12 21:16:25,Bike Parking,Yes,13952
+105015,2023-10-12 21:16:25,Price Range,Average,13952
+111482,2023-10-13 03:55:21,Parking,"Lot, Free",15413
+116657,2023-10-13 10:20:35,Price Range,Average,16423
+119748,2023-10-13 14:19:49,Price Range,Average,17093
+119749,2023-10-13 14:19:49,By Appointment Only,Yes,17093
+120051,2023-10-13 14:33:02,Parking,"Street, Lot",17161
+121404,2023-10-13 17:48:45,Parking,Lot,17731
+121405,2023-10-13 17:48:45,Bike Parking,Yes,17731
+121406,2023-10-13 17:48:45,By Appointment Only,Yes,17731
+121441,2023-10-13 17:52:40,Parking,Lot,17741
+121471,2023-10-13 17:55:02,Parking,"Lot, Self, On Site, Free",17750
+121472,2023-10-13 17:55:02,Wheelchair Accessible,Yes,17750
+122044,2023-10-13 19:56:08,Parking,"Street, Lot, Private",17997
+122045,2023-10-13 19:56:08,Price Range,Average,17997
+122046,2023-10-13 19:56:08,By Appointment Only,Yes,17997
+122108,2023-10-13 20:01:28,Parking,Lot,18015
+122202,2023-10-13 20:10:49,Parking,"Lot, Private",18042
+122203,2023-10-13 20:10:49,Bike Parking,Yes,18042
+122204,2023-10-13 20:10:49,Wheelchair Accessible,Yes,18042
+122205,2023-10-13 20:10:49,Price Range,Average,18042
+122206,2023-10-13 20:10:49,By Appointment Only,Yes,18042
+122207,2023-10-13 20:10:49,Good for Kids,Yes,18042
+122210,2023-10-13 20:16:58,Parking,"Street, Lot, Private",18044
+122211,2023-10-13 20:16:58,By Appointment Only,Yes,18044
+123962,2023-10-13 22:18:59,Price Range,Average,18471
+123963,2023-10-13 22:18:59,Wheelchair Accessible,Yes,18471
+123964,2023-10-13 22:18:59,Parking,"Lot, Private",18471
+123965,2023-10-13 22:18:59,Bike Parking,Yes,18471
+123966,2023-10-13 22:18:59,By Appointment Only,Yes,18471
+124347,2023-10-13 22:37:42,Parking,"Lot, Free",18595
+124348,2023-10-13 22:37:42,Wheelchair Accessible,Yes,18595
+125041,2023-10-13 23:06:58,Parking,"Street, Lot, Private",18809
+125042,2023-10-13 23:06:58,Bike Parking,Yes,18809
+125043,2023-10-13 23:06:58,Wheelchair Accessible,No,18809
+125044,2023-10-13 23:06:58,Price Range,Average,18809
+125045,2023-10-13 23:06:58,By Appointment Only,Yes,18809
+125398,2023-10-13 23:22:23,Parking,Street,18901
+125399,2023-10-13 23:22:23,Wheelchair Accessible,Yes,18901
+125400,2023-10-13 23:22:23,Price Range,Above Average,18901
+125401,2023-10-13 23:22:23,By Appointment Only,Yes,18901
+125402,2023-10-13 23:22:23,Good for Kids,Yes,18901
+125804,2023-10-13 23:41:40,Parking,Street,18988
+125805,2023-10-13 23:41:40,Price Range,Average,18988
+125806,2023-10-13 23:41:40,Bike Parking,Yes,18988
+125807,2023-10-13 23:41:40,By Appointment Only,Yes,18988
+126010,2023-10-13 23:54:50,By Appointment Only,Yes,19019
+126029,2023-10-13 23:55:58,By Appointment Only,Yes,19051
+126481,2023-10-14 00:21:33,Parking,"Lot, On Site",19303
+126482,2023-10-14 00:21:33,By Appointment Only,Yes,19303
+126483,2023-10-14 00:21:33,Price Range,Average,19303
+126496,2023-10-14 00:22:00,By Appointment Only,Yes,19306
+128628,2023-10-14 04:41:33,Parking,"Lot, Self, On Site, Free, Private",20503
+128629,2023-10-14 04:41:33,Bike Parking,Yes,20503
+128630,2023-10-14 04:41:33,By Appointment Only,Yes,20503
+129328,2023-10-14 07:13:57,Wheelchair Accessible,No,20757
+129329,2023-10-14 07:13:57,Parking,Street,20757
+129330,2023-10-14 07:13:57,Bike Parking,Yes,20757
+129331,2023-10-14 07:13:57,By Appointment Only,No,20757
+130405,2023-10-14 09:53:09,Wheelchair Accessible,Yes,21090
+130406,2023-10-14 09:53:09,Price Range,Average,21090
+130407,2023-10-14 09:53:09,By Appointment Only,Yes,21090
+130408,2023-10-14 09:53:09,Services,Liposuction,21090
+130409,2023-10-14 09:53:09,Parking,"Lot, Private",21090
+130541,2023-10-14 10:13:47,Bike Parking,Yes,21137
+130542,2023-10-14 10:13:47,Wheelchair Accessible,Yes,21137
+130543,2023-10-14 10:13:47,Price Range,Above Average,21137
+130544,2023-10-14 10:13:47,By Appointment Only,Yes,21137
+131280,2023-10-14 12:25:37,Parking,"Lot, Private",21388
+131281,2023-10-14 12:25:37,Wheelchair Accessible,Yes,21388
+131282,2023-10-14 12:25:37,By Appointment Only,Yes,21388
+131283,2023-10-14 12:25:37,Services,"Vein Treatments, Medical Services",21388
+131284,2023-10-14 12:25:37,Bike Parking,Yes,21388
+131344,2023-10-14 12:30:00,Parking,Street,21408
+131345,2023-10-14 12:30:00,Bike Parking,No,21408
+131346,2023-10-14 12:30:00,Price Range,Average,21408
+131347,2023-10-14 12:30:00,By Appointment Only,No,21408
+132115,2023-10-14 14:24:43,Parking,Street,21659
+132116,2023-10-14 14:24:43,Wheelchair Accessible,No,21659
+132117,2023-10-14 14:24:43,Price Range,Average,21659
+132118,2023-10-14 14:24:43,By Appointment Only,Yes,21659
+134057,2023-10-14 21:05:58,Parking,Lot,22390
+134089,2023-10-14 21:09:46,By Appointment Only,Yes,22403
+134204,2023-10-14 21:15:56,Parking,"Lot, Private",22432
+134205,2023-10-14 21:15:56,By Appointment Only,Yes,22432
+134259,2023-10-14 21:18:47,Parking,Street,22446
+134260,2023-10-14 21:18:47,Price Range,Above Average,22446
+134261,2023-10-14 21:18:47,By Appointment Only,Yes,22446
+135276,2023-10-14 22:01:19,Parking,Lot,22623
+135277,2023-10-14 22:01:19,By Appointment Only,Yes,22623
+137936,2023-10-15 03:00:52,Wheelchair Accessible,Yes,23692
+137937,2023-10-15 03:00:52,By Appointment Only,Yes,23692
+137938,2023-10-15 03:00:52,Price Range,Average,23692
+138020,2023-10-15 03:10:40,Bike Parking,Yes,23723
+138021,2023-10-15 03:10:40,Wheelchair Accessible,No,23723
+138022,2023-10-15 03:10:40,Parking,Street,23723
+138278,2023-10-15 03:23:22,Parking,Street,23781
+138279,2023-10-15 03:23:22,Bike Parking,No,23781
+138280,2023-10-15 03:23:22,Wheelchair Accessible,Yes,23781
+138281,2023-10-15 03:23:22,Price Range,Average,23781
+138282,2023-10-15 03:23:22,By Appointment Only,Yes,23781
+139323,2023-10-15 05:00:08,Parking,Lot,24069
+143290,2023-10-18 17:16:30,Parking,"Lot, Private",25368
+143291,2023-10-18 17:16:30,Wheelchair Accessible,Yes,25368
+143292,2023-10-18 17:16:30,Bike Parking,Yes,25368
+146940,2023-10-19 00:11:44,Parking,"Lot, Private",26957
+146941,2023-10-19 00:11:44,Wheelchair Accessible,Yes,26957
+146942,2023-10-19 00:11:44,By Appointment Only,No,26957
+147347,2023-10-19 00:35:53,Parking,Street,27055
+147348,2023-10-19 00:35:53,Wheelchair Accessible,Yes,27055
+147360,2023-10-19 00:36:24,Bike Parking,Yes,27058
+147361,2023-10-19 00:36:24,Parking,"Lot, Private",27058
+147362,2023-10-19 00:36:24,Wheelchair Accessible,Yes,27058
+147363,2023-10-19 00:36:24,By Appointment Only,Yes,27058
+147364,2023-10-19 00:36:24,Price Range,Average,27058
+147671,2023-10-19 00:55:58,Parking,Street,27281
+147672,2023-10-19 00:55:58,Wheelchair Accessible,Yes,27281
+147673,2023-10-19 00:55:58,Price Range,Average,27281
+147674,2023-10-19 00:55:58,By Appointment Only,Yes,27281
+147675,2023-10-19 00:55:58,Bike Parking,Yes,27281
+147752,2023-10-19 00:59:22,Parking,Lot,27309
+148303,2023-10-19 01:28:35,Parking,Lot,27508
+148304,2023-10-19 01:28:35,Bike Parking,No,27508
+148305,2023-10-19 01:28:35,By Appointment Only,Yes,27508
+148784,2023-10-19 02:22:03,Parking,"Self, On Site, Free",27855
+148785,2023-10-19 02:22:03,By Appointment Only,Yes,27855
+148786,2023-10-19 02:23:19,Parking,"Lot, Self, On Site, Free",27865
+151897,2023-10-19 09:08:21,Parking,Street,31608
+151898,2023-10-19 09:08:21,Bike Parking,No,31608
+151899,2023-10-19 09:08:21,Wheelchair Accessible,Yes,31608
+151900,2023-10-19 09:08:21,Price Range,Average,31608
+151901,2023-10-19 09:08:21,By Appointment Only,Yes,31608
+152726,2023-10-19 11:19:48,Bike Parking,Yes,33958
+152727,2023-10-19 11:19:48,Parking,"Lot, Private",33958
+152728,2023-10-19 11:19:48,Wheelchair Accessible,Yes,33958
+152729,2023-10-19 11:19:48,By Appointment Only,Yes,33958
+152730,2023-10-19 11:19:48,Price Range,Below Average,33958
+153657,2023-10-19 12:29:23,Parking,"Lot, Free",34736
+153658,2023-10-19 12:29:23,Wheelchair Accessible,Yes,34736
+153659,2023-10-19 12:29:23,By Appointment Only,Yes,34736
+154304,2023-10-19 13:24:55,Bike Parking,No,35024
+154452,2023-10-19 13:45:44,Parking,"Lot, Private",35116
+154453,2023-10-19 13:45:44,Price Range,Average,35116
+154454,2023-10-19 13:45:44,By Appointment Only,Yes,35116
+154660,2023-10-19 14:00:50,Bike Parking,Yes,35342
+154661,2023-10-19 14:00:50,Parking,Lot,35342
+154662,2023-10-19 14:00:50,By Appointment Only,Yes,35342
+155564,2023-10-19 15:49:57,Bike Parking,Yes,36763
+155565,2023-10-19 15:49:57,Parking,Lot,36763
+155566,2023-10-19 15:49:57,By Appointment Only,No,36763
+155627,2023-10-19 16:00:07,Parking,Lot,36828
+1403,2023-10-09 06:11:15,Price Range,Below Average,40971
+1404,2023-10-09 06:11:15,By Appointment Only,No,40971
+2489,2023-10-09 06:30:14,Parking,"Lot, Private",41334
+2490,2023-10-09 06:30:14,Wheelchair Accessible,Yes,41334
+2491,2023-10-09 06:30:14,Price Range,Average,41334
+2492,2023-10-09 06:30:14,By Appointment Only,Yes,41334
+8126,2023-10-09 09:27:34,Wheelchair Accessible,Yes,42967
+9061,2023-10-09 10:07:50,Bike Parking,Yes,43189
+9062,2023-10-09 10:07:50,Wheelchair Accessible,Yes,43189
+9063,2023-10-09 10:07:50,By Appointment Only,Yes,43189
+13917,2023-10-09 13:35:30,Parking,"Lot, Free",51103
+15989,2023-10-09 14:52:41,Parking,"Lot, Private",54970
+15990,2023-10-09 14:52:41,Bike Parking,Yes,54970
+15991,2023-10-09 14:52:41,Wheelchair Accessible,Yes,54970
+15992,2023-10-09 14:52:41,By Appointment Only,Yes,54970
+16112,2023-10-09 14:59:11,Specialties,"Extensions, Coloring",55043
+16113,2023-10-09 14:59:11,Parking,"Lot, Private",55043
+16114,2023-10-09 14:59:11,Bike Parking,Yes,55043
+16115,2023-10-09 14:59:11,Wheelchair Accessible,Yes,55043
+16116,2023-10-09 14:59:11,Certifications,"Redken, Bare Minerals, Creative Nail Design",55043
+16117,2023-10-09 14:59:11,By Appointment Only,Yes,55043
+17336,2023-10-09 15:38:13,Parking,"Lot, Free",58402
+34399,2023-10-10 04:15:41,Bike Parking,Yes,62388
+34400,2023-10-10 04:15:41,Price Range,Below Average,62388
+34401,2023-10-10 04:15:41,By Appointment Only,Yes,62388
+38645,2023-10-10 08:03:21,Price Range,Average,63361
+41407,2023-10-10 09:37:12,Parking,Street,63800
+41408,2023-10-10 09:37:12,Bike Parking,Yes,63800
+41409,2023-10-10 09:37:12,Price Range,Average,63800
+41410,2023-10-10 09:37:12,By Appointment Only,Yes,63800
+55075,2023-10-10 21:21:13,Parking,Lot,67308
+57894,2023-10-11 01:00:34,Parking,"Lot, Free",67938
+57895,2023-10-11 01:00:34,Bike Parking,Yes,67938
+57896,2023-10-11 01:00:34,Wheelchair Accessible,Yes,67938
+62253,2023-10-11 07:22:54,Price Range,Above Average,69675
+63206,2023-10-11 08:08:53,Parking,Street,69914
+67686,2023-10-11 10:28:10,Parking,"Street, Lot, Self, On Site, Free",70911
+67941,2023-10-11 10:33:44,By Appointment Only,Yes,70939
+67942,2023-10-11 10:33:44,Parking,"Garage, Street, Validated",70939
+67943,2023-10-11 10:33:44,Bike Parking,Yes,70939
+67944,2023-10-11 10:33:44,Wheelchair Accessible,Yes,70939
+68169,2023-10-11 10:43:22,Parking,"Lot, Private",71028
+68170,2023-10-11 10:43:22,Wheelchair Accessible,Yes,71028
+68171,2023-10-11 10:43:22,Price Range,Average,71028
+68172,2023-10-11 10:43:22,By Appointment Only,Yes,71028
+71657,2023-10-11 12:51:38,Price Range,Average,72111
+71658,2023-10-11 12:51:38,Wheelchair Accessible,Yes,72111
+71659,2023-10-11 12:51:38,Parking,"Lot, Private",72111
+71660,2023-10-11 12:51:38,By Appointment Only,Yes,72111
+74947,2023-10-11 15:50:38,Specialties,"Extensions, Straight Perms, Coloring, Curly Hair",73087
+74948,2023-10-11 15:50:38,Parking,"Lot, Private",73087
+74949,2023-10-11 15:50:38,Wheelchair Accessible,Yes,73087
+74950,2023-10-11 15:50:38,Price Range,Average,73087
+83669,2023-10-12 02:09:11,Parking,Lot,74366
+83670,2023-10-12 02:09:11,Wheelchair Accessible,Yes,74366
+91177,2023-10-12 07:58:12,Parking,Lot,75114
+95649,2023-10-12 13:02:21,Parking,"Lot, Private",76359
+95650,2023-10-12 13:02:21,By Appointment Only,Yes,76359
+100294,2023-10-12 17:21:16,Price Range,Above Average,77867
+100295,2023-10-12 17:21:16,Wheelchair Accessible,Yes,77867
+100296,2023-10-12 17:21:16,Parking,Lot,77867
+100297,2023-10-12 17:21:16,Bike Parking,Yes,77867
+100298,2023-10-12 17:21:16,By Appointment Only,No,77867
+100429,2023-10-12 17:23:59,Parking,Street,77883
+100430,2023-10-12 17:23:59,Bike Parking,Yes,77883
+100431,2023-10-12 17:23:59,Wheelchair Accessible,No,77883
+100432,2023-10-12 17:23:59,By Appointment Only,Yes,77883
+101246,2023-10-12 18:12:09,Price Range,Below Average,78144
+101247,2023-10-12 18:12:09,By Appointment Only,Yes,78144
+103237,2023-10-12 19:56:18,Parking,"Lot, Private",78749
+103238,2023-10-12 19:56:18,Bike Parking,Yes,78749
+103239,2023-10-12 19:56:18,Wheelchair Accessible,Yes,78749
+103240,2023-10-12 19:56:18,Price Range,Average,78749
+103241,2023-10-12 19:56:18,By Appointment Only,Yes,78749
+104709,2023-10-12 20:57:53,Parking,Self,79013
+104710,2023-10-12 20:57:53,Wheelchair Accessible,Yes,79013
+107373,2023-10-12 22:59:59,Bike Parking,No,79797
+1438,2023-10-09 06:11:55,Specialties,"Extensions, Coloring, Curly Hair",80418
+1439,2023-10-09 06:11:55,Parking,Street,80418
+1440,2023-10-09 06:11:55,Bike Parking,Yes,80418
+1441,2023-10-09 06:11:55,Wheelchair Accessible,Yes,80418
+1442,2023-10-09 06:11:55,Price Range,Average,80418
+1443,2023-10-09 06:11:55,By Appointment Only,Yes,80418
+2950,2023-10-09 06:39:38,Parking,"Garage, Street",80621
+2951,2023-10-09 06:39:38,Bike Parking,No,80621
+2952,2023-10-09 06:39:38,Wheelchair Accessible,Yes,80621
+2953,2023-10-09 06:39:38,Price Range,Average,80621
+2954,2023-10-09 06:39:38,By Appointment Only,Yes,80621
+3305,2023-10-09 07:02:54,Parking,Street,80664
+3306,2023-10-09 07:02:54,Bike Parking,Yes,80664
+4385,2023-10-09 07:42:41,Parking,Street,80826
+4386,2023-10-09 07:42:41,Price Range,Average,80826
+4387,2023-10-09 07:42:41,By Appointment Only,Yes,80826
+6746,2023-10-09 08:55:09,Parking,Street,81252
+6747,2023-10-09 08:55:09,Bike Parking,Yes,81252
+6748,2023-10-09 08:55:09,Wheelchair Accessible,Yes,81252
+6749,2023-10-09 08:55:09,Price Range,Average,81252
+6750,2023-10-09 08:55:09,By Appointment Only,Yes,81252
+6751,2023-10-09 08:55:15,Parking,Street,81253
+6752,2023-10-09 08:55:15,Wheelchair Accessible,Yes,81253
+6753,2023-10-09 08:55:15,Price Range,Average,81253
+6754,2023-10-09 08:55:15,By Appointment Only,Yes,81253
+9095,2023-10-09 10:12:56,Parking,"Lot, Private",81904
+9096,2023-10-09 10:12:56,By Appointment Only,Yes,81904
+9117,2023-10-09 10:13:23,Price Range,Average,81915
+9118,2023-10-09 10:13:23,Parking,"Lot, Private",81915
+9119,2023-10-09 10:13:23,Bike Parking,Yes,81915
+15076,2023-10-09 14:14:49,Parking,Street,83549
+15077,2023-10-09 14:14:49,Wheelchair Accessible,No,83549
+15078,2023-10-09 14:14:49,By Appointment Only,No,83549
+18873,2023-10-09 17:01:48,Parking,On Site,84604
+28834,2023-10-10 00:13:12,Parking,"Lot, Private",87396
+28835,2023-10-10 00:13:12,Bike Parking,Yes,87396
+28836,2023-10-10 00:13:12,By Appointment Only,Yes,87396
+29360,2023-10-10 00:39:28,Parking,Lot,87567
+29361,2023-10-10 00:39:28,Wheelchair Accessible,Yes,87567
+29362,2023-10-10 00:39:28,Price Range,Average,87567
+29363,2023-10-10 00:39:28,By Appointment Only,Yes,87567
+29864,2023-10-10 00:51:03,Bike Parking,Yes,87732
+29865,2023-10-10 00:51:03,Price Range,Average,87732
+29866,2023-10-10 00:51:03,By Appointment Only,Yes,87732
+30394,2023-10-10 01:06:59,Parking,"Paid, Street, Validated, Lot, Self, On Site",87818
+30395,2023-10-10 01:06:59,Bike Parking,Yes,87818
+30396,2023-10-10 01:06:59,Wheelchair Accessible,Yes,87818
+30397,2023-10-10 01:06:59,By Appointment Only,Yes,87818
+30398,2023-10-10 01:06:59,Price Range,Below Average,87818
+34158,2023-10-10 04:04:08,Parking,"Lot, Private",88719
+34159,2023-10-10 04:04:08,Bike Parking,Yes,88719
+34160,2023-10-10 04:04:08,Wheelchair Accessible,Yes,88719
+34161,2023-10-10 04:04:08,Price Range,Average,88719
+34162,2023-10-10 04:04:08,By Appointment Only,No,88719
+35053,2023-10-10 04:46:18,Parking,Street,88912
+35054,2023-10-10 04:46:18,Wheelchair Accessible,No,88912
+35055,2023-10-10 04:46:18,Price Range,Average,88912
+35056,2023-10-10 04:46:18,By Appointment Only,Yes,88912
+36055,2023-10-10 05:32:33,Price Range,Average,88996
+37583,2023-10-10 06:49:58,Wheelchair Accessible,Yes,89480
+37584,2023-10-10 06:49:58,Parking,"Garage, Street, Lot, Private",89480
+37585,2023-10-10 06:49:58,Bike Parking,Yes,89480
+37586,2023-10-10 06:49:58,By Appointment Only,Yes,89480
+48757,2023-10-10 15:38:09,Price Range,Average,93539
+48758,2023-10-10 15:38:09,By Appointment Only,Yes,93539
+52628,2023-10-10 18:27:00,Parking,"Street, Self",94485
+52629,2023-10-10 18:27:00,Wheelchair Accessible,Yes,94485
+52630,2023-10-10 18:27:00,Price Range,Average,94485
+52631,2023-10-10 18:27:00,Bike Parking,Yes,94485
+52632,2023-10-10 18:27:00,By Appointment Only,Yes,94485
+52857,2023-10-10 18:35:05,Parking,Street,94503
+52858,2023-10-10 18:35:05,Wheelchair Accessible,No,94503
+52859,2023-10-10 18:35:05,Price Range,Average,94503
+52860,2023-10-10 18:35:05,By Appointment Only,Yes,94503
+53951,2023-10-10 19:55:20,Parking,"Street, Self",94730
+57618,2023-10-11 00:33:15,By Appointment Only,Yes,96705
+58085,2023-10-11 01:18:01,Parking,"Lot, Private",96984
+58086,2023-10-11 01:18:01,Bike Parking,Yes,96984
+58087,2023-10-11 01:18:01,Price Range,Average,96984
+58088,2023-10-11 01:18:01,By Appointment Only,No,96984
+61080,2023-10-11 05:38:51,Bike Parking,Yes,97876
+61081,2023-10-11 05:38:51,Wheelchair Accessible,Yes,97876
+61082,2023-10-11 05:38:51,By Appointment Only,Yes,97876
+61083,2023-10-11 05:38:51,Parking,"Lot, Self, On Site, Free",97876
+61088,2023-10-11 05:39:10,Bike Parking,No,97878
+61089,2023-10-11 05:39:10,Price Range,Below Average,97878
+62102,2023-10-11 07:20:06,Parking,"Lot, Self, On Site, Free",98469
+62103,2023-10-11 07:20:06,Bike Parking,Yes,98469
+62104,2023-10-11 07:20:06,Wheelchair Accessible,Yes,98469
+62105,2023-10-11 07:20:06,Price Range,Average,98469
+62106,2023-10-11 07:20:06,By Appointment Only,Yes,98469
+62107,2023-10-11 07:20:06,Services,Tattoo Removal,98469
+68311,2023-10-11 10:51:26,Parking,"Self, Free",100074
+68312,2023-10-11 10:51:26,Wheelchair Accessible,Yes,100074
+68313,2023-10-11 10:51:26,Price Range,Average,100074
+68314,2023-10-11 10:51:26,By Appointment Only,Yes,100074
+71851,2023-10-11 13:00:29,Parking,Lot,100920
+74413,2023-10-11 15:31:12,Bike Parking,Yes,101825
+74414,2023-10-11 15:31:12,By Appointment Only,Yes,101825
+74438,2023-10-11 15:31:53,Bike Parking,Yes,101833
+74439,2023-10-11 15:31:53,Parking,"Lot, Private",101833
+74440,2023-10-11 15:31:53,Wheelchair Accessible,No,101833
+74441,2023-10-11 15:31:53,By Appointment Only,Yes,101833
+77224,2023-10-11 17:43:26,Bike Parking,Yes,102903
+77225,2023-10-11 17:43:26,Price Range,Below Average,102903
+77226,2023-10-11 17:43:26,By Appointment Only,Yes,102903
+77771,2023-10-11 18:00:34,Parking,"Lot, Self, Private",103075
+77772,2023-10-11 18:00:34,Bike Parking,No,103075
+77773,2023-10-11 18:00:34,Wheelchair Accessible,Yes,103075
+77774,2023-10-11 18:00:34,Price Range,Average,103075
+77775,2023-10-11 18:00:34,By Appointment Only,Yes,103075
+77984,2023-10-11 18:15:01,Parking,"Lot, Private",103118
+77985,2023-10-11 18:15:01,Wheelchair Accessible,Yes,103118
+77986,2023-10-11 18:15:01,Price Range,Average,103118
+77987,2023-10-11 18:15:01,By Appointment Only,Yes,103118
+78587,2023-10-11 18:41:53,Parking,"Lot, Private",103404
+78588,2023-10-11 18:41:53,Bike Parking,No,103404
+78589,2023-10-11 18:41:53,Wheelchair Accessible,Yes,103404
+78590,2023-10-11 18:41:53,By Appointment Only,Yes,103404
+78591,2023-10-11 18:41:53,Services,Vein Treatments,103404
+94266,2023-10-12 11:14:44,Parking,"Lot, Private",110905
+94267,2023-10-12 11:14:44,Wheelchair Accessible,Yes,110905
+94268,2023-10-12 11:14:44,Price Range,Average,110905
+94269,2023-10-12 11:14:44,By Appointment Only,Yes,110905
+94353,2023-10-12 11:20:01,Price Range,Average,110917
+94354,2023-10-12 11:20:01,By Appointment Only,Yes,110917
+96266,2023-10-12 13:19:33,Parking,"Lot, Private",111143
+96267,2023-10-12 13:19:33,Wheelchair Accessible,Yes,111143
+96268,2023-10-12 13:19:33,By Appointment Only,Yes,111143
+96391,2023-10-12 13:23:23,Price Range,Average,111159
+96392,2023-10-12 13:23:23,By Appointment Only,Yes,111159
+103922,2023-10-12 20:27:18,Parking,"Lot, Private",112502
+103923,2023-10-12 20:27:18,Bike Parking,Yes,112502
+103924,2023-10-12 20:27:18,By Appointment Only,Yes,112502
+108011,2023-10-12 23:22:14,Parking,"Lot, Private",113247
+108012,2023-10-12 23:22:14,Bike Parking,No,113247
+108013,2023-10-12 23:22:14,Wheelchair Accessible,Yes,113247
+108014,2023-10-12 23:22:14,By Appointment Only,No,113247
+108015,2023-10-12 23:22:14,Services,"Liposuction, Tattoo Removal",113247
+110476,2023-10-13 02:49:21,Parking,Lot,114168
+110477,2023-10-13 02:49:21,Wheelchair Accessible,Yes,114168
+111707,2023-10-13 04:04:39,Wheelchair Accessible,Yes,114590
+111708,2023-10-13 04:04:39,By Appointment Only,Yes,114590
+115539,2023-10-13 08:21:06,Parking,Lot,116480
+116939,2023-10-13 10:46:17,Parking,Lot,117236
+118109,2023-10-13 12:04:41,Parking,"Lot, Private",118208
+118110,2023-10-13 12:04:41,Bike Parking,No,118208
+118111,2023-10-13 12:04:41,Wheelchair Accessible,Yes,118208
+118112,2023-10-13 12:04:41,Price Range,Average,118208
+118113,2023-10-13 12:04:41,By Appointment Only,Yes,118208
+119273,2023-10-13 13:42:48,Bike Parking,Yes,119248
+119274,2023-10-13 13:42:48,By Appointment Only,Yes,119248
+119542,2023-10-13 13:55:22,Parking,Street,119330
+119543,2023-10-13 13:55:22,Bike Parking,Yes,119330
+119544,2023-10-13 13:55:22,Wheelchair Accessible,Yes,119330
+119545,2023-10-13 13:55:22,Price Range,Average,119330
+119546,2023-10-13 13:55:22,By Appointment Only,Yes,119330
+120431,2023-10-13 15:12:34,Price Range,Average,119708
+120432,2023-10-13 15:12:34,Wheelchair Accessible,Yes,119708
+120433,2023-10-13 15:12:34,By Appointment Only,No,119708
+120470,2023-10-13 15:18:31,Parking,"Lot, Private",119733
+120471,2023-10-13 15:18:31,Bike Parking,No,119733
+120472,2023-10-13 15:18:31,Wheelchair Accessible,Yes,119733
+120473,2023-10-13 15:18:31,By Appointment Only,Yes,119733
+691,2023-10-09 06:00:30,By Appointment Only,Yes,120379
+1565,2023-10-09 06:14:45,Parking,"Street, Lot, Self, On Site, Free",121443
+1566,2023-10-09 06:14:45,Wheelchair Accessible,Yes,121443
+1567,2023-10-09 06:14:45,By Appointment Only,Yes,121443
+1568,2023-10-09 06:14:45,Price Range,Average,121443
+8901,2023-10-09 09:52:06,Parking,Garage,123051
+8902,2023-10-09 09:52:06,Bike Parking,Yes,123051
+8903,2023-10-09 09:52:06,Wheelchair Accessible,Yes,123051
+8904,2023-10-09 09:52:06,Specialties,Dermatology,123051
+8905,2023-10-09 09:52:06,By Appointment Only,Yes,123051
+9337,2023-10-09 10:24:39,Parking,"Lot, Self, On Site, Free",123121
+9338,2023-10-09 10:24:39,Wheelchair Accessible,Yes,123121
+9339,2023-10-09 10:24:39,Price Range,Average,123121
+9340,2023-10-09 10:24:39,By Appointment Only,Yes,123121
+9432,2023-10-09 10:29:11,Bike Parking,Yes,123130
+9433,2023-10-09 10:29:11,Parking,"Lot, Private",123130
+9434,2023-10-09 10:29:11,Wheelchair Accessible,Yes,123130
+9435,2023-10-09 10:29:11,By Appointment Only,Yes,123130
+9436,2023-10-09 10:29:11,Price Range,Average,123130
+10265,2023-10-09 10:59:56,Parking,Street,123401
+10266,2023-10-09 10:59:56,Wheelchair Accessible,Yes,123401
+10267,2023-10-09 10:59:56,Price Range,Average,123401
+10268,2023-10-09 10:59:56,By Appointment Only,Yes,123401
+10558,2023-10-09 11:15:25,Parking,"Lot, Self, On Site, Free",123530
+10559,2023-10-09 11:15:25,Wheelchair Accessible,Yes,123530
+10560,2023-10-09 11:15:25,By Appointment Only,Yes,123530
+23109,2023-10-09 19:41:14,By Appointment Only,Yes,127050
+25884,2023-10-09 21:47:24,By Appointment Only,Yes,128525
+26091,2023-10-09 22:02:33,By Appointment Only,Yes,128619
+30868,2023-10-10 01:16:46,By Appointment Only,Yes,129818
+33713,2023-10-10 03:50:16,Parking,"Lot, Private",130604
+33714,2023-10-10 03:50:16,Bike Parking,Yes,130604
+33715,2023-10-10 03:50:16,Wheelchair Accessible,Yes,130604
+33716,2023-10-10 03:50:16,By Appointment Only,No,130604
+44216,2023-10-10 12:17:06,Parking,"Lot, Self, On Site, Free",132753
+44217,2023-10-10 12:17:06,Wheelchair Accessible,Yes,132753
+44542,2023-10-10 12:34:35,Parking,Private,132814
+44543,2023-10-10 12:34:35,Wheelchair Accessible,Yes,132814
+44544,2023-10-10 12:34:35,By Appointment Only,Yes,132814
+50443,2023-10-10 17:03:04,Price Range,Average,133641
+50444,2023-10-10 17:03:04,By Appointment Only,Yes,133641
+55844,2023-10-10 22:21:37,Parking,Free,135035
+55845,2023-10-10 22:21:37,Bike Parking,No,135035
+55846,2023-10-10 22:21:37,Wheelchair Accessible,Yes,135035
+55847,2023-10-10 22:21:37,Price Range,Average,135035
+56036,2023-10-10 22:32:45,Parking,"Lot, Private",135136
+56488,2023-10-10 23:26:28,Price Range,Average,135230
+56489,2023-10-10 23:26:28,By Appointment Only,Yes,135230
+59782,2023-10-11 04:03:37,Parking,Lot,136795
+61740,2023-10-11 07:01:23,Parking,"Lot, Free",138028
+63085,2023-10-11 08:00:07,Wheelchair Accessible,Yes,139411
+63086,2023-10-11 08:00:07,Parking,"Lot, Private",139411
+63087,2023-10-11 08:00:07,By Appointment Only,Yes,139411
+63091,2023-10-11 08:00:25,Parking,"Garage, Street",139415
+63092,2023-10-11 08:00:25,Bike Parking,No,139415
+63093,2023-10-11 08:00:25,Takes Reservations,Yes,139415
+63094,2023-10-11 08:00:25,Outdoor Seating,Yes,139415
+64423,2023-10-11 08:44:37,Bike Parking,Yes,139968
+64424,2023-10-11 08:44:37,Parking,"Lot, Private",139968
+64425,2023-10-11 08:44:37,By Appointment Only,Yes,139968
+64426,2023-10-11 08:44:37,Price Range,Below Average,139968
+67084,2023-10-11 10:12:42,Parking,"Street, Lot, Self",140388
+67085,2023-10-11 10:12:42,Wheelchair Accessible,Yes,140388
+69340,2023-10-11 11:30:36,Bike Parking,Yes,140807
+70873,2023-10-11 12:22:46,Parking,"Lot, Self, On Site, Free",141131
+70874,2023-10-11 12:22:46,Wheelchair Accessible,Yes,141131
+73599,2023-10-11 14:50:13,Parking,"Lot, Private",141969
+73600,2023-10-11 14:50:13,Wheelchair Accessible,Yes,141969
+73601,2023-10-11 14:50:13,By Appointment Only,Yes,141969
+74558,2023-10-11 15:38:06,Parking,Free,142090
+74559,2023-10-11 15:38:06,By Appointment Only,Yes,142090
+74560,2023-10-11 15:38:06,Good for Kids,No,142090
+76122,2023-10-11 16:56:34,Parking,Lot,142453
+76123,2023-10-11 16:56:34,By Appointment Only,Yes,142453
+80941,2023-10-11 22:33:28,Parking,Free,143294
+80942,2023-10-11 22:33:28,Bike Parking,Yes,143294
+80943,2023-10-11 22:33:28,Price Range,Average,143294
+80944,2023-10-11 22:33:28,By Appointment Only,No,143294
+81451,2023-10-11 23:02:05,Price Range,Average,143353
+81452,2023-10-11 23:02:05,Wheelchair Accessible,Yes,143353
+81453,2023-10-11 23:02:05,Parking,"Validated, Valet",143353
+81454,2023-10-11 23:02:05,Bike Parking,Yes,143353
+81455,2023-10-11 23:02:05,By Appointment Only,Yes,143353
+81811,2023-10-11 23:36:20,Parking,"Lot, Private",143387
+82645,2023-10-12 00:44:19,Parking,"Garage, Street",143482
+82646,2023-10-12 00:44:19,Bike Parking,Yes,143482
+88264,2023-10-12 06:38:09,Parking,"Lot, Free",144210
+88265,2023-10-12 06:38:09,Price Range,Average,144210
+88266,2023-10-12 06:38:09,By Appointment Only,Yes,144210
+102568,2023-10-12 19:29:27,Parking,Free,147535
+103764,2023-10-12 20:18:19,Bike Parking,No,147957
+103765,2023-10-12 20:18:19,By Appointment Only,Yes,147957
+107489,2023-10-12 23:05:42,Wheelchair Accessible,Yes,149426
+107490,2023-10-12 23:05:42,Bike Parking,Yes,149426
+108445,2023-10-12 23:40:07,Parking,"Lot, Private",150640
+108446,2023-10-12 23:40:07,Wheelchair Accessible,Yes,150640
+108447,2023-10-12 23:40:07,Price Range,Average,150640
+108448,2023-10-12 23:40:07,By Appointment Only,Yes,150640
+109804,2023-10-13 02:11:00,Specialties,"General Practice, Emergency Medicine",151439
+109805,2023-10-13 02:11:00,Parking,Lot,151439
+110902,2023-10-13 03:21:07,Price Range,Average,153542
+110903,2023-10-13 03:21:07,Parking,"Lot, Private",153542
+110904,2023-10-13 03:21:07,Bike Parking,Yes,153542
+111901,2023-10-13 04:10:41,Specialties,"Extensions, African-American Hair, Perms, Curly Hair, Coloring, Kids' Hair",153849
+111902,2023-10-13 04:10:41,Parking,On Site,153849
+111903,2023-10-13 04:10:41,Bike Parking,No,153849
+111904,2023-10-13 04:10:41,Wheelchair Accessible,Yes,153849
+111905,2023-10-13 04:10:41,Price Range,Average,153849
+111906,2023-10-13 04:10:41,By Appointment Only,Yes,153849
+116540,2023-10-13 10:12:13,Parking,"Street, Self, Free",155634
+116541,2023-10-13 10:12:13,Wheelchair Accessible,Yes,155634
+116542,2023-10-13 10:12:13,Price Range,Average,155634
+116543,2023-10-13 10:12:13,By Appointment Only,Yes,155634
+118510,2023-10-13 12:27:06,Parking,"Self, On Site, Free, Private",157147
+118511,2023-10-13 12:27:06,Wheelchair Accessible,Yes,157147
+118807,2023-10-13 12:55:06,Parking,"Lot, Self, On Site, Free",157331
+118808,2023-10-13 12:55:06,Wheelchair Accessible,Yes,157331
+119053,2023-10-13 13:20:50,Parking,"Lot, Private",157558
+119054,2023-10-13 13:20:50,Bike Parking,Yes,157558
+120199,2023-10-13 14:47:57,Parking,"Lot, Private",159150
+120200,2023-10-13 14:47:57,Wheelchair Accessible,No,159150
+120201,2023-10-13 14:47:57,By Appointment Only,Yes,159150
+123172,2023-10-13 21:25:22,Parking,Street,161695
+123173,2023-10-13 21:25:22,Bike Parking,Yes,161695
+123174,2023-10-13 21:25:22,By Appointment Only,No,161695
+123175,2023-10-13 21:25:22,Price Range,Average,161695
+123312,2023-10-13 21:31:26,Parking,Street,161750
+123313,2023-10-13 21:31:26,Price Range,Average,161750
+123314,2023-10-13 21:31:26,By Appointment Only,Yes,161750
+123586,2023-10-13 21:40:09,Bike Parking,Yes,161871
+123587,2023-10-13 21:40:09,Parking,"Street, Lot, Valet, Private",161871
+123588,2023-10-13 21:40:09,Wheelchair Accessible,Yes,161871
+123589,2023-10-13 21:40:09,By Appointment Only,No,161871
+123590,2023-10-13 21:40:09,Specialties,"Extensions, Asian Hair, African-American Hair, Perms, Straight Perms, Curly Hair, Coloring, Kids' Hair",161871
+124190,2023-10-13 22:32:55,Parking,"Street, Lot, Private",162085
+124191,2023-10-13 22:32:55,Bike Parking,Yes,162085
+124192,2023-10-13 22:32:55,Wheelchair Accessible,Yes,162085
+124193,2023-10-13 22:32:55,Price Range,Average,162085
+124194,2023-10-13 22:32:55,By Appointment Only,Yes,162085
+124372,2023-10-13 22:38:26,Wheelchair Accessible,Yes,162124
+124373,2023-10-13 22:38:26,By Appointment Only,Yes,162124
+126397,2023-10-14 00:17:21,Services,Tattoo Removal,162588
+126597,2023-10-14 00:23:55,Price Range,Average,162635
+126911,2023-10-14 00:36:53,Parking,Street,162701
+126912,2023-10-14 00:36:53,Bike Parking,Yes,162701
+131518,2023-10-14 13:03:23,Bike Parking,Yes,164725
+131519,2023-10-14 13:03:23,By Appointment Only,Yes,164725
+133534,2023-10-14 20:15:04,Parking,Street,166228
+133535,2023-10-14 20:15:04,Bike Parking,Yes,166228
+133536,2023-10-14 20:15:04,Wheelchair Accessible,Yes,166228
+133537,2023-10-14 20:15:04,Price Range,Average,166228
+133538,2023-10-14 20:15:04,By Appointment Only,Yes,166228
+134579,2023-10-14 21:28:28,Bike Parking,No,166629
+134580,2023-10-14 21:28:28,Wheelchair Accessible,No,166629
+134581,2023-10-14 21:28:28,Price Range,Above Average,166629
+134582,2023-10-14 21:28:28,By Appointment Only,Yes,166629
+135726,2023-10-14 22:59:38,Parking,Street,167245
+135727,2023-10-14 22:59:38,Bike Parking,Yes,167245
+135728,2023-10-14 22:59:38,Wheelchair Accessible,No,167245
+135729,2023-10-14 22:59:38,By Appointment Only,Yes,167245
+135757,2023-10-14 23:00:49,Parking,Street,167257
+135758,2023-10-14 23:00:49,Bike Parking,Yes,167257
+135759,2023-10-14 23:00:49,Wheelchair Accessible,Yes,167257
+135760,2023-10-14 23:00:49,Price Range,Average,167257
+135761,2023-10-14 23:00:49,By Appointment Only,No,167257
+140020,2023-10-15 06:36:04,By Appointment Only,No,170582
+140314,2023-10-15 07:20:15,By Appointment Only,Yes,170844
+140433,2023-10-15 07:49:15,Parking,"Street, Lot, Self, On Site, Private",170905
+140434,2023-10-15 07:49:15,Wheelchair Accessible,Yes,170905
+140515,2023-10-15 08:06:52,Parking,Street,170931
+140516,2023-10-15 08:06:52,By Appointment Only,Yes,170931
+141534,2023-10-15 10:08:14,Price Range,Average,171289
+141535,2023-10-15 10:08:14,Parking,Street,171289
+141536,2023-10-15 10:08:14,Bike Parking,Yes,171289
+141537,2023-10-15 10:08:14,By Appointment Only,No,171289
+142101,2023-10-15 15:11:44,Parking,"Lot, Private",171851
+142102,2023-10-15 15:11:44,Bike Parking,No,171851
+142103,2023-10-15 15:11:44,Price Range,Average,171851
+142104,2023-10-15 15:11:44,By Appointment Only,Yes,171851
+142172,2023-10-15 15:37:00,Price Range,Average,171877
+142173,2023-10-15 15:37:00,Wheelchair Accessible,Yes,171877
+142174,2023-10-15 15:37:00,Parking,"Lot, Private",171877
+142175,2023-10-15 15:37:00,By Appointment Only,Yes,171877
+144292,2023-10-18 19:22:47,Bike Parking,Yes,173007
+144293,2023-10-18 19:22:47,Price Range,Average,173007
+144302,2023-10-18 19:23:48,Wheelchair Accessible,Yes,173017
+144303,2023-10-18 19:23:48,Parking,"Lot, Private",173017
+144304,2023-10-18 19:23:48,Bike Parking,Yes,173017
+144911,2023-10-18 20:28:48,Parking,"Street, Free",173297
+145417,2023-10-18 20:55:43,Parking,"Lot, Self, On Site, Free",173479
+145418,2023-10-18 20:55:43,Bike Parking,No,173479
+145419,2023-10-18 20:55:43,Wheelchair Accessible,Yes,173479
+145420,2023-10-18 20:55:43,By Appointment Only,Yes,173479
+146793,2023-10-18 23:58:28,Parking,"Lot, Self, On Site, Free",174617
+149812,2023-10-19 04:33:42,Parking,"Street, Lot, On Site, Free",178643
+149813,2023-10-19 04:33:42,Wheelchair Accessible,Yes,178643
+150566,2023-10-19 05:53:24,Wheelchair Accessible,Yes,178985
+150567,2023-10-19 05:53:24,By Appointment Only,Yes,178985
+150664,2023-10-19 06:02:33,Parking,"Self, On Site, Free, Private",179023
+150665,2023-10-19 06:02:33,Wheelchair Accessible,Yes,179023
+150711,2023-10-19 06:05:34,Parking,"Lot, Private",179033
+150712,2023-10-19 06:05:34,Wheelchair Accessible,Yes,179033
+150713,2023-10-19 06:05:34,Price Range,Average,179033
+150714,2023-10-19 06:05:34,Bike Parking,Yes,179033
+150715,2023-10-19 06:05:34,By Appointment Only,Yes,179033
+150927,2023-10-19 06:20:27,Parking,Lot,179086
+151048,2023-10-19 06:47:16,Parking,Valet,179215
+151049,2023-10-19 06:47:16,Wheelchair Accessible,Yes,179215
+154226,2023-10-19 13:19:38,Parking,"Street, Self",182517
+155695,2023-10-19 16:21:30,Parking,"Lot, Private",183313
+155696,2023-10-19 16:21:30,Wheelchair Accessible,Yes,183313
+155697,2023-10-19 16:21:30,By Appointment Only,Yes,183313
+155947,2023-10-19 17:00:43,Parking,"Lot, Free",183451
+155948,2023-10-19 17:00:43,Bike Parking,Yes,183451
+155949,2023-10-19 17:00:43,Price Range,Average,183451
+155950,2023-10-19 17:00:43,By Appointment Only,No,183451
+155951,2023-10-19 17:00:43,Wheelchair Accessible,Yes,183451
+158821,2023-10-20 10:06:44,Parking,"Lot, Private",187223
+158822,2023-10-20 10:06:44,Wheelchair Accessible,No,187223
+158823,2023-10-20 10:06:44,Price Range,Average,187223
+158824,2023-10-20 10:06:44,By Appointment Only,Yes,187223
+159645,2023-10-20 13:21:37,Parking,"Lot, Self, On Site, Free",188809
+159646,2023-10-20 13:21:37,Wheelchair Accessible,Yes,188809
+159647,2023-10-20 13:21:37,Bike Parking,Yes,188809
+159648,2023-10-20 13:21:37,By Appointment Only,Yes,188809
+161529,2023-10-20 20:12:07,Wheelchair Accessible,Yes,190598
+161530,2023-10-20 20:12:07,By Appointment Only,Yes,190598
+163408,2023-10-21 00:22:38,Wheelchair Accessible,Yes,191781
+163409,2023-10-21 00:22:38,Parking,"Lot, Self, Free",191781
+163410,2023-10-21 00:22:38,Bike Parking,Yes,191781
+165247,2023-10-21 04:44:49,Wheelchair Accessible,Yes,192909
+165248,2023-10-21 04:44:49,Parking,"Lot, Private",192909
+165249,2023-10-21 04:44:49,Bike Parking,Yes,192909
+165250,2023-10-21 04:44:49,By Appointment Only,No,192909
+165550,2023-10-21 05:21:18,Parking,"Lot, Private",193114
+165551,2023-10-21 05:21:18,Wheelchair Accessible,No,193114
+165552,2023-10-21 05:21:18,Price Range,Average,193114
+165553,2023-10-21 05:21:18,By Appointment Only,Yes,193114
+166820,2023-10-21 09:35:16,Parking,"Self, Free",194241
+166821,2023-10-21 09:35:16,Bike Parking,Yes,194241
+166822,2023-10-21 09:35:16,By Appointment Only,Yes,194241
+168379,2023-10-21 13:47:46,Parking,"Lot, Self, On Site, Free",195238
+168380,2023-10-21 13:47:46,Wheelchair Accessible,Yes,195238
+168381,2023-10-21 13:47:46,Price Range,Average,195238
+168382,2023-10-21 13:47:46,By Appointment Only,Yes,195238
+168583,2023-10-21 14:13:57,Parking,"Lot, Self, On Site, Free",195353
+7442,2023-10-09 09:07:11,Wheelchair Accessible,Yes,203304
+7443,2023-10-09 09:07:11,Bike Parking,No,203304
+7444,2023-10-09 09:07:11,By Appointment Only,Yes,203304
+7450,2023-10-09 09:07:21,Bike Parking,Yes,203305
+7451,2023-10-09 09:07:21,Parking,"Garage, Street",203305
+7452,2023-10-09 09:07:21,By Appointment Only,Yes,203305
+7453,2023-10-09 09:07:21,Price Range,Below Average,203305
+9312,2023-10-09 10:22:46,Parking,"Street, Lot, Private",203728
+9313,2023-10-09 10:22:46,Wheelchair Accessible,Yes,203728
+9314,2023-10-09 10:22:46,Price Range,Average,203728
+9315,2023-10-09 10:22:46,By Appointment Only,Yes,203728
+9822,2023-10-09 10:50:42,Wheelchair Accessible,Yes,203823
+9823,2023-10-09 10:50:42,By Appointment Only,Yes,203823
+10023,2023-10-09 10:53:23,Parking,"Garage, Street",203862
+10024,2023-10-09 10:53:23,Bike Parking,Yes,203862
+10025,2023-10-09 10:53:23,Wheelchair Accessible,"Wheelchair Accessible, Yes",203862
+10026,2023-10-09 10:53:23,Price Range,Average,203862
+10027,2023-10-09 10:53:23,By Appointment Only,Yes,203862
+10061,2023-10-09 10:53:51,Parking,Street,203864
+10062,2023-10-09 10:53:51,Bike Parking,No,203864
+10063,2023-10-09 10:53:51,Wheelchair Accessible,No,203864
+10064,2023-10-09 10:53:51,By Appointment Only,Yes,203864
+10065,2023-10-09 10:53:51,Specialties,Dermatology,203864
+10415,2023-10-09 11:12:40,Specialties,"Perms, Curly Hair, Coloring, Kids' Hair",203951
+10416,2023-10-09 11:12:40,Bike Parking,Yes,203951
+10417,2023-10-09 11:12:40,Wheelchair Accessible,No,203951
+10418,2023-10-09 11:12:40,By Appointment Only,Yes,203951
+10725,2023-10-09 11:19:17,Parking,"Garage, Self",204019
+10726,2023-10-09 11:19:17,Wheelchair Accessible,Yes,204019
+10727,2023-10-09 11:19:17,By Appointment Only,Yes,204019
+19133,2023-10-09 17:17:30,Bike Parking,Yes,208217
+19134,2023-10-09 17:17:30,By Appointment Only,Yes,208217
+19135,2023-10-09 17:17:30,Price Range,Average,208217
+26638,2023-10-09 22:15:40,Parking,"Lot, Private",210865
+26639,2023-10-09 22:15:40,Bike Parking,Yes,210865
+26640,2023-10-09 22:15:40,Price Range,Average,210865
+26641,2023-10-09 22:15:40,By Appointment Only,Yes,210865
+27080,2023-10-09 22:43:52,By Appointment Only,Yes,212083
+33908,2023-10-10 03:57:23,Parking,"Lot, Self, Free, Private",218181
+35172,2023-10-10 04:52:39,Parking,"Lot, Free",218539
+35173,2023-10-10 04:52:39,Bike Parking,Yes,218539
+35174,2023-10-10 04:52:39,Wheelchair Accessible,Yes,218539
+35175,2023-10-10 04:52:39,By Appointment Only,Yes,218539
+35224,2023-10-10 04:53:47,Parking,"Lot, Free",218546
+35225,2023-10-10 04:53:47,Wheelchair Accessible,Yes,218546
+35557,2023-10-10 05:02:23,Parking,"Lot, Free",218644
+35558,2023-10-10 05:02:23,Wheelchair Accessible,Yes,218644
+36210,2023-10-10 05:39:49,Parking,"Lot, Private",218761
+36299,2023-10-10 05:41:47,Parking,"Lot, Private",218772
+36300,2023-10-10 05:41:47,Bike Parking,Yes,218772
+36301,2023-10-10 05:41:47,Wheelchair Accessible,Yes,218772
+36302,2023-10-10 05:41:47,By Appointment Only,Yes,218772
+36303,2023-10-10 05:41:47,Price Range,Average,218772
+38399,2023-10-10 07:53:57,Parking,Lot,219463
+40845,2023-10-10 09:22:40,Wheelchair Accessible,Yes,219916
+41181,2023-10-10 09:31:17,Parking,"Lot, Free",219934
+42294,2023-10-10 10:40:28,Parking,"Lot, Private",220140
+42295,2023-10-10 10:40:28,Bike Parking,Yes,220140
+42296,2023-10-10 10:40:28,Price Range,Average,220140
+42297,2023-10-10 10:40:28,By Appointment Only,Yes,220140
+43542,2023-10-10 11:36:49,Parking,"On Site, Free",220287
+43543,2023-10-10 11:36:49,Wheelchair Accessible,Yes,220287
+44713,2023-10-10 12:44:17,Parking,"Lot, Private",220474
+44714,2023-10-10 12:44:17,Bike Parking,No,220474
+44715,2023-10-10 12:44:17,By Appointment Only,Yes,220474
+67635,2023-10-11 10:26:44,Parking,Lot,226666
+67790,2023-10-11 10:29:49,Parking,"Self, On Site",226677
+67791,2023-10-11 10:29:49,By Appointment Only,Yes,226677
+69887,2023-10-11 11:48:56,Parking,"Lot, Private",227007
+69888,2023-10-11 11:48:56,By Appointment Only,Yes,227007
+70460,2023-10-11 12:07:52,Parking,Lot,227097
+71449,2023-10-11 12:45:30,Parking,Street,227331
+71450,2023-10-11 12:45:30,Wheelchair Accessible,No,227331
+71451,2023-10-11 12:45:30,Price Range,Average,227331
+71452,2023-10-11 12:45:30,By Appointment Only,Yes,227331
+72294,2023-10-11 13:42:04,By Appointment Only,Yes,227610
+72813,2023-10-11 14:12:42,Parking,"Lot, Private",227742
+72814,2023-10-11 14:12:42,Wheelchair Accessible,Yes,227742
+72815,2023-10-11 14:12:42,By Appointment Only,Yes,227742
+73214,2023-10-11 14:31:47,Wheelchair Accessible,Yes,227814
+73215,2023-10-11 14:31:47,By Appointment Only,Yes,227814
+74064,2023-10-11 15:16:59,Wheelchair Accessible,Yes,228022
+77358,2023-10-11 17:45:46,Parking,"Lot, Self, On Site, Free",229698
+77359,2023-10-11 17:45:46,Wheelchair Accessible,Yes,229698
+77389,2023-10-11 17:46:15,Parking,"Lot, Private",229702
+77390,2023-10-11 17:46:15,Bike Parking,Yes,229702
+77391,2023-10-11 17:46:15,Wheelchair Accessible,Yes,229702
+77392,2023-10-11 17:46:15,By Appointment Only,Yes,229702
+77393,2023-10-11 17:46:15,Services,"Liposuction, Tattoo Removal",229702
+79584,2023-10-11 19:48:50,Parking,"Lot, Self, On Site, Free",230128
+79585,2023-10-11 19:48:50,Wheelchair Accessible,Yes,230128
+79586,2023-10-11 19:48:50,Price Range,Average,230128
+79587,2023-10-11 19:48:50,By Appointment Only,Yes,230128
+86407,2023-10-12 05:39:53,Parking,Lot,231618
+86408,2023-10-12 05:39:53,Wheelchair Accessible,Yes,231618
+86409,2023-10-12 05:39:53,Price Range,Average,231618
+86410,2023-10-12 05:39:53,By Appointment Only,Yes,231618
+88049,2023-10-12 06:34:34,Parking,"Lot, Private",232258
+88050,2023-10-12 06:34:34,Wheelchair Accessible,Yes,232258
+88051,2023-10-12 06:34:34,By Appointment Only,Yes,232258
+89600,2023-10-12 07:07:53,Parking,Valet,232940
+89601,2023-10-12 07:07:53,By Appointment Only,Yes,232940
+90142,2023-10-12 07:17:28,Bike Parking,Yes,233065
+90143,2023-10-12 07:17:28,Parking,Street,233065
+90144,2023-10-12 07:17:28,Wheelchair Accessible,Yes,233065
+90145,2023-10-12 07:17:28,By Appointment Only,Yes,233065
+90408,2023-10-12 07:27:42,Parking,Lot,233116
+90409,2023-10-12 07:27:42,Bike Parking,Yes,233116
+90410,2023-10-12 07:27:42,Wheelchair Accessible,Yes,233116
+90411,2023-10-12 07:27:42,By Appointment Only,Yes,233116
+90477,2023-10-12 07:32:02,Parking,"Garage, Street",233126
+90478,2023-10-12 07:32:02,Wheelchair Accessible,Yes,233126
+93370,2023-10-12 10:35:17,Wheelchair Accessible,No,234305
+93371,2023-10-12 10:35:17,Bike Parking,No,234305
+93372,2023-10-12 10:35:17,Parking,"Garage, Street",234305
+95403,2023-10-12 12:52:09,Price Range,Below Average,238266
+95404,2023-10-12 12:52:09,Wheelchair Accessible,Yes,238266
+95405,2023-10-12 12:52:09,Parking,"Street, Lot, Private",238266
+95406,2023-10-12 12:52:09,By Appointment Only,Yes,238266
+98499,2023-10-12 15:29:04,Parking,"On Site, Free",240038
+99533,2023-10-12 16:22:23,Parking,Lot,240876
+99534,2023-10-12 16:22:23,Bike Parking,No,240876
+99535,2023-10-12 16:22:23,Wheelchair Accessible,Yes,240876
+99536,2023-10-12 16:22:23,By Appointment Only,Yes,240876
+99537,2023-10-12 16:22:23,Specialties,"Coloring, Curly Hair, Kids' Hair",240876
+100233,2023-10-12 17:19:11,Parking,"Street, Lot, Private",241250
+100234,2023-10-12 17:19:11,Wheelchair Accessible,Yes,241250
+100454,2023-10-12 17:24:29,Parking,"Lot, Self, On Site, Free",241429
+100455,2023-10-12 17:24:29,Bike Parking,Yes,241429
+100456,2023-10-12 17:24:29,Wheelchair Accessible,Yes,241429
+100596,2023-10-12 17:27:18,Parking,"Lot, Private",241528
+100597,2023-10-12 17:27:18,Bike Parking,Yes,241528
+100598,2023-10-12 17:27:18,Wheelchair Accessible,Yes,241528
+100599,2023-10-12 17:27:18,Price Range,Below Average,241528
+100600,2023-10-12 17:27:18,By Appointment Only,No,241528
+102235,2023-10-12 18:55:01,Parking,"Street, Lot, Free",241988
+102236,2023-10-12 18:55:01,Wheelchair Accessible,Yes,241988
+102237,2023-10-12 18:55:01,Price Range,Average,241988
+102238,2023-10-12 18:55:01,Specialties,Wedding Ceremonies,241988
+102239,2023-10-12 18:55:01,By Appointment Only,Yes,241988
+110153,2023-10-13 02:34:34,Price Range,Average,244636
+110154,2023-10-13 02:34:34,Parking,"Lot, Private",244636
+110155,2023-10-13 02:34:34,Bike Parking,Yes,244636
+110156,2023-10-13 02:34:34,By Appointment Only,Yes,244636
+110157,2023-10-13 02:34:34,Wheelchair Accessible,Yes,244636
+110158,2023-10-13 02:34:34,Services,"Tattoo Removal, Vein Treatments",244636
+115443,2023-10-13 08:14:06,Parking,"Street, Self, Free, Private",246263
+115444,2023-10-13 08:14:06,Bike Parking,No,246263
+115445,2023-10-13 08:14:06,Price Range,Average,246263
+115446,2023-10-13 08:14:06,Wheelchair Accessible,No,246263
+115447,2023-10-13 08:14:06,By Appointment Only,Yes,246263
+115973,2023-10-13 09:08:21,Parking,"Lot, Private",246427
+115974,2023-10-13 09:08:21,Bike Parking,Yes,246427
+115975,2023-10-13 09:08:21,Wheelchair Accessible,Yes,246427
+115976,2023-10-13 09:08:21,By Appointment Only,Yes,246427
+125225,2023-10-13 23:13:32,Price Range,Average,251382
+125226,2023-10-13 23:13:32,By Appointment Only,No,251382
+126718,2023-10-14 00:31:07,Parking,"Lot, Self, Private",252717
+126719,2023-10-14 00:31:07,Wheelchair Accessible,Yes,252717
+126720,2023-10-14 00:31:07,Price Range,Average,252717
+126721,2023-10-14 00:31:07,By Appointment Only,Yes,252717
+128728,2023-10-14 05:08:57,Price Range,Below Average,256108
+131381,2023-10-14 12:33:02,Services,Medical Services,258033
+134967,2023-10-14 21:51:29,Bike Parking,No,261891
+134968,2023-10-14 21:51:29,Parking,"Lot, Private",261891
+134969,2023-10-14 21:51:29,Wheelchair Accessible,Yes,261891
+134970,2023-10-14 21:51:29,By Appointment Only,No,261891
+134971,2023-10-14 21:51:29,Pets Allowed,Yes,261891
+137219,2023-10-15 01:27:45,Parking,"Lot, Private",263147
+137220,2023-10-15 01:27:45,Price Range,Average,263147
+137221,2023-10-15 01:27:45,By Appointment Only,Yes,263147
+137832,2023-10-15 02:43:41,Parking,Lot,263681
+138112,2023-10-15 03:14:30,Parking,Free,263808
+138113,2023-10-15 03:14:30,Wheelchair Accessible,Yes,263808
+138114,2023-10-15 03:14:30,By Appointment Only,Yes,263808
+139860,2023-10-15 05:54:35,Parking,"Garage, Street",264403
+139861,2023-10-15 05:54:35,Wi-Fi,Free,264403
+139862,2023-10-15 05:54:35,Price Range,Average,264403
+139863,2023-10-15 05:54:35,Wheelchair Accessible,Yes,264403
+139864,2023-10-15 05:54:35,Bike Parking,Yes,264403
+139865,2023-10-15 05:54:35,By Appointment Only,Yes,264403
+140678,2023-10-15 08:29:58,Bike Parking,Yes,264761
+140679,2023-10-15 08:29:58,Parking,"Garage, Street, Validated",264761
+140680,2023-10-15 08:29:58,Wheelchair Accessible,Yes,264761
+140681,2023-10-15 08:29:58,By Appointment Only,Yes,264761
+140682,2023-10-15 08:29:58,Price Range,Average,264761
+143767,2023-10-18 18:33:10,Bike Parking,No,265669
+143768,2023-10-18 18:33:10,By Appointment Only,Yes,265669
+144365,2023-10-18 19:28:01,Parking,"Lot, Free",265929
+144366,2023-10-18 19:28:01,Bike Parking,No,265929
+144367,2023-10-18 19:28:01,Wheelchair Accessible,Yes,265929
+144368,2023-10-18 19:28:01,By Appointment Only,Yes,265929
+148233,2023-10-19 01:26:32,Parking,Lot,268094
+149151,2023-10-19 03:37:13,Parking,Lot,268925
+149152,2023-10-19 03:37:13,Wheelchair Accessible,Yes,268925
+149153,2023-10-19 03:37:13,Bike Parking,Yes,268925
+149154,2023-10-19 03:37:13,By Appointment Only,Yes,268925
+150042,2023-10-19 04:49:30,Parking,Lot,269428
+150043,2023-10-19 04:49:30,Bike Parking,Yes,269428
+150044,2023-10-19 04:49:30,By Appointment Only,No,269428
+151554,2023-10-19 08:10:11,Parking,Lot,270172
+151555,2023-10-19 08:10:11,By Appointment Only,Yes,270172
+152656,2023-10-19 11:10:38,Parking,Lot,271217
+153144,2023-10-19 11:54:15,Parking,"Lot, Private",271415
+153145,2023-10-19 11:54:15,Bike Parking,Yes,271415
+153146,2023-10-19 11:54:15,Price Range,Above Average,271415
+153147,2023-10-19 11:54:15,By Appointment Only,Yes,271415
+153239,2023-10-19 12:02:33,Parking,Lot,271433
+157260,2023-10-20 04:57:50,Parking,Lot,275711
+161676,2023-10-20 20:41:11,Parking,"Lot, Self, On Site, Free",281012
+161677,2023-10-20 20:41:11,Wheelchair Accessible,Yes,281012
+165135,2023-10-21 04:08:42,Price Range,Average,284085
+165438,2023-10-21 05:12:15,Parking,"Garage, Street",284235
+165439,2023-10-21 05:12:15,Wheelchair Accessible,Yes,284235
+165440,2023-10-21 05:12:15,By Appointment Only,Yes,284235
+165584,2023-10-21 05:32:18,Parking,"Paid, Lot, Self",284296
+165585,2023-10-21 05:32:18,Wheelchair Accessible,Yes,284296
+165586,2023-10-21 05:32:18,Price Range,Average,284296
+165902,2023-10-21 07:13:08,Parking,"Lot, Private",284476
+165903,2023-10-21 07:13:08,Bike Parking,No,284476
+165904,2023-10-21 07:13:08,Wheelchair Accessible,Yes,284476
+165905,2023-10-21 07:13:08,Price Range,Average,284476
+165906,2023-10-21 07:13:08,By Appointment Only,Yes,284476
+166245,2023-10-21 08:02:38,Parking,"Garage, Street",284677
+166246,2023-10-21 08:02:38,Wheelchair Accessible,Yes,284677
+166247,2023-10-21 08:02:38,By Appointment Only,Yes,284677
+167343,2023-10-21 11:00:24,Parking,"Validated, Lot",285816
+167344,2023-10-21 11:00:24,Bike Parking,Yes,285816
+167345,2023-10-21 11:00:24,Wheelchair Accessible,Yes,285816
+167669,2023-10-21 11:50:41,Parking,"Self, On Site, Free",286081
+167722,2023-10-21 12:16:12,Parking,"Self, On Site, Free, Private",286097
+167926,2023-10-21 12:41:54,Price Range,Average,286230
+170273,2023-10-21 19:42:44,Parking,Paid,287774
+170274,2023-10-21 19:42:44,Bike Parking,Yes,287774
+170275,2023-10-21 19:42:44,Wheelchair Accessible,Yes,287774
+170276,2023-10-21 19:42:44,By Appointment Only,No,287774
+170502,2023-10-21 20:23:06,Parking,Street,287890
+170503,2023-10-21 20:23:06,By Appointment Only,Yes,287890
+170827,2023-10-21 21:12:14,Parking,Free,288202
+170828,2023-10-21 21:12:14,Wheelchair Accessible,Yes,288202
+171091,2023-10-21 21:45:37,Parking,Street,288249
+171092,2023-10-21 21:45:37,By Appointment Only,Yes,288249
+171670,2023-10-21 23:17:58,Wheelchair Accessible,Yes,289428
+171671,2023-10-21 23:17:58,Parking,"Lot, Private",289428
+171672,2023-10-21 23:17:58,Bike Parking,Yes,289428
+171928,2023-10-22 00:20:14,Parking,"Lot, Private",290462
+171929,2023-10-22 00:20:14,Bike Parking,No,290462
+171930,2023-10-22 00:20:14,By Appointment Only,Yes,290462
+172248,2023-10-22 01:20:42,Bike Parking,Yes,291296
+172249,2023-10-22 01:20:42,Wheelchair Accessible,Yes,291296
+172418,2023-10-22 02:07:13,By Appointment Only,Yes,291625
+173515,2023-10-22 06:11:53,Parking,Street,293883
+173516,2023-10-22 06:11:53,Bike Parking,Yes,293883
+173517,2023-10-22 06:11:53,Price Range,Average,293883
+173518,2023-10-22 06:11:53,By Appointment Only,Yes,293883
+173842,2023-10-22 06:43:23,Parking,"Lot, Private",294696
+173843,2023-10-22 06:43:23,Price Range,Average,294696
+173844,2023-10-22 06:43:23,Wheelchair Accessible,Yes,294696
+173845,2023-10-22 06:43:23,Bike Parking,Yes,294696
+173846,2023-10-22 06:43:23,By Appointment Only,Yes,294696
+173893,2023-10-22 06:47:26,Parking,Street,294999
+173894,2023-10-22 06:47:26,Bike Parking,No,294999
+173895,2023-10-22 06:47:26,Wheelchair Accessible,Yes,294999
+173896,2023-10-22 06:47:26,Price Range,Average,294999
+173897,2023-10-22 06:47:26,By Appointment Only,Yes,294999
+174506,2023-10-22 09:00:11,Wheelchair Accessible,Yes,297272
+174507,2023-10-22 09:00:11,Parking,"Lot, Private",297272
+174508,2023-10-22 09:00:11,By Appointment Only,Yes,297272
+174565,2023-10-22 09:27:37,Parking,"Lot, Self, On Site, Free",297437
+174566,2023-10-22 09:27:37,Wheelchair Accessible,Yes,297437
+174639,2023-10-22 10:00:14,Parking,Lot,297534
+175950,2023-10-22 15:22:41,Price Range,Average,300098
+175951,2023-10-22 15:22:41,By Appointment Only,Yes,300098
+176635,2023-10-22 19:51:36,Price Range,Average,302536
+176636,2023-10-22 19:51:36,Wheelchair Accessible,No,302536
+176637,2023-10-22 19:51:36,Parking,Street,302536
+176638,2023-10-22 19:51:36,By Appointment Only,Yes,302536
+176722,2023-10-22 20:14:30,Parking,Lot,302681
+176723,2023-10-22 20:14:30,Bike Parking,Yes,302681
+176724,2023-10-22 20:14:30,Wheelchair Accessible,Yes,302681
+176725,2023-10-22 20:14:30,By Appointment Only,No,302681
+176726,2023-10-22 20:14:30,Price Range,Average,302681
+177007,2023-10-22 21:11:45,Parking,"Lot, Self, On Site, Free",303202
+177008,2023-10-22 21:11:45,Wheelchair Accessible,Yes,303202
+178925,2023-10-23 07:51:26,Parking,"Lot, Private",306411
+178926,2023-10-23 07:51:26,Price Range,Average,306411
+178927,2023-10-23 07:51:26,Wheelchair Accessible,Yes,306411
+178928,2023-10-23 07:51:26,Bike Parking,Yes,306411
+178929,2023-10-23 07:51:26,By Appointment Only,Yes,306411
+178930,2023-10-23 07:51:26,Good for Kids,Yes,306411
+179722,2023-10-23 10:29:30,Parking,Street,307264
+179723,2023-10-23 10:29:30,By Appointment Only,Yes,307264
+179724,2023-10-23 10:29:30,Price Range,Average,307264
+179725,2023-10-23 10:29:30,Bike Parking,Yes,307264
+179726,2023-10-23 10:29:30,Wheelchair Accessible,Yes,307264
+179914,2023-10-23 11:21:06,Parking,"Lot, Self, On Site, Free",307764
+180467,2023-10-23 14:43:37,Parking,"Self, On Site, Free, Private",308663
+180468,2023-10-23 14:43:37,Wheelchair Accessible,Yes,308663
+182265,2023-10-23 22:09:08,Parking,"Street, Free",311281
+182266,2023-10-23 22:09:08,Wheelchair Accessible,Yes,311281
+182267,2023-10-23 22:09:08,By Appointment Only,Yes,311281
+182289,2023-10-23 22:15:50,Price Range,Average,311293
+182290,2023-10-23 22:15:50,By Appointment Only,Yes,311293
+184125,2023-10-24 05:37:07,Parking,"Lot, Private",319428
+184126,2023-10-24 05:37:07,Bike Parking,Yes,319428
+184127,2023-10-24 05:37:07,Wheelchair Accessible,No,319428
+184128,2023-10-24 05:37:07,Price Range,Average,319428
+184129,2023-10-24 05:37:07,By Appointment Only,Yes,319428
+184223,2023-10-24 06:04:59,Bike Parking,Yes,320755
+184472,2023-10-24 08:10:45,Price Range,Average,323367
+184473,2023-10-24 08:10:45,By Appointment Only,Yes,323367
+184893,2023-10-24 10:25:41,Parking,"Street, Lot, Private",324511
+185473,2023-10-24 13:54:26,Parking,"Lot, Private",325517
+185474,2023-10-24 13:54:26,Bike Parking,Yes,325517
+185475,2023-10-24 13:54:26,Wheelchair Accessible,Yes,325517
+185476,2023-10-24 13:54:26,By Appointment Only,Yes,325517
+188161,2023-10-24 19:21:14,Parking,"Lot, Self, On Site",329127
+188162,2023-10-24 19:21:14,Wheelchair Accessible,No,329127
+188163,2023-10-24 19:21:14,Price Range,Average,329127
+188164,2023-10-24 19:21:14,By Appointment Only,Yes,329127
+188318,2023-10-24 19:38:58,Parking,"Lot, Private",329169
+188319,2023-10-24 19:38:58,Bike Parking,Yes,329169
+188320,2023-10-24 19:38:58,Wheelchair Accessible,Yes,329169
+188321,2023-10-24 19:38:58,By Appointment Only,Yes,329169
+188409,2023-10-24 19:41:52,Parking,"Lot, Free",329207
+188410,2023-10-24 19:41:52,Wheelchair Accessible,Yes,329207
+190041,2023-10-24 22:09:43,Wheelchair Accessible,Yes,330159
+190042,2023-10-24 22:09:43,Parking,"Lot, Private",330159
+190043,2023-10-24 22:09:43,Bike Parking,No,330159
+190044,2023-10-24 22:09:43,By Appointment Only,No,330159
+194753,2023-10-25 06:54:55,Bike Parking,No,333760
+194754,2023-10-25 06:54:55,By Appointment Only,Yes,333760
+198251,2023-10-25 12:45:04,Wheelchair Accessible,Yes,335789
+198252,2023-10-25 12:45:04,By Appointment Only,No,335789
+199817,2023-10-25 17:22:26,Parking,"Lot, Private",337070
+202293,2023-10-25 20:39:35,Parking,Lot,337937
+187028,2023-10-24 17:39:35,Parking,"Lot, Self, On Site, Free",338438
+187029,2023-10-24 17:39:35,Bike Parking,Yes,338438
+187030,2023-10-24 17:39:35,Wheelchair Accessible,Yes,338438
+187031,2023-10-24 17:39:35,By Appointment Only,Yes,338438
+188885,2023-10-24 20:22:51,Parking,"Lot, Private",339293
+188886,2023-10-24 20:22:51,Wheelchair Accessible,Yes,339293
+188887,2023-10-24 20:22:51,By Appointment Only,Yes,339293
+189145,2023-10-24 20:40:22,Parking,Street,339377
+189146,2023-10-24 20:40:22,Wheelchair Accessible,No,339377
+189147,2023-10-24 20:40:22,By Appointment Only,Yes,339377
+195214,2023-10-25 07:39:14,Price Range,Above Average,342518
+199234,2023-10-25 15:04:43,Parking,"Lot, Private",345108
+199235,2023-10-25 15:04:43,Bike Parking,No,345108
+199236,2023-10-25 15:04:43,Wheelchair Accessible,Yes,345108
+199237,2023-10-25 15:04:43,Price Range,Average,345108
+199238,2023-10-25 15:04:43,By Appointment Only,Yes,345108
+199616,2023-10-25 16:30:24,Wheelchair Accessible,Yes,345277
+199617,2023-10-25 16:30:24,Parking,"Lot, Private",345277
+199618,2023-10-25 16:30:24,Bike Parking,Yes,345277
+199619,2023-10-25 16:30:24,By Appointment Only,Yes,345277
+200060,2023-10-25 18:01:38,Parking,Street,345510
+200061,2023-10-25 18:01:38,Bike Parking,Yes,345510
+200062,2023-10-25 18:01:38,Wheelchair Accessible,Yes,345510
+201254,2023-10-25 19:33:00,Price Range,Average,345863
+201255,2023-10-25 19:33:00,Specialties,"Extensions, Perms, Straight Perms, Curly Hair, Coloring, Kids' Hair",345863
+201256,2023-10-25 19:33:00,Wheelchair Accessible,Yes,345863
+201257,2023-10-25 19:33:00,Bike Parking,Yes,345863
+201258,2023-10-25 19:33:00,Parking,"Garage, Street, Lot, Private",345863
+201805,2023-10-25 20:03:57,Parking,"Street, Lot, Private",345995
+201806,2023-10-25 20:03:57,Bike Parking,Yes,345995
+201807,2023-10-25 20:03:57,Wheelchair Accessible,Yes,345995
+201808,2023-10-25 20:03:57,Price Range,Average,345995
+201809,2023-10-25 20:03:57,By Appointment Only,Yes,345995
+202805,2023-10-25 21:24:18,Parking,Garage,346235
+202806,2023-10-25 21:24:18,Bike Parking,Yes,346235
+202807,2023-10-25 21:24:18,Price Range,Average,346235
+202808,2023-10-25 21:24:18,Wheelchair Accessible,Yes,346235
+202809,2023-10-25 21:24:18,By Appointment Only,Yes,346235
+204246,2023-10-25 23:12:36,Specialties,"Nail Disorders, Skin Disorders",346996
+205294,2023-10-26 00:42:23,Parking,"Lot, Private",347646
+205295,2023-10-26 00:42:23,Bike Parking,No,347646
+205296,2023-10-26 00:42:23,By Appointment Only,Yes,347646
+205549,2023-10-26 00:54:49,Parking,"Street, Lot, Private",347765
+205550,2023-10-26 00:54:49,Wheelchair Accessible,Yes,347765
+205551,2023-10-26 00:54:49,By Appointment Only,Yes,347765
+206305,2023-10-26 02:02:36,Wheelchair Accessible,Yes,348154
+2873,2023-10-09 06:36:20,Parking,"Lot, Private",350766
+2874,2023-10-09 06:36:20,Wheelchair Accessible,Yes,350766
+2875,2023-10-09 06:36:20,By Appointment Only,Yes,350766
+6577,2023-10-09 08:48:39,Parking,"Lot, Private",351700
+6578,2023-10-09 08:48:39,Bike Parking,Yes,351700
+6579,2023-10-09 08:48:39,Wheelchair Accessible,Yes,351700
+6580,2023-10-09 08:48:39,By Appointment Only,No,351700
+8361,2023-10-09 09:41:00,Parking,"Lot, Free",352064
+8362,2023-10-09 09:41:00,Price Range,Average,352064
+8363,2023-10-09 09:41:00,By Appointment Only,Yes,352064
+8692,2023-10-09 09:48:10,Price Range,Average,352078
+8826,2023-10-09 09:50:33,Parking,"Lot, Private",352089
+8827,2023-10-09 09:50:33,By Appointment Only,Yes,352089
+9000,2023-10-09 09:57:11,Parking,"Lot, Private",352151
+9001,2023-10-09 09:57:11,Bike Parking,Yes,352151
+9002,2023-10-09 09:57:11,By Appointment Only,No,352151
+9807,2023-10-09 10:50:38,Parking,"Lot, Private",352276
+9808,2023-10-09 10:50:38,Bike Parking,Yes,352276
+9809,2023-10-09 10:50:38,Price Range,Below Average,352276
+9810,2023-10-09 10:50:38,By Appointment Only,Yes,352276
+13212,2023-10-09 13:09:26,Parking,On Site,353141
+13213,2023-10-09 13:09:26,Bike Parking,No,353141
+13214,2023-10-09 13:09:26,Price Range,Average,353141
+13215,2023-10-09 13:09:26,By Appointment Only,Yes,353141
+14041,2023-10-09 13:38:38,Bike Parking,Yes,353245
+14042,2023-10-09 13:38:38,Wheelchair Accessible,Yes,353245
+14043,2023-10-09 13:38:38,Price Range,Average,353245
+14044,2023-10-09 13:38:38,By Appointment Only,Yes,353245
+17935,2023-10-09 16:11:48,Wheelchair Accessible,Yes,353794
+17936,2023-10-09 16:11:48,Parking,"Street, Free",353794
+18552,2023-10-09 16:44:51,Parking,Self,353859
+20065,2023-10-09 17:53:05,Parking,"Lot, Free",354131
+20066,2023-10-09 17:53:05,Price Range,Above Average,354131
+27762,2023-10-09 23:17:06,Bike Parking,Yes,356654
+27763,2023-10-09 23:17:06,Price Range,Below Average,356654
+27764,2023-10-09 23:17:06,By Appointment Only,Yes,356654
+35796,2023-10-10 05:14:47,Parking,"Lot, Free",359071
+39244,2023-10-10 08:23:56,Parking,"Lot, Private",361702
+39245,2023-10-10 08:23:56,Wheelchair Accessible,Yes,361702
+39246,2023-10-10 08:23:56,Price Range,Average,361702
+39247,2023-10-10 08:23:56,By Appointment Only,Yes,361702
+45226,2023-10-10 13:00:11,Price Range,Average,364821
+45227,2023-10-10 13:00:11,Wheelchair Accessible,Yes,364821
+45228,2023-10-10 13:00:11,Bike Parking,Yes,364821
+45229,2023-10-10 13:00:11,By Appointment Only,Yes,364821
+46963,2023-10-10 14:29:22,Parking,Free,365345
+46964,2023-10-10 14:29:22,Wheelchair Accessible,Yes,365345
+47452,2023-10-10 14:51:54,By Appointment Only,Yes,365432
+47453,2023-10-10 14:51:54,Price Range,Average,365432
+47454,2023-10-10 14:51:54,Services,Liposuction,365432
+59253,2023-10-11 03:12:49,Bike Parking,Yes,369434
+59254,2023-10-11 03:12:49,By Appointment Only,Yes,369434
+60178,2023-10-11 04:41:46,Bike Parking,Yes,369849
+60179,2023-10-11 04:41:46,Wheelchair Accessible,Yes,369849
+60180,2023-10-11 04:41:46,By Appointment Only,Yes,369849
+60181,2023-10-11 04:41:46,Parking,"Lot, Free",369849
+61803,2023-10-11 07:07:12,Parking,"Self, On Site, Free",371712
+61804,2023-10-11 07:07:12,Bike Parking,No,371712
+61805,2023-10-11 07:07:12,Wheelchair Accessible,Yes,371712
+68465,2023-10-11 10:57:49,Parking,"Lot, Private",378659
+68466,2023-10-11 10:57:49,Bike Parking,Yes,378659
+68467,2023-10-11 10:57:49,By Appointment Only,No,378659
+68508,2023-10-11 10:59:35,Wheelchair Accessible,Yes,378674
+75959,2023-10-11 16:48:50,Bike Parking,Yes,388641
+75960,2023-10-11 16:48:50,Wheelchair Accessible,Yes,388641
+75961,2023-10-11 16:48:50,Price Range,Average,388641
+75962,2023-10-11 16:48:50,Parking,"Street, Lot, Self, Private",388641
+75963,2023-10-11 16:48:50,By Appointment Only,No,388641
+81867,2023-10-11 23:39:14,Wheelchair Accessible,Yes,390772
+81868,2023-10-11 23:39:14,Parking,"Lot, Self, Free",390772
+81869,2023-10-11 23:39:14,Bike Parking,Yes,390772
+85229,2023-10-12 04:36:42,Bike Parking,Yes,394172
+85230,2023-10-12 04:36:42,Price Range,Average,394172
+85231,2023-10-12 04:36:42,By Appointment Only,Yes,394172
+87367,2023-10-12 06:20:17,Parking,Lot,396091
+87368,2023-10-12 06:20:17,Services,"Tattoo Removal, Vein Treatments",396091
+93664,2023-10-12 10:48:43,Parking,"Lot, Free",399469
+106267,2023-10-12 22:15:22,Parking,Free,409655
+106268,2023-10-12 22:15:22,Bike Parking,Yes,409655
+106269,2023-10-12 22:15:22,Wheelchair Accessible,Yes,409655
+106270,2023-10-12 22:15:22,Price Range,Average,409655
+106271,2023-10-12 22:15:22,By Appointment Only,Yes,409655
+106277,2023-10-12 22:15:31,Parking,Paid,409657
+106278,2023-10-12 22:15:31,Bike Parking,Yes,409657
+106279,2023-10-12 22:15:31,Wheelchair Accessible,Yes,409657
+106280,2023-10-12 22:15:31,Price Range,Average,409657
+106281,2023-10-12 22:15:31,By Appointment Only,No,409657
+106674,2023-10-12 22:32:35,Parking,"Lot, Private",409696
+106675,2023-10-12 22:32:35,Bike Parking,Yes,409696
+106676,2023-10-12 22:32:35,Price Range,Average,409696
+106677,2023-10-12 22:32:35,By Appointment Only,Yes,409696
+108055,2023-10-12 23:28:13,Parking,"Street, Lot, Self, On Site, Free",410186
+108056,2023-10-12 23:28:13,Wheelchair Accessible,Yes,410186
+108057,2023-10-12 23:28:13,Price Range,Above Average,410186
+108058,2023-10-12 23:28:13,By Appointment Only,Yes,410186
+110831,2023-10-13 03:18:22,By Appointment Only,Yes,411535
+112331,2023-10-13 04:25:56,Bike Parking,Yes,412059
+112332,2023-10-13 04:25:56,Parking,"Lot, Private",412059
+112333,2023-10-13 04:25:56,Wheelchair Accessible,Yes,412059
+112334,2023-10-13 04:25:56,By Appointment Only,Yes,412059
+112550,2023-10-13 04:48:15,Parking,"Lot, Private",412207
+112551,2023-10-13 04:48:15,By Appointment Only,Yes,412207
+113141,2023-10-13 05:23:35,Parking,Private,412476
+113142,2023-10-13 05:23:35,Wheelchair Accessible,Yes,412476
+113755,2023-10-13 05:42:46,Parking,"Lot, Private",412691
+113756,2023-10-13 05:42:46,Wheelchair Accessible,No,412691
+113757,2023-10-13 05:42:46,By Appointment Only,Yes,412691
+118749,2023-10-13 12:41:32,Parking,Lot,414799
+119926,2023-10-13 14:27:22,Parking,"Lot, Private",415153
+119927,2023-10-13 14:27:22,Wheelchair Accessible,Yes,415153
+119928,2023-10-13 14:27:22,By Appointment Only,Yes,415153
+120301,2023-10-13 14:59:31,Wheelchair Accessible,No,415322
+120302,2023-10-13 14:59:31,Parking,Street,415322
+120303,2023-10-13 14:59:31,Bike Parking,Yes,415322
+120304,2023-10-13 14:59:31,By Appointment Only,Yes,415322
+120771,2023-10-13 15:55:51,Parking,"Lot, Private",415664
+120772,2023-10-13 15:55:51,Wheelchair Accessible,Yes,415664
+120773,2023-10-13 15:55:51,Price Range,Average,415664
+120774,2023-10-13 15:55:51,Bike Parking,No,415664
+120775,2023-10-13 15:55:51,By Appointment Only,No,415664
+121438,2023-10-13 17:52:28,Parking,"Lot, Private",416361
+121439,2023-10-13 17:52:28,Wheelchair Accessible,Yes,416361
+121440,2023-10-13 17:52:28,By Appointment Only,Yes,416361
+121835,2023-10-13 19:16:21,Parking,"Lot, Private",416996
+121836,2023-10-13 19:16:21,Price Range,Above Average,416996
+121837,2023-10-13 19:16:21,Services,"Waxing, Thai Massage, Chemical Peels, Swedish Massage, Laser Hair Removal, Spray-On Tanning, Facials, Deep Tissue Massages, Pregnancy Massages, Eyebrow Shaping, Botox, Couples Massages, Tattoo Removal, Vein Treatments, Microdermabrasion, Collagen Treatmen",416996
+121838,2023-10-13 19:16:21,Wheelchair Accessible,Wheelchair Accessible,416996
+122428,2023-10-13 20:38:28,Parking,"Lot, Private",417897
+122429,2023-10-13 20:38:28,Wheelchair Accessible,No,417897
+122430,2023-10-13 20:38:28,By Appointment Only,Yes,417897
+123144,2023-10-13 21:24:18,Wheelchair Accessible,Yes,418267
+123145,2023-10-13 21:24:18,Parking,Lot,418267
+123613,2023-10-13 21:41:23,Specialties,"Extensions, Perms, Curly Hair, Coloring, Kids' Hair",419049
+123614,2023-10-13 21:41:23,Parking,"Lot, Private",419049
+123615,2023-10-13 21:41:23,Bike Parking,Yes,419049
+123616,2023-10-13 21:41:23,Wheelchair Accessible,Yes,419049
+123617,2023-10-13 21:41:23,By Appointment Only,No,419049
+123856,2023-10-13 22:02:25,Parking,"Lot, Private",419152
+123857,2023-10-13 22:02:25,Price Range,Average,419152
+123858,2023-10-13 22:02:25,By Appointment Only,No,419152
+124536,2023-10-13 22:42:05,Bike Parking,Yes,419471
+124537,2023-10-13 22:42:05,Price Range,Above Average,419471
+124538,2023-10-13 22:42:05,By Appointment Only,No,419471
+125554,2023-10-13 23:30:37,Wheelchair Accessible,Yes,419936
+125555,2023-10-13 23:30:37,Parking,Lot,419936
+125946,2023-10-13 23:52:16,Parking,"Street, Free, Private",420233
+128476,2023-10-14 04:26:58,Parking,"Lot, Private",425773
+128477,2023-10-14 04:26:58,Wheelchair Accessible,No,425773
+128478,2023-10-14 04:26:58,By Appointment Only,Yes,425773
+129860,2023-10-14 08:32:09,Parking,"Lot, On Site, Free",428101
+129861,2023-10-14 08:32:09,Price Range,Average,428101
+129862,2023-10-14 08:32:09,By Appointment Only,Yes,428101
+131999,2023-10-14 14:07:44,Wheelchair Accessible,Yes,432031
+132000,2023-10-14 14:07:44,Parking,Lot,432031
+132456,2023-10-14 16:08:38,Wheelchair Accessible,Yes,436563
+132457,2023-10-14 16:08:38,Parking,Lot,436563
+135770,2023-10-14 23:00:59,Parking,"Lot, Self, On Site, Free",441406
+135880,2023-10-14 23:07:58,Wheelchair Accessible,Yes,441918
+135881,2023-10-14 23:07:58,Parking,Lot,441918
+136887,2023-10-15 00:51:24,Price Range,Average,443199
+136888,2023-10-15 00:51:24,Wheelchair Accessible,Yes,443199
+136889,2023-10-15 00:51:24,Parking,"Lot, Private",443199
+136890,2023-10-15 00:51:24,Bike Parking,Yes,443199
+136891,2023-10-15 00:51:24,By Appointment Only,No,443199
+136990,2023-10-15 00:59:10,Wheelchair Accessible,Yes,443366
+136991,2023-10-15 00:59:10,Parking,Lot,443366
+137050,2023-10-15 01:09:08,Price Range,Average,443393
+137051,2023-10-15 01:09:08,By Appointment Only,Yes,443393
+137357,2023-10-15 01:41:27,Parking,"Self, On Site, Free, Private",443605
+137358,2023-10-15 01:41:27,Wheelchair Accessible,Yes,443605
+137479,2023-10-15 01:51:14,Services,Medical Services,443772
+137518,2023-10-15 01:54:18,Wheelchair Accessible,Yes,443813
+139212,2023-10-15 04:46:46,Parking,"Self, Free",445644
+143309,2023-10-18 17:19:38,Parking,"Lot, On Site, Free",447969
+143310,2023-10-18 17:19:38,Wheelchair Accessible,Yes,447969
+144762,2023-10-18 20:12:45,Parking,"Lot, Self, On Site, Free, Private",448812
+144763,2023-10-18 20:12:45,Wheelchair Accessible,Yes,448812
+145147,2023-10-18 20:44:02,Parking,"Lot, Private",448984
+145148,2023-10-18 20:44:02,Wheelchair Accessible,No,448984
+145149,2023-10-18 20:44:02,Price Range,Below Average,448984
+145150,2023-10-18 20:44:02,By Appointment Only,Yes,448984
+146342,2023-10-18 22:52:24,Parking,"Self, On Site, Free, Private",449818
+146343,2023-10-18 22:52:24,Bike Parking,Yes,449818
+148373,2023-10-19 01:31:22,Bike Parking,Yes,451493
+148374,2023-10-19 01:31:22,Wheelchair Accessible,Yes,451493
+148375,2023-10-19 01:31:22,By Appointment Only,Yes,451493
+148376,2023-10-19 01:31:22,Parking,"Self, Free",451493
+148875,2023-10-19 02:52:01,Parking,"Lot, Self, On Site, Free",452197
+149168,2023-10-19 03:38:19,Parking,Lot,452445
+150055,2023-10-19 04:50:07,Wheelchair Accessible,Yes,453064
+150056,2023-10-19 04:50:27,Wheelchair Accessible,Yes,453066
+150585,2023-10-19 05:54:37,Parking,"Lot, Self, On Site, Free",453363
+152500,2023-10-19 10:36:05,Parking,"Lot, Self, On Site, Free",456582
+152517,2023-10-19 10:39:56,Parking,"Lot, Private",456694
+152518,2023-10-19 10:39:56,By Appointment Only,Yes,456694
+152519,2023-10-19 10:39:56,Price Range,Average,456694
+154126,2023-10-19 13:11:44,Parking,"Lot, Self, On Site, Free, Private",458294
+154127,2023-10-19 13:11:44,Wheelchair Accessible,Yes,458294
+156035,2023-10-19 17:05:57,By Appointment Only,Yes,459357
+157741,2023-10-20 06:33:44,Parking,"Street, Self, Free",461594
+157742,2023-10-20 06:33:44,Wheelchair Accessible,Yes,461594
+157743,2023-10-20 06:33:44,Bike Parking,Yes,461594
+159079,2023-10-20 10:41:29,Parking,Street,462521
+160419,2023-10-20 15:07:15,Parking,Lot,463521
+160420,2023-10-20 15:07:15,By Appointment Only,No,463521
+162699,2023-10-20 22:39:48,Parking,"Lot, Private",465091
+162700,2023-10-20 22:39:48,Wheelchair Accessible,No,465091
+162701,2023-10-20 22:39:48,Price Range,Average,465091
+162702,2023-10-20 22:39:48,By Appointment Only,Yes,465091
+173554,2023-10-22 06:22:38,By Appointment Only,Yes,472668
+175715,2023-10-22 13:44:04,Parking,Lot,474601
+175716,2023-10-22 13:44:04,Price Range,Average,474601
+175717,2023-10-22 13:44:04,By Appointment Only,Yes,474601
+177440,2023-10-22 23:22:42,Parking,Lot,476299
+177441,2023-10-22 23:22:42,By Appointment Only,Yes,476299
+179068,2023-10-23 08:41:45,Parking,"Street, Lot, Private",478501
+179069,2023-10-23 08:41:45,Bike Parking,Yes,478501
+179070,2023-10-23 08:41:45,Wheelchair Accessible,Yes,478501
+179071,2023-10-23 08:41:45,By Appointment Only,No,478501
+179258,2023-10-23 09:19:06,Parking,"Lot, Private",478624
+179259,2023-10-23 09:19:06,Wheelchair Accessible,Yes,478624
+180039,2023-10-23 12:47:01,Parking,"Street, Free",479175
+180901,2023-10-23 16:19:09,Price Range,Average,480000
+180902,2023-10-23 16:19:09,Parking,"Lot, Private",480000
+180903,2023-10-23 16:19:09,By Appointment Only,Yes,480000
+182377,2023-10-23 22:34:19,Parking,"Lot, Private",481416
+182378,2023-10-23 22:34:19,Bike Parking,No,481416
+182379,2023-10-23 22:34:19,Wheelchair Accessible,Yes,481416
+182380,2023-10-23 22:34:19,By Appointment Only,Yes,481416
+182610,2023-10-23 23:52:42,Price Range,Below Average,481748
+182690,2023-10-24 00:17:48,Parking,"Lot, Self, On Site, Free",481868
+182691,2023-10-24 00:17:48,Bike Parking,No,481868
+182692,2023-10-24 00:17:48,Wheelchair Accessible,Yes,481868
+182693,2023-10-24 00:17:48,Price Range,Average,481868
+182694,2023-10-24 00:17:48,By Appointment Only,Yes,481868
+182896,2023-10-24 01:10:44,Parking,"Street, Lot, Private",482184
+182897,2023-10-24 01:10:44,Wheelchair Accessible,Yes,482184
+182898,2023-10-24 01:10:44,Price Range,Average,482184
+182899,2023-10-24 01:10:44,By Appointment Only,Yes,482184
+183411,2023-10-24 02:02:07,Parking,"Self, On Site, Free",482453
+183412,2023-10-24 02:02:07,Bike Parking,Yes,482453
+183413,2023-10-24 02:02:07,Wheelchair Accessible,Yes,482453
+183414,2023-10-24 02:02:07,By Appointment Only,Yes,482453
+183452,2023-10-24 02:07:39,Bike Parking,Yes,482485
+183453,2023-10-24 02:07:39,Parking,"Lot, Private",482485
+183454,2023-10-24 02:07:39,Wheelchair Accessible,Yes,482485
+183455,2023-10-24 02:07:39,By Appointment Only,Yes,482485
+183456,2023-10-24 02:07:39,Price Range,Average,482485
+183503,2023-10-24 02:12:55,Parking,"Lot, Private",482505
+183504,2023-10-24 02:12:55,Wheelchair Accessible,Yes,482505
+183505,2023-10-24 02:12:55,Price Range,Average,482505
+183506,2023-10-24 02:12:55,By Appointment Only,Yes,482505
+184987,2023-10-24 10:45:00,Price Range,Average,484002
+184988,2023-10-24 10:45:00,Parking,"Lot, Private",484002
+184989,2023-10-24 10:45:00,By Appointment Only,Yes,484002
+190496,2023-10-24 23:00:18,Parking,"Street, Lot, Private",490017
+190497,2023-10-24 23:00:18,Price Range,Average,490017
+190498,2023-10-24 23:00:25,Parking,"Street, Self, Free",490018
+190499,2023-10-24 23:00:25,Bike Parking,Yes,490018
+190500,2023-10-24 23:00:25,Wheelchair Accessible,Yes,490018
+190501,2023-10-24 23:00:25,Price Range,Below Average,490018
+190502,2023-10-24 23:00:25,By Appointment Only,Yes,490018
+190735,2023-10-24 23:28:48,Parking,Street,490080
+190736,2023-10-24 23:28:48,Bike Parking,Yes,490080
+190737,2023-10-24 23:28:48,Price Range,Average,490080
+190738,2023-10-24 23:28:48,By Appointment Only,Yes,490080
+190761,2023-10-24 23:29:28,Parking,"Lot, Private",490087
+190762,2023-10-24 23:29:28,Bike Parking,Yes,490087
+190763,2023-10-24 23:29:28,Wheelchair Accessible,Yes,490087
+190764,2023-10-24 23:29:28,Price Range,Average,490087
+190765,2023-10-24 23:29:28,By Appointment Only,Yes,490087
+190833,2023-10-24 23:31:38,Parking,"Garage, Lot, Private",490100
+190834,2023-10-24 23:31:38,Wheelchair Accessible,Yes,490100
+190835,2023-10-24 23:31:38,By Appointment Only,Yes,490100
+190836,2023-10-24 23:31:38,Good for Kids,No,490100
+194907,2023-10-25 07:01:29,Parking,Street,491748
+194908,2023-10-25 07:01:29,Price Range,Above Average,491748
+194909,2023-10-25 07:01:29,By Appointment Only,Yes,491748
+195140,2023-10-25 07:31:42,Wheelchair Accessible,Yes,491914
+195141,2023-10-25 07:31:42,By Appointment Only,Yes,491914
+195529,2023-10-25 08:15:07,Specialties,"Asian Hair, Perms, Straight Perms, Curly Hair, Coloring, Kids' Hair",492114
+195530,2023-10-25 08:15:07,Parking,"Lot, Private",492114
+195531,2023-10-25 08:15:07,Wheelchair Accessible,Yes,492114
+195532,2023-10-25 08:15:07,Price Range,Average,492114
+195533,2023-10-25 08:15:07,By Appointment Only,No,492114
+196242,2023-10-25 08:57:46,Parking,"Lot, Private",492334
+196243,2023-10-25 08:57:46,Bike Parking,Yes,492334
+196244,2023-10-25 08:57:46,By Appointment Only,Yes,492334
+196245,2023-10-25 08:57:46,Services,Vein Treatments,492334
+196987,2023-10-25 09:55:29,Parking,"Lot, Private",492569
+196988,2023-10-25 09:55:29,Wheelchair Accessible,Yes,492569
+196989,2023-10-25 09:55:29,By Appointment Only,Yes,492569
+197773,2023-10-25 11:51:31,Wheelchair Accessible,Yes,493048
+197774,2023-10-25 11:51:31,Bike Parking,Yes,493048
+199084,2023-10-25 14:35:23,Parking,Free,493532
+199085,2023-10-25 14:35:23,By Appointment Only,Yes,493532
+199780,2023-10-25 17:12:57,Parking,"Lot, Private",493876
+199781,2023-10-25 17:12:57,Wheelchair Accessible,Yes,493876
+199782,2023-10-25 17:12:57,By Appointment Only,No,493876
+203276,2023-10-25 22:16:27,Parking,Lot,494715
+203981,2023-10-25 22:55:12,Parking,"On Site, Free, Private",494953
+203982,2023-10-25 22:55:12,Wheelchair Accessible,Yes,494953
+206027,2023-10-26 01:36:50,Parking,"Lot, Private",496107
+206028,2023-10-26 01:36:50,Wheelchair Accessible,Yes,496107
+206029,2023-10-26 01:36:50,Price Range,Average,496107
+206030,2023-10-26 01:36:50,By Appointment Only,Yes,496107
+207889,2023-10-26 06:25:44,Parking,"Garage, Street",500191
+207890,2023-10-26 06:25:44,Wheelchair Accessible,Yes,500191
+207891,2023-10-26 06:25:44,Price Range,Average,500191
+207892,2023-10-26 06:25:44,By Appointment Only,Yes,500191
+208021,2023-10-26 06:33:20,Parking,Free,500298
+208022,2023-10-26 06:33:20,Wheelchair Accessible,Yes,500298
+208023,2023-10-26 06:33:20,Price Range,Average,500298
+208024,2023-10-26 06:33:20,By Appointment Only,No,500298
+208025,2023-10-26 06:33:20,Bike Parking,Yes,500298
+210256,2023-10-26 11:26:35,Parking,"Street, Lot, Private",502263
+210257,2023-10-26 11:26:35,Bike Parking,Yes,502263
+210258,2023-10-26 11:26:35,Wheelchair Accessible,Yes,502263
+210259,2023-10-26 11:26:35,Price Range,Average,502263
+210260,2023-10-26 11:26:35,By Appointment Only,Yes,502263
+211394,2023-10-26 16:27:00,Parking,"Street, Lot, Private",503316
+211395,2023-10-26 16:27:00,Bike Parking,Yes,503316
+211396,2023-10-26 16:27:00,Wheelchair Accessible,Yes,503316
+211397,2023-10-26 16:27:00,Price Range,Average,503316
+211398,2023-10-26 16:27:00,By Appointment Only,No,503316
+211399,2023-10-26 16:27:00,Pets Allowed,Yes,503316
+211578,2023-10-26 17:12:41,Bike Parking,Yes,503737
+211579,2023-10-26 17:12:41,By Appointment Only,Yes,503737
+212258,2023-10-26 19:17:33,Parking,"Lot, Free",504413
+212259,2023-10-26 19:17:33,Wheelchair Accessible,Yes,504413
+214445,2023-10-26 23:46:40,Parking,"Lot, Self, On Site, Free",507732
+214446,2023-10-26 23:46:40,Wheelchair Accessible,Yes,507732
+215358,2023-10-27 02:24:49,Price Range,Average,513004
+215359,2023-10-27 02:24:49,Services,Tattoo Removal,513004
+215475,2023-10-27 02:31:56,Parking,"Lot, Free",514081
+215476,2023-10-27 02:31:56,Price Range,Average,514081
+216848,2023-10-27 06:32:33,Parking,Street,516968
+216849,2023-10-27 06:32:33,Wheelchair Accessible,Yes,516968
+216850,2023-10-27 06:32:33,Price Range,Above Average,516968
+216851,2023-10-27 06:32:33,Bike Parking,Yes,516968
+216852,2023-10-27 06:32:33,By Appointment Only,Yes,516968
+188811,2023-10-24 20:15:58,Specialties,"Extensions, Asian Hair, Curly Hair, Coloring",521197
+188812,2023-10-24 20:15:58,Parking,"Lot, Private",521197
+188813,2023-10-24 20:15:58,Bike Parking,Yes,521197
+188814,2023-10-24 20:15:58,Wheelchair Accessible,No,521197
+188815,2023-10-24 20:15:58,Price Range,Average,521197
+188816,2023-10-24 20:15:58,By Appointment Only,Yes,521197
+189776,2023-10-24 21:45:41,Price Range,Average,521624
+189777,2023-10-24 21:45:41,By Appointment Only,Yes,521624
+191747,2023-10-25 00:35:15,Parking,"Lot, Private",522577
+191748,2023-10-25 00:35:15,Wheelchair Accessible,Yes,522577
+191749,2023-10-25 00:35:15,By Appointment Only,Yes,522577
+191808,2023-10-25 00:36:50,Parking,"Lot, Private",522588
+191809,2023-10-25 00:36:50,Wheelchair Accessible,Yes,522588
+191810,2023-10-25 00:36:50,By Appointment Only,Yes,522588
+192200,2023-10-25 00:58:35,Parking,"Lot, Private",523016
+192201,2023-10-25 00:58:35,Wheelchair Accessible,Yes,523016
+192202,2023-10-25 00:58:35,By Appointment Only,Yes,523016
+192367,2023-10-25 01:20:44,Parking,"Lot, Private",523163
+192368,2023-10-25 01:20:44,Wheelchair Accessible,Yes,523163
+192369,2023-10-25 01:20:44,By Appointment Only,Yes,523163
+193225,2023-10-25 03:15:26,Wheelchair Accessible,Yes,523870
+193226,2023-10-25 03:15:26,Parking,"Paid, Lot",523870
+193460,2023-10-25 03:58:18,Parking,Lot,524196
+193509,2023-10-25 04:07:47,Parking,"Lot, Private",524222
+193510,2023-10-25 04:07:47,Wheelchair Accessible,Yes,524222
+193511,2023-10-25 04:07:47,Price Range,Average,524222
+193512,2023-10-25 04:07:47,By Appointment Only,Yes,524222
+194168,2023-10-25 06:12:45,Parking,"Lot, Private",525280
+194169,2023-10-25 06:12:45,Wheelchair Accessible,Yes,525280
+194170,2023-10-25 06:12:45,Price Range,Average,525280
+194171,2023-10-25 06:12:45,By Appointment Only,Yes,525280
+195409,2023-10-25 07:55:47,Price Range,Average,526334
+195626,2023-10-25 08:28:09,Parking,On Site,526616
+195627,2023-10-25 08:28:09,Wheelchair Accessible,Yes,526616
+195968,2023-10-25 08:48:49,Parking,"Lot, Self",526680
+195969,2023-10-25 08:48:49,Wheelchair Accessible,Yes,526680
+198339,2023-10-25 12:53:00,By Appointment Only,Yes,528937
+199610,2023-10-25 16:29:37,Parking,"Lot, Self, On Site, Free",529426
+199611,2023-10-25 16:29:37,Wheelchair Accessible,Yes,529426
+200159,2023-10-25 18:12:23,Parking,Free,529620
+200160,2023-10-25 18:12:23,Wheelchair Accessible,Yes,529620
+207246,2023-10-26 04:23:52,Wheelchair Accessible,Yes,547409
+207424,2023-10-26 05:04:41,Bike Parking,Yes,547502
+207425,2023-10-26 05:04:41,Price Range,Average,547502
+207426,2023-10-26 05:04:41,By Appointment Only,Yes,547502
+208364,2023-10-26 07:31:11,Parking,Lot,550739
+208365,2023-10-26 07:31:11,Wheelchair Accessible,Yes,550739
+209973,2023-10-26 10:52:54,Parking,"Lot, Private",554120
+209974,2023-10-26 10:52:54,By Appointment Only,Yes,554120
+213614,2023-10-26 22:21:05,Parking,"Self, On Site, Free",556055
+213615,2023-10-26 22:21:11,Parking,"Lot, Self, On Site, Free",556056
+213616,2023-10-26 22:21:11,Wheelchair Accessible,No,556056
+215409,2023-10-27 02:29:34,Price Range,Average,557075
+215410,2023-10-27 02:29:34,By Appointment Only,Yes,557075
+189844,2023-10-24 21:50:48,Parking,"Lot, Private",561773
+189845,2023-10-24 21:50:48,Wheelchair Accessible,Yes,561773
+189846,2023-10-24 21:50:48,By Appointment Only,Yes,561773
+190190,2023-10-24 22:20:19,Parking,"Lot, Private",562103
+190191,2023-10-24 22:20:19,By Appointment Only,Yes,562103
+194873,2023-10-25 07:00:10,Wheelchair Accessible,Yes,566729
+194874,2023-10-25 07:00:10,Bike Parking,Yes,566729
+196329,2023-10-25 09:02:21,Parking,"Garage, Street, Validated",567583
+196330,2023-10-25 09:02:21,Wheelchair Accessible,Yes,567583
+196331,2023-10-25 09:02:21,Price Range,Average,567583
+196332,2023-10-25 09:02:21,By Appointment Only,Yes,567583
+196690,2023-10-25 09:31:20,By Appointment Only,Yes,567680
+199657,2023-10-25 16:40:58,Specialties,"Asian Hair, Perms, Straight Perms, Curly Hair, Coloring, Kids' Hair",569024
+199658,2023-10-25 16:40:58,Wheelchair Accessible,Yes,569024
+199659,2023-10-25 16:40:58,Price Range,Average,569024
+199660,2023-10-25 16:40:58,By Appointment Only,Yes,569024
+199661,2023-10-25 16:40:58,Parking,Lot,569024
+201354,2023-10-25 19:43:11,Parking,Street,570047
+201355,2023-10-25 19:43:11,Bike Parking,Yes,570047
+202397,2023-10-25 20:43:50,Parking,Street,570282
+202398,2023-10-25 20:43:50,Wheelchair Accessible,Yes,570282
+202399,2023-10-25 20:43:50,Bike Parking,Yes,570282
+202570,2023-10-25 20:53:42,Parking,"Garage, Street, Validated, Lot, Self, Valet",570304
+202571,2023-10-25 20:53:42,Wheelchair Accessible,Yes,570304
+202572,2023-10-25 20:53:42,By Appointment Only,Yes,570304
+202711,2023-10-25 21:20:28,Parking,Street,570333
+202712,2023-10-25 21:20:28,Wheelchair Accessible,Yes,570333
+202713,2023-10-25 21:20:28,By Appointment Only,Yes,570333
+202714,2023-10-25 21:20:28,Services,"Vein Treatments, Medical Services",570333
+202715,2023-10-25 21:20:39,Parking,"Garage, Street, Valet",570334
+202716,2023-10-25 21:20:39,Bike Parking,Yes,570334
+202717,2023-10-25 21:20:39,Wheelchair Accessible,Yes,570334
+202718,2023-10-25 21:20:39,By Appointment Only,Yes,570334
+204916,2023-10-26 00:11:24,Parking,"Garage, Lot, Private",571106
+204917,2023-10-26 00:11:24,By Appointment Only,Yes,571106
+206843,2023-10-26 03:11:36,Specialties,"Extensions, Coloring",572058
+206844,2023-10-26 03:11:36,Parking,"Garage, Street, Validated",572058
+206845,2023-10-26 03:11:36,Wheelchair Accessible,Yes,572058
+206846,2023-10-26 03:11:36,Price Range,Above Average,572058
+206847,2023-10-26 03:11:36,By Appointment Only,Yes,572058
+208260,2023-10-26 07:03:24,Parking,Street,572758
+208261,2023-10-26 07:03:24,Wheelchair Accessible,Yes,572758
+208262,2023-10-26 07:03:24,By Appointment Only,Yes,572758
+210219,2023-10-26 11:18:39,Parking,"Lot, Private",573414
+210220,2023-10-26 11:18:39,Bike Parking,Yes,573414
+210221,2023-10-26 11:18:39,Wheelchair Accessible,Yes,573414
+210222,2023-10-26 11:18:39,Price Range,Average,573414
+210223,2023-10-26 11:18:39,By Appointment Only,Yes,573414
+211418,2023-10-26 16:32:45,Parking,Street,574094
+211952,2023-10-26 18:22:24,Parking,"Lot, Private",574292
+211953,2023-10-26 18:22:24,Wheelchair Accessible,Yes,574292
+211954,2023-10-26 18:22:24,Price Range,Average,574292
+211955,2023-10-26 18:22:24,By Appointment Only,Yes,574292
+212157,2023-10-26 19:09:05,Specialties,"Extensions, Asian Hair, African-American Hair, Perms, Straight Perms, Curly Hair, Coloring, Kids' Hair",574429
+212158,2023-10-26 19:09:05,Parking,"Lot, Private",574429
+212159,2023-10-26 19:09:05,Wheelchair Accessible,Yes,574429
+212160,2023-10-26 19:09:05,Price Range,Average,574429
+212161,2023-10-26 19:09:05,Bike Parking,Yes,574429
+212162,2023-10-26 19:09:05,By Appointment Only,No,574429
+212163,2023-10-26 19:09:05,Good for Kids,Yes,574429
+213375,2023-10-26 21:18:56,Parking,Lot,575711
+213376,2023-10-26 21:18:56,Price Range,Above Average,575711
+213377,2023-10-26 21:18:56,Wheelchair Accessible,Yes,575711
+213378,2023-10-26 21:18:56,Bike Parking,Yes,575711
+213379,2023-10-26 21:18:56,By Appointment Only,Yes,575711
+218153,2023-10-27 10:56:02,Parking,"Street, Self, On Site, Free",579126
+218154,2023-10-27 10:56:02,Wheelchair Accessible,Yes,579126
+218297,2023-10-27 11:15:57,Parking,Street,579213
+218298,2023-10-27 11:15:57,Bike Parking,Yes,579213
+218299,2023-10-27 11:15:57,Wheelchair Accessible,Yes,579213
+218300,2023-10-27 11:15:57,By Appointment Only,Yes,579213
+220458,2023-10-27 23:53:06,Parking,"Lot, Private",582807
+220459,2023-10-27 23:53:06,Wheelchair Accessible,No,582807
+220460,2023-10-27 23:53:06,By Appointment Only,Yes,582807
+220691,2023-10-28 00:37:26,Parking,"Street, Self, On Site, Free",582997
+220692,2023-10-28 00:37:26,Bike Parking,Yes,582997
+220693,2023-10-28 00:37:26,Wheelchair Accessible,Yes,582997
+220694,2023-10-28 00:37:26,By Appointment Only,No,582997
+220695,2023-10-28 00:37:26,Price Range,Average,582997
+221277,2023-10-28 02:07:10,Parking,Lot,583903
+221337,2023-10-28 02:24:16,Parking,"Lot, Self, On Site, Free",583967
+221338,2023-10-28 02:24:16,Wheelchair Accessible,Yes,583967
+219435,2023-10-27 19:30:25,Parking,"Lot, Self, On Site, Free",600468
+220346,2023-10-27 23:36:08,Bike Parking,Yes,601069
+220347,2023-10-27 23:36:08,Parking,"Street, Lot, Private",601069
+220348,2023-10-27 23:36:08,Wheelchair Accessible,Yes,601069
+220349,2023-10-27 23:36:08,By Appointment Only,No,601069
+220551,2023-10-28 00:18:03,Parking,Lot,601176
